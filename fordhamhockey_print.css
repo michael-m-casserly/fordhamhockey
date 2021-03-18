@@ -1,0 +1,199 @@
+#size5{font-size:"5pt"}
+#size6{font-size:"6pt"}
+#size7{font-size:"7pt"}
+#size8{font-size:"8pt"}
+#size9{font-size:"9pt"}
+#size10{font-size:"10pt"}
+#size11{font-size:"11pt"}
+#size12{font-size:"12pt"}
+#size13{font-size:"13pt"}
+#size14{font-size:"14pt"}
+#size15{font-size:"15pt"}
+#size16{font-size:"16pt"}
+#size17{font-size:"17pt"}
+#size18{font-size:"18pt"}
+#size19{font-size:"19pt"}
+#size20{font-size:"20pt"}
+
+.bodyTag{ margin-left:0; margin-top:0; margin-bottom:0; margin-right:0; background-image: url(/images/background.gif);}
+
+.pageWidth
+
+a.bottomnavlink{ text-decoration: none; color: white; font: bold 10pt "Arial"}
+
+a.bottomnavlink:link{ text-decoration: none; color: white; font: bold 10pt "Arial"}
+
+a.bottomnavlink:visited{ text-decoration: none; color: white; font: bold 10pt "Arial"}
+
+a.bottomnavlink:active{ text-decoration: none; color: white; font: bold 10pt "Arial"}
+
+a.leftnavlink{ color: #5e183e; text-align: center; font: 10pt "Arial"}
+
+a.leftnavlink:link{ color: black; text-align: center; font: 10pt "Arial"}
+
+a.leftnavlink:visited{ color: #5e183e; text-align: center; font: 10pt "Arial"}
+
+a.leftnavlink:active{ color: #5e183e; text-align: center; font: 10pt "Arial"}
+
+a.leftnavlink:hover{ color: #5e183e; text-align: center; font: bold 10pt "Arial"}
+
+a.homepagelink{ color: #5e183e; text-align: left; font: 10pt "Tahoma"}
+
+a.homepagelink:link{ color: black; text-align: left; font: 10pt "Tahoma"}
+
+a.homepagelink:visited{ color: #5e183e; text-align: left; font: 10pt "Tahoma"}
+
+a.homepagelink:active{ color: #5e183e; text-align: left; font: 10pt "Tahoma"}
+
+a.ModuleTitleLink {text-decoration: underline; text-align: left; color: white; font: bold 10pt "Tahoma"}
+
+a.ModuleTitleLink:link {text-decoration: underline; text-align: left; color: white; font: bold 10pt "Tahoma"}
+
+a.ModuleTitleLink:visited {text-decoration: underline; text-align: left; color: white; font: bold 10pt "Tahoma"}
+
+a.ModuleTitleLink:active {text-decoration: underline; text-align: left; color: white; font: bold 10pt "Tahoma"}
+
+a.PageTitleBreadCrumb {text-align:left; color: #5e183e; font: bold 10pt "Tahoma"}
+
+a.PageTitleBreadCrumb:link {text-align:left; color: black; font: bold 10pt "Tahoma"}
+
+a.PageTitleBreadCrumb:visited {text-align:left; color: #5e183e; font: bold 10pt "Tahoma"}
+
+a.PageTitleBreadCrumb:active {text-align:left; color: #5e183e; font: bold 10pt "Tahoma"}
+
+a.smalltextlink{ color: #5e183e; text-align: center; font: 8pt "Arial"}
+
+a.smalltextlink:link{ color: black; text-align: center; font: 8pt "Arial"}
+
+a.smalltextlink:visited{ color: #5e183e; text-align: center; font: 8pt "Arial"}
+
+a.smalltextlink:active{ color: #5e183e; text-align: center; font: 8pt "Arial"}
+
+a.rightnavlink:link{ color: Black; font: 8pt "Arial"; text-align: left;}
+
+a.rightnavlink:visited{ color: #5e183e; font: 8pt "Arial"; text-align : left;}
+
+a.rightnavlink:active{ color: #5e183e; font: 8pt "Arial"; text-align : left;}
+
+a.sitemapheaderlink:link{ color: Black; font: bold 12pt "Tahoma"}
+
+a.sitemapheaderlink:visited{ color: #5e183e; font: bold 12pt "Tahoma"}
+
+a.sitemapheaderlink:active{ color: #5e183e; font: bold 12pt "Tahoma"}
+
+a.sitemapsublink:link{ color: Black; font: 10pt "Tahoma"}
+
+a.sitemapsublink:visited{ color: #5e183e; font: 10pt "Tahoma"}
+
+a.sitemapsublink:active{ color: #5e183e; font: 10pt "Tahoma"}
+
+a.statsnavlink{ text-decoration: underline; color: black; font: 10pt "Verdana"}
+
+a.statsnavlink:link{ text-decoration: underline; color: black; font: 10pt "Verdana"}
+
+a.statsnavlink:visited{ text-decoration: underline; color: #5e183e; font: 10pt "Verdana"}
+
+a.statsnavlink:active{ text-decoration: none; color: #5e183e; font: bold 9pt "Verdana"}
+
+a.statsnavlink:hover{ text-decoration: none; color: #5e183e; font: bold 9pt "Verdana"}
+
+a.textlink:link{ color: Black; font: 10pt "Arial"}
+
+a.textlink:visited{ color: #5e183e; font: 10pt "Arial"}
+
+a.textlink:active{ color: #5e183e; font: 10pt "Arial"}
+
+a.topnavlink{ color: White; text-decoration: none; font: bold 10pt "Tahoma"}
+
+a.topnavlink:link{ color: White; text-decoration: none; font: bold 10pt "Tahoma"}
+
+a.topnavlink:visited{ color: White; font: bold 10pt "Tahoma"}
+
+a.topnavlink:active{ color: White; font: bold 10pt "Tahoma"}
+
+a.topnavlink:hover{ color: #FFD700; text-decoration: underline; font: bold 10pt "Tahoma"}
+
+.BoldText {text-align:left; color: #5e183e; font: bold 10pt "Arial"}
+
+div.BlackText {text-align:left; color: Black; font: 10pt "Arial"}
+
+div.FordhamHockeyNestDate {text-align:center; color: Black; font: 10pt "Arial"}
+
+div.FordhamHockeyNestIssue {text-align:right; color: Black; font: 10pt "Arial"}
+
+div.FordhamHockeyNestText {text-align:left; color: Black; font: 10pt "Arial"}
+
+div.FordhamHockeyNestTitle {text-align: center; color: black; font: bold 12pt "Tahoma"}
+
+div.FordhamHockeyNestVolume {text-align:left; color: Black; font: 10pt "Arial"}
+
+div.FooterText {text-align:center; color: Black; font: 8pt "Arial"}
+
+div.FooterTitle {text-align:center; color: #5e183e; font: bold 16pt "Tahoma"}
+
+div.ImageCredit {text-align:right; color: Black; font: 8pt "Arial"}
+
+div.ImageLabel {text-align:center; color: Black; font: 8pt "Arial"}
+
+div.ImageTitle {text-align:center; color: #5e183e; font: bold 12pt "Tahoma"}
+
+div.LeftNavText { color: #5e183e; text-align: center; font: bold 12pt "Comic Sans MS"}
+
+div.ModuleTitle {text-align: center; color: white; font: bold 10pt "Tahoma"; padding-top:5px;padding-bottom:5px;}
+
+div.NewsArticleAuthor {text-align:left; color: Black; font: 8pt "Arial"}
+
+div.NewsArticleTitle {text-align: left; color: #5e183e; font: bold 12pt "Tahoma"}
+
+.PageTitle {text-align: left; color: #5e183e; font: bold 12pt "Tahoma"}
+
+div.RightNavTitle {text-align: left; color: Black; font: 8pt "Arial"}
+
+div.RightNavHeader {text-align: center; color: Black; font: bold 10pt "Tahoma"}
+
+div.SectionHeader {text-align: left; color: #5e183e; font: bold 14pt "Tahoma"}
+
+div.ThumbTitle {text-align:center; color: #5e183e; font: bold 10pt "Tahoma"}
+
+div.TodaysDateText { color: #5e183e; font: bold 8pt "Arial"}
+
+p {text-align:left; color: Black; font: 10pt "Verdana"}
+
+span {text-align:left; color: Black; font: 10pt "Verdana"}
+
+ul {text-align:left; color: Black; font: 10pt "Verdana"}
+
+li {text-align:left; color: Black; font: 10pt "Verdana"}
+
+p.Header {text-align:center; color: Black; font: 12pt "Tahoma"}
+
+p.TableHeader {text-align:center; color: Black; font: bold 10pt "Verdana"}
+
+td {color: Black; font: 10pt "Verdana"}
+
+td.leftnavlinkselected{ color: #5e183e; text-align: center; font: bold 10pt "Arial"}
+
+td.thinborder { 
+border-bottom:.5pt solid windowtext;
+border-left:.5pt solid windowtext; 
+border-top:.5pt solid windowtext;
+border-right:.5pt solid windowtext; 
+}
+table.pageoutlineborder { 
+border-bottom:3pt solid windowtext #5e183e;
+border-left:3pt solid windowtext #5e183e; 
+border-top:3pt solid windowtext #5e183e;
+border-right:3pt solid windowtext #5e183e;
+background-color:#FFFFFF;
+width:777;
+}
+table.bannernavmenuoutlineborder { 
+border-left:4pt solid windowtext #5e183e; 
+border-right:4pt solid windowtext #5e183e;
+background-color:#FFFFFF;
+width:777;
+}
+table.footermenu
+{
+width:777;
+}

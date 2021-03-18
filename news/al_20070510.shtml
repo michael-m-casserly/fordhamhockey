@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Congrats to Jason Yasher, CBA '99</div>
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+<p>May 10, 2007 -- Congratulations are in order for Jason Yasher CBA '99. Jason and his wife Melissa celebrated the birth of their son Dylan Thomas Yasher, who was born at 2:19PM on 5/3/07!  A few pictures are attached in the link below.  Weighing in at 8 lbs, 3 ounces, and 21 inches long, there is no doubt that Dylan Thomas will one day be throwing bone-crushing hits as a defenseman for the Fordham Rams!</p>
+
+<p><a href="http://share.shutterfly.com/action/welcome?sid=0IYuGrlw5asXGQ" target="_blank">Please click here to view pictures of Dylan Thomas Yasher</a></p>
+
+
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

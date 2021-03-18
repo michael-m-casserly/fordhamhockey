@@ -1,0 +1,44 @@
+<!doctype html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40" lang="en">
+
+<head>
+
+<!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey -- Scoreboard</title>
+
+</head>
+
+<!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Scoreboard</a></div>
+
+<!--Begin Central Content-->
+
+<p><center><span style="color:red; font-weight:bold; font-style:italic;">To view the actual game start times, please check out the </span><a href="https://calendar.google.com/calendar/embed?src=l0e69iac2j9snn7m073jd9er0o@group.calendar.google.com&ctz=America/New_York&amp;color=%23616161&amp;showNav=1&amp;showDate=0&amp;title=Fordham%20Hockey%20Calendar&amp;mode=AGENDA&amp;dates=20190901%2F20200331" target="_blank">Fordham Hockey Calendar</a>.</center></p>
+
+<!--#include virtual="/schedule/current-scoreboard-include.html" -->
+
+<br/>
+<a name="HistoricalScoreboard"></a>
+<p><center>Please use the tabs inside of the Google or Excel sheets below to view the scoreboards from previous seasons, 1980 to present.</center></p>
+
+<p><center>This schedule above uses an "iframe" to display a Google Spreadsheet.<br/>If you are having trouble viewing the schedule in this window, it can also be accessed via the following links:<br/><br/>
+<a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheet/pub?key=0AlQr0QPHF4jpdDBhMm1BeGxCbDZaUkhFNDhhc19xd2c&output=html" target="_blank">Google Drive<sup>&reg;</sup> (Updated Regularly) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/schedule/Fordham Hockey Scoreboard.xlsx" target="_blank">Microsoft Excel<!--img src="/images/excel_icon_small.gif" border="0" style="width:16px; height:17px;" /--> (Updated Yearly) &raquo;</a></center></p>
+
+<p><center>This document is stored on Google Drive<sup>&reg;</sup>. In some cases, depending on your browser or firewall settings, you may experience issues trying to access it.<br/>If this happens to you, please try clearing the cache and cookies from your browser, and that should resolve the issue.</center></p>
+
+<!--Removed width="750" height="300" to make this IFRAME responsive-->
+<p><center><b>Fordham Hockey Calendar</b><br/><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; min-height:600px;" frameborder="0" scrolling="no"></iframe><br/><br/>
+<a class="btn btn-secondary" role="button" href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc. &raquo;</a></center></p>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

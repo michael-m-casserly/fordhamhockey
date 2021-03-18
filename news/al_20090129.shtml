@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Rich Libero Joins Comcast SportsNet</div>
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+<p>January 29, 2009 -- Rich Libero, FC '87, has joined Comcast SportsNet Philadelphia as Vice President of Digital Media. Libero joins CSN Philly after nearly 10 years at the National Hockey League where he built <a href="http://www.nhl.com" target="_blank">NHL.com</a> into the top hockey website in the world.</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

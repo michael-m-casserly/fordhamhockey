@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Nick Gaudiosi presents an award to NHL Hall of Famer Bernie Parent</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+<p>June 1, 2017</p>
+
+<p>Dear Fellow Alumni,</p>
+
+<p>On Wednesday, May 3rd former Fordham goalie Nick Gaudiosi presented an award to NHL Hall of Famer Bernie Parent in Philadelphia.  Attached are some pics and the flyer from the event. Pretty cool night.</p>
+
+<p>Click <a href="/alumni/2017-05-03_Event-Flyer_Gaudiosi.pdf" target="_blank">here</a> to view the Event Flyer information.</p>
+<p><center><img src="/images/alumni/2017-007_Bernie-Award.jpg" border="0" /></center></p>
+<p><center><img src="/images/alumni/2017-007_Nick-and-Bernie.jpg" border="0" /></center></p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

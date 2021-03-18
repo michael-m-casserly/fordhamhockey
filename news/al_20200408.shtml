@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Graduating Seniors - Notable Record Book Updates</div>
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+<p>April 8, 2020</p>
+
+<p>Dear Fellow Alumni,</p>
+
+<p>The Fordham Hockey All-Time Record Book has been updated...</p>
+
+<p><a href="http://www.fordhamramshockey.com/stats1/alltime.shtml">http://www.fordhamramshockey.com/stats1/alltime.shtml</a></p>
+
+<p>Notable Graduating Seniors...</p>
+
+<p>Nick Gadowski (2016-20) finishes his career at #4 on the All-Time Goals list with 113, behind Doug Winkler 1983-87 (155), Joe Donovan 1986-90 (153) and Drew D'Emic 1987-91 (117). Nick also finishes 10th on the All-Time Assists list with 83, and 6th on the All-Time Points list with 196. And my personal favorite stat, Nick finishes 3rd in All-Time Penalty Minutes with 234, behind 2 of my teammates: Mike Thorne 1993-97 (256) and Andy Montroy 1996-00 (255).</p>
+
+<p>Zach Brenner (2016-20) finishes in 1st for All-Time Game Winning Goals with 14, 10th on the All-Time Goals list with 83, 9th on the All-Time Assists list with 89, and 10th on the All-Time Points list with 172.</p>
+
+<p>Joe Rocco (2016-20) finishes 32nd in All-Time Goals with 47, 33rd on the All-Time Assists list with 51, and 30th on the All-Time Points list with 98.</p>
+
+<p>Other notable updates...</p>
+
+<p>All-Time Power Play Goals:<br/>
+Nick Gadowski - 13th (18)</p>
+
+<p>All-Time Shorthanded Goals:<br/>
+Nick Gadowski - T10th (5)<br/>
+Zach Brenner - T10th (5)</p>
+
+<p>All-Time Game Winning Goals:<br/>
+Zach Brenner - 1st (14)<br/>
+Nick Gadowski - T4th (11)<br/>
+Joe Rocco - T18th (6)<br/>
+Harry D'Agostino - T26th (5)</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

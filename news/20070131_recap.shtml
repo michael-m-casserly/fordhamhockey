@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Defeats Farmingdale, Loses to Albany State</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Jan 31, 2007 -- Recap and news...</p>
+        <p><b>vs. Farmingdale</b><br>
+          Friday night saw the "Battle of the Rams" as Fordham faced off against SUNY-Farmingdale. Fordham got on the scoreboard early with a Jim Bertorelli goal only 1:06 into the first period. Fordham would score 2 more times in the next 3 minutes to jump out to a 3-0 lead, a lead which would hold up as the "New York" Rams defeated the "Long Island" Rams by a 4-2 final. Fordham Goalie Joe Wichowski was outstanding, turning away 39 shots en route to his 9th victory of the season. This breaks the record for wins by a Senior surpassing the 8-win total of Pete Agostini which was set during the 1985-86 season. The Rams defense also played a strong game holding Farmingdale scoreless on 6 power play opportunities.</p>
+        <p><b>vs. Albany State</b><br>
+			Saturday night's game in Albany saw a rematch of last year's MCHC championship game as the Rams made their annual trek to the Albany Academy to face off against the undefeated Great Danes of Albany State. The Rams were unable to recreate the results of last year's championship game and fell short to Albany by a 6-3 margin. Clearly a more dominant team on their home ice, Albany jumped out to a 3-1 lead midway through the second period. Fordham responded with goals from Steve Barrett and Dan Ferraro to tie the game at 3-3. However that was as close as the team would get. Two Albany goals within a 50-second span put the Danes up to stay. Wichwoski again played a strong game (39 saves in 45 minutes played) but was removed from the game after a collision with an Albany forward. Unable to proceed, Sophomore Greg Siroki finished off the game in the nets.</p>
+        <p><b>Team Notes</b><br>
+			As of this writing Wichowski's condition is unknown, but he felt that he had hyper-extended his knees during the collision...In even worse news, Barrett took a slap shot off his wrist during the third period and it appears his season and career at Fordham is over with a broken wrist...The 2 teams were unable to play the continuation of the October 27 Fordham home game which was stopped because of rink problems. The MCHC ruled the game a tie...The Rams have only 3 league games left before the playoffs begin...Next weekend the team is on the road to face St. Thomas on Friday (Palisades Mall) and Hoftra on Saturday (Ice Works).</p>
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Alumni</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<!--#include virtual="/menus/bc_alumni_gallery.html" -->
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0016.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right">
+
+<!--
+
+<a class="smalltextlink" href="0018.html">Next Picture >></a>
+
+-->
+
+</td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<div class="ImageTitle">Alumni Game 2006</div><br>
+
+<center>
+
+<img src="/images/alumni/2006-017.jpg" style="max-width:500px;"><br>
+
+<center>
+
+<table>
+
+<tr>
+
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Mark Bonsanti</div></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<p><div class="ImageLabel">March 25, 2006 -- Ice Hutch, Mount Vernon, NY -- Alumni Game<br><b>From left to right:</b> Tim Michel ('87), Pete Agostini ('86), Rich Libero ('87), Mike Scott ('85), Mark Bonsanti ('85), and John Viscovich ('85)</div></p>
+
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0016.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right">
+
+<!--
+
+<a class="smalltextlink" href="0018.html">Next Picture >></a>
+
+-->
+
+</td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

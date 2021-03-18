@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+
+
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Congrats to Head Coach Jim Soropoulos</div>
+
+
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+
+
+
+
+<p>Apr 13, 2006 -- Congratulations to head coach Jim Soropoulos and his wife Amanda on the birth of their fourth child yesterday.  Christian James weighed in at 7 pounds 3 ounces.  Both mother and child are doing fine.</p>
+
+
+
+
+
+
+
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>
+
+
+
+
+
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+
+</html>

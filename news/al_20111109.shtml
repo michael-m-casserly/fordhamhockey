@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Chris Santangelo on "Pan Am"</div>
+
+<div class="NewsArticleAuthor">By Chris Santangelo / Fordham Hockey Online</div>
+
+
+
+<p>November 9, 2011 --</p>
+
+<p>Dear Friends,</p>
+
+<p>On Sunday, November 13th @ 10pm, I will be appearing in the supporting role of "Skinny Man" on the ABC series "Pan Am" (ep "Unscheduled Departure"). I hope you can tune in. If you can't make the flight ;) , the episode will be available on ABC.com.</p>
+
+<p>Best,<br/>
+Chris Santangelo<br/>
+<a href="http://www.chrissantangelo.com" target="_blank">http://www.chrissantangelo.com</a></p>
+
+<p>Please see related news:<br/>
+-<a href="/news/al_20091118.shtml">Chris Santangelo on "Sherri"</a><br/>
+-<a href="/news/al_20091108.shtml">Chris Santangelo on "Law &amp; Order: SVU"</a></p>
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

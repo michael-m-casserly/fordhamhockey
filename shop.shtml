@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Shop</title>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Shop</a></div>
+
+<p>Coming soon! Shop for Fordham Hockey Apparel.</p> 
+<p>Please excuse our appearance.  This section of the site is currently under construction.</p>
+<center>
+
+</center>
+
+<!-- Search Google -->
+<!--#include virtual="/searchbox.html" -->
+<!-- Search Google -->
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" --><!--End Bottom Navigation Menu-->
+</body>
+</html>

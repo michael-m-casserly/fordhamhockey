@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">MCHC All-Star Game (Jan. 14)</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Jan 8, 2007 -- The Fordham University hockey team placed 4 players on this year's M.C.H.C. All-Star roster.</p>
+		<p>The game, which will be played on Sunday January 14 @ 2:00 pm at the Long Island Skating Academy (also known as Ice Works) in Syosset, Long Island, features teams from the MCHC North Conference facing off against team from the South Conference.</p>
+		<p>Two of the Rams -- Senior Left Wing Steve Barrett (8-7-15) and Junior Defensemen Mike Connolly (2-1-3) -- make their first ever appearance in all-star competition while Junior Center Matt Pangia (13-6-19) and Senior Goalie Joe Wichowski (7-3-0  3.47 goals against average, 89.5 save percentage) both make their third appearance in this league sponsored All-Star game.</p>
+
+		<p><b>All-Star Game Details:</b></p>
+
+		<p>Iceworks<br/>
+			175 Underhill Ave<br/>
+		 	Syosset, Long Island 11791</p>
+
+		<p>Throggs Neck Bridge to Cross Island Parkway South to Long Island Expressway.</p>
+
+		<p>Long Island Expressway to Exit 40E (Jericho Turnpike/RT25 East).</p>
+
+		<p>Merge onto Jericho Turnpike-RT25 East via the RT25 exit 40E.</p>
+
+		<p>Go 3 miles to Underhill Blvd.</p>
+
+		<p>Make left on Underhill and go 1 mile rink will be on your right.</p>
+
+		<p>The rink is approximately 30 miles / 43 minutes from the Ice Hutch.</p>
+
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

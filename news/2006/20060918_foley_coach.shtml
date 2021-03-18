@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Chip Foley Named New Head Coach</div>
+
+
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+
+
+<p>Sep 18, 2006 -- This past Thursday, the Fordham University Hockey program named Chip Foley as their new head coach.</p>
+
+<p>A former alumni from the class of 1996, Foley was selected to replace the coaching tandem of Jim Soropoulos and Mike Zeppieri, who led the Rams to their first ever MCHC championship last season.</p>
+
+<p>Chip played for the Rams from 1992 through 1996 and led the team in scoring three out of his four years as a starter. He is one of only 3 players in team history to amass over 100 goals and over 100 assists.</p>
+
+<p>After his career at Fordham he was a walk on player for Division One's Fairfield University as a graduate student.</p>
+
+<p>His coaching resume includes stints at North Quincy HS in Massachusetts and more recently at Don Bosco Prep in Ramsey, New Jersey.</p>
+
+<p>He has also worked as an instructor at various instructional camps based out of Sportorama (Monsey, NY), as well serving as Head Instructor for the Hockey Plus Camp (Hingham, MA) and the West Point Camp (West Point, NY).</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Captures Their 4th MCHC Championship</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+<p>Feb 18, 2018 -- In a close MCHC final, the Rams captured their 4th MCHC championship with a 4-1 victory over Ramapo College. With the game tied 1-1 after two periods, Fordham scored three times over a three minute thirty second span starting at the 8:31 mark of the final period.</p>
+
+<p>The win almost completes the best season in team history. The team currently has an overall record of 24-3-0-1 , marking the most wins ever by the program.</p>
+
+<p>But the season is far from over.</p>
+
+<p>Fordham finished with a #6 ranking in the Atlantic region by the American Collegiate Hockey Association, the governing body of club hockey in America.</p>
+
+<p>The team will play in the ACHA regional tournament next Friday vs. CAL University of PA in Aston, Pennslvania with the possibility of qualifying for the National tournament just 2 more wins in Aston.</p>
+
+<p>No matter what happens the rest of the way, it has been a historic season for the team.</p>
+ 
+<p>Congratulations to the Fordham University Hockey program, your 2017-2018 MCHC Champions!</p>
+
+<p><center><a class="leftnavlink" href="https://youtu.be/sowFYFVk8Tc" target="_blank"><b>View Championship Game Highlight Video</b></a></center></p>
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Chris Santangelo on "Sherri"</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+<p>November 18, 2009 --<br/>"<i>Sherri</i>" the new Sherri Sheppard sit-com<br/>
+<b>Lifetime Channel</b><br/>
+The episode is called "<i>Game Changer</i>" and it aired Tuesday, November 17th @ 10:00pm.</p>
+
+
+<!--p>You can view the episode online at <a href="http://www.mylifetime.com/sherri" target="_blank">www.mylifetime.com/sherri</a>.</p-->
+
+<p>Please see related news...<a href="/news/al_20091108.shtml">Chris Santangelo on "Law &amp; Order: SVU"</a>
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Photo Gallery</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumni/index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumni/gallery.shtml">Photo Gallery</a></div>
+
+<center><div class="ImageTitle">Fordham vs. College of NJ (Jan 27, 2006)</div></center>
+<br>
+<center>
+<table width="100%" cellspacing="2" cellpadding="2">
+<tr>
+<td align="center" class="ThumbTitle">Click the photos to view the entire gallery (61 photos)</td>
+</tr>
+<tr>
+<td><a href="javascript:popup_custom_scroll('gallery20060127','http://www.flickr.com/photos/mcasserly/sets/72157600647967416/',790,540)"><img src="/images/champs/2006-01-27_06_thumb.jpg" alt="Fordham vs. College of NJ" border="0" style="width:192px; height:130px;"><img src="/images/champs/2006-01-27_02_thumb.jpg" alt="Fordham vs. College of NJ" border="0" style="width:192px; height:130px;"><img src="/images/champs/2006-01-27_03_thumb.jpg" alt="Fordham vs. College of NJ" border="0" style="width:192px; height:130px;"><br>
+
+<img src="/images/champs/2006-01-27_04_thumb.jpg" alt="Fordham vs. College of NJ" border="0" style="width:192px; height:130px;"><img src="/images/champs/2006-01-27_05_thumb.jpg" alt="Fordham vs. College of NJ" border="0" style="width:192px; height:130px;"><img src="/images/champs/2006-01-27_01_thumb.jpg" alt="Fordham vs. College of NJ" border="0" style="width:192px; height:130px;"></a></td>
+</tr>
+<tr>
+<td align="right" class="ImageCredit">All photos courtesy of Stephanie Pangia (Matt's mother)</td>
+</tr>
+</table>
+</center>
+<br>
+<br>
+<!--#include virtual="/menus/subnav_gallery.html" -->
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

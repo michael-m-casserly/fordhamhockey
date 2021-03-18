@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">CALLING ON ALL ALUMNI FOR HELP</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Sep 5, 2007 -- MCHC Referee In Chief Gerry Donnelly's wife Jane is in Stony Brook University Hospital fighting for her life with a rare blood disorder known as TTP, just a couple of weeks after having a heart attack and undergoing quintuple by-pass surgery. To fight this blood disorder she needs to have a blood cleansing procedure called plasma pheresis every day until they are able to get her blood numbers back to normal. This treatment requires 11 units of blood to do, and she needs this done every day or she will die. Obviously this will require a huge supply of blood, so a donation account in her name has been created at the blood bank in Stony Brook.</p>
+		<p>If any alumni could call the blood bank at 631-444-2634 and make an appointment to donate for Jane Donnelly it would be greatly appreciated. It doesn't matter what blood type you are, if you're a match your blood will go right to her, if not they will use your plasma or trade with the Red Cross blood bank for a pint that matches, so either way you will be helping to save a life.</p>
+		<p>Gerry has been the MCHC Referee in Chief for close to a decade, and when he wasn't reffing a game he has also competed in the MCHC as a player with the John Jay and St. Francis programs of the late 1970's. Whether you have played against him, or more likely, had him officiate one of your games he is truly one of the nicer people involved with the league and it would mean a great deal if we could help him.</p>
+<!--
+        <p><b>Team Notes</b><br>
+			As of this writing Wichowski's condition is unknown, but he felt that he had hyper-extended his knees during the collision...In even worse news, Barrett took a slap shot off his wrist during the third period and it appears his season and career at Fordham is over with a broken wrist...The 2 teams were unable to play the continuation of the October 27 Fordham home game which was stopped because of rink problems. The MCHC ruled the game a tie...The Rams have only 3 league games left before the playoffs begin...Next weekend the team is on the road to face St. Thomas on Friday (Palisades Mall) and Hoftra on Saturday (Ice Works).</p>
+			-->
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

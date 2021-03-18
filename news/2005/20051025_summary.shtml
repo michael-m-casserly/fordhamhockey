@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+<div class="NewsArticleTitle">Fordham Hockey Has A Mixed Bag Weekend</div>
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+<p>Oct 25, 2005 -- People say that streaks are made to be broken. This past weekend saw the Rams end two of them, one good and one bad.</p>
+
+<p>This past Friday night, Fordham faced off against the Southern Connecticut State University Owls, a team they have not played since the 1992-93 season. Southern Connecticut was a member of the MCHC for a number of years before upgrading their program to play in the Super East Hockey Conference. In more recent years the team has played an independent club schedule.  The Owls had previously dominated the Rams in their prior match ups holding a 3-11-3 record since the 1980-81 season. In fact Fordham had not beaten the Owls since a 6-5 home victory back on February 3, 1990. The 2005-2006 version of the Fordham team clearly did not look back to the past, but to the future as they soundly defeated the Owls by a 10-0 verdict. Leading the offense was Junior John Satchulski who netted his first career hat trick while seven other Rams put in one goal each. In the nets, Junior Joe Wichowski shopped all 17 shots he saw in route to his third career shutout.</p>
+
+<p>Saturday night saw another streak end, but not a good one. Less than 10 days ago Fordham and Columbia battled to a tight 4-1 game and with that victory the Rams extended their consecutive game winning streak over the Lions to seven in row. That winning streak was snapped on Saturday, as a stifling Columbia trap defense frustrated Fordham limiting the Rams to a late third period goal and a 2-1 loss. Despite the Rams out shooting their opponent by more than a 2-1 ratio (53 to 25), Columbia goalie Chris Lum played an outstanding game between the pipes. After a scoreless first period, Columbia went on top 1-0 with a Charley Poole goal five minutes into the second period. The Lions would score again 3 minutes later as a Rick Pilsner shot on Fordham's net was inadvertently deflected by Fordham Captain Derek Kennedy, changing direction on the puck as it bounced past Wichowski.</p>
+
+<p>Team notes:  Fordham now holds a 29-4-0 record against Columbia since 1980-81 season...Fordham hosts league games this week...Wednesday sees St. Thomas Aquinas (3-0) visit the Ice Hutch in a battle for first place in the MCHC Central Division...Friday night the Rams play host to Briarcliffe (0-1)...The Rams are now 3-1 in league play, 4-1 overall.</p>
+
+<div style="text-align:center; font:10pt Verdana;">
+<b>Upcoming games:</b>
+<p>Wednesday 10/26  St. Thomas - Home Ice Hutch - Mount Vernon, NY 9:00 pm<br>
+Friday 10/28  Briarcliffe - Home   Ice Hutch - Mount Vernon, NY  10:15 pm
+</p>
+</div>
+</div>
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Search</title>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Search</a></div>
+
+<p>Search Fordham Hockey, Powered by Google!</p> 
+
+<p>Use this search engine to find pages and content within fordhamramshockey.com.</p>
+
+<p><b>Please note:</b> This search engine is powered by Google, and can be used to find content within fordhamramshockey.com by searching for a player name (first and/or last) or any other search term.  Upon entering a search term, you will be brought to a customized google.com page; You may return to fordhamramshockey.com by a) clicking on one of the search results, or b) clicking on the "Fordham Hockey" banner at the top of the page.</p>
+
+<!-- Search Google -->
+
+<!--#include virtual="/searchbox.html" -->
+
+<!-- Search Google -->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+
+
+</html>

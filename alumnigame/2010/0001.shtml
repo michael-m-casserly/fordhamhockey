@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Alumni</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<!--#include virtual="/menus/bc_alumni_gallery.html" -->
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><img src="/images/spacer.gif" height="15" width="240" style="width:240px; height:15px;"></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<!--td width="240" align="right"><a class="smalltextlink" href="0002.html">Next Picture >></a></td-->
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<div class="ImageTitle">Alumni Game 2010</div><br>
+
+<img src="/images/alumni/2010-001.jpg" style="max-width:500px;" alt="Alumni Game 2010"><br>
+<div align="right" class="ImageCredit" style="padding-right:60px;">Photo courtesy of: Mike Scott</div>
+
+</center>
+
+<p><div class="ImageLabel">April 17, 2010 -- Ice Hutch, Mount Vernon, NY -- Alumni Game<br/>Left to right: Rich Libero '87, Mike Scott '85, Pete Agostini '86, Jim Soropoulous '87, Tom Mortati '88</div></p>
+
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><img src="/images/spacer.gif" height="15" width="240" style="width:240px; height:15px;"></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<!--td width="240" align="right"><a class="smalltextlink" href="0002.html">Next Picture >></a></td-->
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

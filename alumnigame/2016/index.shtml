@@ -1,0 +1,648 @@
+<!doctype html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40" lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Alumni</title>
+    
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 14">
+
+<style id="AlumniGame_25097_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl6325097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6425097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6525097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6625097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6725097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6825097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6925097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7025097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7125097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7225097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7325097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7425097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7525097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7625097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7725097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7825097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+-->
+</style>
+
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumni/index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;Alumni Game</a></div>
+
+
+<div id="contentstart">
+
+<p>Please click <a href="/alumnigame/previous.shtml" class="textlink">here</a> to view details from previous Alumni Games.</p>
+
+<p>
+
+<span id="pf_details">
+
+<div class="PageTitle">ALUMNI GAME 2016!!!</div>
+</span>
+<p><span><br>
+  
+  <span class="BoldText">Date: </span><span>Saturday, April 23rd</span><br>
+  
+  <span class="BoldText">Time: </span><span>3:40 PM</span><br>
+  
+  <span class="BoldText">Place: </span><span>Ice Hutch, Mount Vernon, NY </span></span><a class="textlink" href="/fordhamhockey/rinks-icehutch.shtml">Directions</a></p>
+<p>Final Rosters</p>
+
+<center>
+<table border="1" cellspacing="0" cellpadding="0" width="327">
+  <tbody>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">#</p></td>
+      <td width="159" nowrap="" valign="bottom"><p><strong>WHITE</strong></p></td>
+      <td width="103" nowrap="" valign="bottom"><p align="center">Class of</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">2</p></td>
+      <td width="159" valign="bottom"><p align="center">John Timoni</p></td>
+      <td width="103" valign="bottom"><p align="center">2013</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">3</p></td>
+      <td width="159" valign="bottom"><p align="center">Conor O'Brien</p></td>
+      <td width="103" valign="bottom"><p align="center">2010</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">4</p></td>
+      <td width="159" valign="bottom"><p align="center">Eddie Beach</p></td>
+      <td width="103" valign="bottom"><p align="center">1976</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">5</p></td>
+      <td width="159" valign="bottom"><p align="center">Bill Riley</p></td>
+      <td width="103" valign="bottom"><p align="center">1976</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">6</p></td>
+      <td width="159" valign="bottom"><p align="center">John Manley</p></td>
+      <td width="103" valign="bottom"><p align="center">2013</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">7</p></td>
+      <td width="159" valign="bottom"><p align="center">Mike Kavanagh</p></td>
+      <td width="103" valign="bottom"><p align="center">1977</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">9</p></td>
+      <td width="159" valign="bottom"><p align="center">Nick Gaudiosi</p></td>
+      <td width="103" valign="bottom"><p align="center">1978</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">10</p></td>
+      <td width="159" valign="bottom"><p align="center">Matt Hogan</p></td>
+      <td width="103" valign="bottom"><p align="center">2005</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">11</p></td>
+      <td width="159" valign="bottom"><p align="center">Colin Downey</p></td>
+      <td width="103" valign="bottom"><p align="center">2006</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">12</p></td>
+      <td width="159" valign="bottom"><p align="center">Kenny Labarca</p></td>
+      <td width="103" valign="bottom"><p align="center">1985</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">13</p></td>
+      <td width="159" valign="bottom"><p align="center">Jim Bender</p></td>
+      <td width="103" valign="bottom"><p align="center">2013</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">15</p></td>
+      <td width="159" valign="bottom"><p align="center">Mark Narby</p></td>
+      <td width="103" valign="bottom"><p align="center">1986</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">17</p></td>
+      <td width="159" valign="bottom"><p align="center">John Fox</p></td>
+      <td width="103" valign="bottom"><p align="center">2014</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">18</p></td>
+      <td width="159" valign="bottom"><p align="center">Doug Winkler</p></td>
+      <td width="103" valign="bottom"><p align="center">1987</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">19</p></td>
+      <td width="159" valign="bottom"><p align="center">Derek Kennedy</p></td>
+      <td width="103" valign="bottom"><p align="center">2006</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">20</p></td>
+      <td width="159" nowrap="" valign="bottom"><p align="center">Jamie Babcock</p></td>
+      <td width="103" valign="bottom"><p align="center">2006</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">21</p></td>
+      <td width="159" valign="bottom"><p align="center">Jim Soropoulos</p></td>
+      <td width="103" valign="bottom"><p align="center">1987</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">22</p></td>
+      <td width="159" valign="bottom"><p align="center">Kristian Krober</p></td>
+      <td width="103" valign="bottom"><p align="center">2011</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">23</p></td>
+      <td width="159" valign="bottom"><p align="center">Tim Mullowney</p></td>
+      <td width="103" valign="bottom"><p align="center">2005</p></td>
+    </tr>
+    <tr>
+      <td width="61" nowrap="" valign="bottom"><p align="center">33</p></td>
+      <td width="159" valign="bottom"><p align="center">Pete Agostini</p></td>
+      <td width="103" valign="bottom"><p align="center">1986</p></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br/><br/>
+<center>
+<table border="1" cellspacing="0" cellpadding="0" width="327">
+          <tbody>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">#</p></td>
+              <td width="160" nowrap="" valign="bottom"><p align="center"><strong>MAROON</strong></p></td>
+              <td width="105" nowrap="" valign="bottom"><p align="center">Class of</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">2</p></td>
+              <td width="160" valign="bottom"><p align="center">Kevin McCormack</p></td>
+              <td width="105" valign="bottom"><p align="center">2015</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">3</p></td>
+              <td width="160" valign="bottom"><p align="center">Bob Afanasewicz</p></td>
+              <td width="105" valign="bottom"><p align="center">1992</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">5</p></td>
+              <td width="160" valign="bottom"><p align="center">Chris Crotty</p></td>
+              <td width="105" valign="bottom"><p align="center">1990</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">6</p></td>
+              <td width="160" valign="bottom"><p align="center">Chris Schnell</p></td>
+              <td width="105" valign="bottom"><p align="center">1991</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">7</p></td>
+              <td width="160" valign="bottom"><p align="center">Pete Menza</p></td>
+              <td width="105" valign="bottom"><p align="center">1979</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">8</p></td>
+              <td width="160" valign="bottom"><p align="center">Steve Maloney</p></td>
+              <td width="105" valign="bottom"><p align="center">1979</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">9</p></td>
+              <td width="160" valign="bottom"><p align="center">Andy Montroy</p></td>
+              <td width="105" valign="bottom"><p align="center">2000</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">10</p></td>
+              <td width="160" valign="bottom"><p align="center">Nick Bianco</p></td>
+              <td width="105" valign="bottom"><p align="center">1982</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">11</p></td>
+              <td width="160" valign="bottom"><p align="center">Pat Porzio</p></td>
+              <td width="105" valign="bottom"><p align="center">1982</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">13</p></td>
+              <td width="160" valign="bottom"><p align="center">Zach Olah</p></td>
+              <td width="105" valign="bottom"><p align="center">2015</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">14</p></td>
+              <td width="160" valign="bottom"><p align="center">Billy Lane</p></td>
+              <td width="105" valign="bottom"><p align="center">2015</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">16</p></td>
+              <td width="160" valign="bottom"><p align="center">Rich Podpirka</p></td>
+              <td width="105" valign="bottom"><p align="center">2016</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">19</p></td>
+              <td width="160" valign="bottom"><p align="center">James Reilly</p></td>
+              <td width="105" valign="bottom"><p align="center">2009</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">20</p></td>
+              <td width="160" valign="bottom"><p align="center">Steve Casey</p></td>
+              <td width="105" valign="bottom"><p align="center">2007</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">23</p></td>
+              <td width="160" valign="bottom"><p align="center">Dave Improta</p></td>
+              <td width="105" valign="bottom"><p align="center">2007</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">33</p></td>
+              <td width="160" valign="bottom"><p align="center">Joe Livorno</p></td>
+              <td width="105" valign="bottom">Westchester Dragons</td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom">&nbsp;</td>
+              <td width="160" nowrap="" valign="bottom"><p align="center"><b>DNP:</b></p></td>
+              <td width="105" valign="bottom">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">12</p></td>
+              <td width="160" valign="bottom"><p align="center">Steve Pecchia</p></td>
+              <td width="105" valign="bottom"><p align="center">1993</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">21</p></td>
+              <td width="160" valign="bottom"><p align="center">Mike Casserly</p></td>
+              <td width="105" valign="bottom"><p align="center">1999</p></td>
+            </tr>
+            <tr>
+              <td width="61" nowrap="" valign="bottom"><p align="center">22</p></td>
+              <td width="160" valign="bottom"><p align="center">Mike McGuigan</p></td>
+              <td width="105" valign="bottom"><p align="center">1999</p></td>
+            </tr>
+          </tbody>
+        </table>
+</center>
+<br/><br/>
+<table>
+	<tr>
+    	<td width="50">&nbsp;</td>
+    	<td>
+<p><b>SCORING</b></p>
+<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958608" tabindex="0">13:46</span>&nbsp;&nbsp; MAROON&nbsp;&nbsp;&nbsp; McCormack &ndash; Podpirka</p>
+<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958609" tabindex="0">10:07</span>&nbsp;&nbsp; MAROON&nbsp;&nbsp;&nbsp; Casey unassisted</p>
+<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958610" tabindex="0">8:39</span>&nbsp;&nbsp;&nbsp; WHITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kennedy &ndash; Mullowney, Babcock</p>
+<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958611" tabindex="0">5:45</span>&nbsp;&nbsp;&nbsp;&nbsp;MAROON&nbsp;&nbsp;&nbsp;&nbsp;Casey unassisted</p>
+<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958612" tabindex="0">5:41</span>&nbsp;&nbsp;&nbsp;&nbsp;WHITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mullowney unassisted&nbsp;</p>
+<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958613" tabindex="0">1:38</span>&nbsp;&nbsp;&nbsp; WHITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Krober - Fox</p>
+<p>&nbsp;</p>
+<p>2&nbsp;&nbsp;<span data-term="goog_1564958614" tabindex="0">11:38</span>&nbsp;&nbsp;&nbsp; WHITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Krober &ndash; Fox</p>
+<p>2&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958615" tabindex="0">7:29</span>&nbsp;&nbsp;&nbsp;&nbsp; WHITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fox &ndash; Kavanagh, Downey</p>
+<p>2&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958616" tabindex="0">3:53</span>&nbsp;&nbsp;&nbsp;&nbsp; MAROON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Casey unassisted</p>
+<p>2&nbsp;&nbsp;&nbsp;<span data-term="goog_1564958617" tabindex="0">1:08</span>&nbsp;&nbsp;&nbsp;&nbsp; WHITE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O&rsquo;Brien &ndash; Krober</p>
+<p>&nbsp;</p>
+<p>3&nbsp;&nbsp;<span data-term="goog_1564958618" tabindex="0">10:58</span>&nbsp;&nbsp; MAROON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lane &ndash; Olah</p>
+<p>3&nbsp;&nbsp;<span data-term="goog_1564958619" tabindex="0">6:18</span>&nbsp;&nbsp; &nbsp;&nbsp;WHITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Timoni unassisted</p>
+<p>3&nbsp;&nbsp;<span data-term="goog_1564958620" tabindex="0">5:58</span>&nbsp;&nbsp;&nbsp;&nbsp; MAROON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Casey - Reilly</p>
+<p>&nbsp;</p>
+<p><b>PENALTIES</b>:</p>
+<p>2&nbsp;&nbsp;<span data-term="goog_1564958621" tabindex="0">9:09</span>&nbsp;&nbsp; MAROON&nbsp;&nbsp; Improta (Interference)</p>
+<p><b>PENALTY SHOT:</b></p>
+<p>MAROON # 20 Casey stopped by # 33 Agostini&nbsp;</p>
+<p><b>SHOTS:</b></p>
+<p>WHITE&nbsp;&nbsp;&nbsp; 14-17-10&ndash; 41</p>
+<p>MAROON 16-17-11 - 44</p>
+<p><b>GOALIE STATS:</b></p>
+<p>WHITE</p>
+<p>Agostini&nbsp;&nbsp;&nbsp; Min played 45:00&nbsp;&nbsp;&nbsp;&nbsp; 38 saves &ndash; 44 shots&nbsp; 6 GA</p>
+<p>MAROON&nbsp;</p>
+<p>Livorno&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Min played 44:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 34 saves -41 shots&nbsp; 7 GA</p>
+<p><b>SCORING STATS:</b></p>
+<p>WHITE</p>
+<p>Krober&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 g&nbsp; -1 a - 3 pts.</p>
+<p>Fox&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 g&nbsp; -2 a - 3 pts</p>
+<p>Mullowney&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 g &ndash; 1 a&nbsp; - 2 pts</p>
+<p>Timoni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 g &ndash; 0 a&nbsp; - 1 pt.</p>
+<p>O&rsquo;Brien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 g &ndash; 0 a&nbsp; - 1&nbsp; pt.</p>
+<p>Kavanagh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 g &ndash; 1 a &ndash; 1 pt.</p>
+<p>Downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 g&nbsp; - 1 a&nbsp;&nbsp; - 1 pt.</p>
+<p>Kennedy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 g &ndash; 0 a&nbsp; -&nbsp; 1 pt.</p>
+<p>Babcock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 g &ndash; 1 a &ndash; 1 pt.</p>
+<p>MAROON</p>
+<p>Casey &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 g - 0 a&nbsp; - 4 pts.</p>
+<p>McCormack &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 g - 0 a -&nbsp; 1 pt.</p>
+<p>Olah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 g - 1 a&nbsp; - 1 pt.</p>
+<p>Lane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1 g - 0 a&nbsp; - 1 pt.</p>
+<p>Podpirka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 g - 1 a -&nbsp; 1 pt.</p>
+<p>Reilly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 g - 1 a -&nbsp; 1 pt.</p>
+		</td>
+      </tr>
+</table>
+  
+</p>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" --><!--End Bottom Navigation Menu-->
+
+</html>

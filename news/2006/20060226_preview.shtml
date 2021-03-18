@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Fordham Advances to MCHC Championship</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+<p>Feb 26, 2006 -- Fordham defeated Hofstra by a 8-5 final in last night's semi-final.</p>
+
+<p>For the first time in team history they will advance to the championship game!</p>
+
+<p>They will face Albany State in the finals Sunday, Feb 26 at the Rinx in Hauppauge Long Island.</p>
+
+<p>Albany defeated Fairfield by a 8-0 score.</p>
+
+<p><b>Game time 3:15pm</b></p>
+
+<p>Fordham and Albany State have only met once and the Rams lost 5-1 earlier this semester.</p>
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+
+
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+
+
+</html>

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Military Appreciation Day</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+<p>October 23, 2017</p>
+
+<p>Dear Fellow Alumni,</p>
+
+<p>Please see below some pictures from our "Military Appreciation Day", Sunday, October 15th. Columbia participated in this event with us prior to our game.</p>
+<p><center><img src="../images/alumni/2017-10-15_military-night_photo1.jpg" border="0"/></center></p>
+<p><div class="ImageLabel">October 15, 2017 -- Mount Vernon, NY -- Mike Gamby (captain), Capt. Josh Apsey, Columbia player Capt. Bobby Moon</div></p>
+
+<p><center><img src="../images/alumni/2017-10-15_military-night_photo2.jpg" border="0"/></center></p>
+<div align="right" class="ImageCredit">Photos courtesy of: Joshua Apsey</div>
+<p><div class="ImageLabel">October 15, 2017 -- Mount Vernon, NY -- Players, Coaches, Staff<br/>from Fordham and Columbia University hockey teams, and White Plains Mites.</div></p>
+
+</center>
+
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

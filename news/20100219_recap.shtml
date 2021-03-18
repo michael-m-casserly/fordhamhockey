@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Hockey Advances to MCHC Finals</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+<p>Feb 19, 2010 -- Recap and news...</p>
+
+<p>MCHC Semi final results</p>
+
+<p><b>FORDHAM 7</b></p>
+
+<p><b>SUFFOLK 0</b></p>
+
+<p>Fordham will play the winner of Saturday night's semi-final game (Columbia vs. St Thomas) on <b>Sunday afternoon February 21 at 1:30 at Rye Playland</b> for the MCHC Championship.</p>
+
+<p>Admission is free.</p>
+
+<p><a href="http://www.methockey.com" target="_blank">www.methockey.com</a> - Should be posting the results as well</p>
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

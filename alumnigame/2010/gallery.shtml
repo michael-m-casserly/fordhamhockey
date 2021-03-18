@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Alumni</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumni/index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumnigame/2006/index.shtml">Alumni Game</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Photo Gallery</a></div>
+
+<div class="BoldText">Click Photos to Enlarge...</div>
+
+<br>
+
+<center><div class="ImageTitle">Alumni Game 2006 Photo Gallery</div></center>
+<center>
+
+<table width="100%" cellspacing="2" cellpadding="2">
+<tr>
+<td colspan="3" align="right" valign="bottom" bgcolor="white"><a class="smalltextlink" href="../2006/gallery02.shtml">More Pictures (Next Page) >></a></td>
+</tr>
+<tr>
+<td><a href="../2006/0001.shtml"><img src="/images/alumni/thumbs/2006-001.jpg" alt="Alumni Game 2006" border="0"></a></td>
+<td><a href="../2006/0002.shtml"><img src="/images/alumni/thumbs/2006-002.jpg" alt="Alumni Game 2006" border="0"></a></td>
+<td><a href="../2006/0003.shtml"><img src="/images/alumni/thumbs/2006-003.jpg" alt="Alumni Game 2006" border="0"></a></td>
+</tr>
+
+<tr>
+<td colspan="3" align="center" class="ThumbTitle">&nbsp;</td>
+</tr>
+
+<tr>
+<td><a href="../2006/0004.shtml"><img src="/images/alumni/thumbs/2006-004.jpg" alt="Alumni Game 2006" border="0"></a></td>
+<td><a href="../2006/0005.shtml"><img src="/images/alumni/thumbs/2006-005.jpg" alt="Alumni Game 2006" border="0"></a></td>
+<td><a href="../2006/0006.shtml"><img src="/images/alumni/thumbs/2006-006.jpg" alt="Alumni Game 2006" border="0"></a></td>
+</tr>
+
+<tr>
+<td colspan="3" align="right" valign="bottom" bgcolor="white"><a class="smalltextlink" href="../2006/gallery02.shtml">More Pictures (Next Page) >></a></td>
+</tr>
+
+</table>
+
+</center>
+
+<br>
+
+<br>
+
+<div class="BoldText">Click Photos to Enlarge...</div>
+
+<br>
+
+<p>Please click <a class="textlink" href="../2006/index.shtml">here</a> for more Alumni Game 2006 details.</p>
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

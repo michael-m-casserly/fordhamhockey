@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Contact Us</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="contact.shtml">Contact Us</a></div>
+
+<p><div class="ImageTitle">Thank You for Contacting Us</div></p>
+
+<p>Your request is currently being processed.</p>
+
+<p>Fordham Hockey appreciates your feedback and support.</p>
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" --><!--End Bottom Navigation Menu-->
+</html>

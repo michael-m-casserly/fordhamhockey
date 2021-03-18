@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+<div class="NewsArticleTitle">Fordham Hockey Keeps Rolling</div>
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+<p>Oct 17, 2005 -- This past Wednesday night, the Rams faced off with MCHC Central Division rival Columbia in a classic defensive struggle with Fordham coming away with a hard fought 4-1 win. Columbia, coached by former NHL and Russian Red Army defenseman Alexei Kasatonov, played a hard checking game, but the Rams were up to the task. After a scoreless first period, Fordham opened up the scoring with goals midway through the second period as junior Dave Improta and a power play goal from sophomore Matt Pangia put the Rams up by a 2-0 mark. Pangia and junior transfer Stephen Barrett would score in the third period to put the game out of reach. Meanwhile, goalie Joe Wichowski kept the Lions at bay , turning away 31 of 32 shots, allowing a late Columbia score with only 1 minute left in the game.</p>
+
+<p>On Saturday, the team headed to Bridgeport Connecticut's Wonderland of Ice for an afternoon match up with Fairfield. Another hard fought game saw Fordham come away with an impressive 5-2 win against a team that the squad had never beaten. The game featured a lot of penalty minutes by both teams as the Rams grinded and grinded to work for all their goals. Junior Steve Casey opened up the scoring with a goal late in the first period, while sophomore Jorge Rocha got his first goal of the year with less than a minute remaining. By game's end, Rocha - a Villanova transfer - would score two more times to get the hat trick. Defensively the team was absolutely stellar, standing up the Stags who only last season mercy-ruled Fordham at this same rink. In the nets, again Wichowski showed why he is one of the premier MCHC goalies by turning away an astounding 48 shots on goal.</p>
+
+<p>Team notes: 
+<ul>
+<li>Both Fordham and Fairfield went a combined 2-18 on power play attempts.</li>
+<li>Despite winning its first two league games, the Rams have been out-shot in both contests.</li>
+<li>The Rams renew their rivalry with Southern Connecticut State this weekend - the two teams have not played each other since a 10-0 mercy rule victory by the Owls during the 1992-1993 season.</li>
+<li>Fordham has a record of 2-11-3 versus Southern Connecticut since the 1980-81 season.</li>
+<li>Southern Connecticut captured two league championships during the 1983-84 and 1990-91 seasons.</li>
+<li>Saturday night, the Rams once again face off against Columbia for the final time this season when they visit the Lions' new home rink in Hackensack, New Jersey.</li>
+<li>The past three years both Fordham and Columbia had been skating their home games out of the Ice Hutch.</li>
+</ul>
+</p>
+<div style="text-align:center; font:10pt Verdana;">
+<b>Upcoming games:</b>
+<p>Friday 10/21 Southern Connecticut State - Home Ice Hutch - Mt Vernon, NY 10:15pm<br>
+Saturday, 10/22 Columbia - Away Ice House - Hackensack, NJ 6:45pm</p>
+</div>
+</div>
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

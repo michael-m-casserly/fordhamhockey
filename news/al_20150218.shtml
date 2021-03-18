@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Alumni Goalie Looking to Play in NYC / NJ Area</div>
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+<p>February 18, 2015 --</p>
+
+<p>Dear Fellow Alumni,</p>
+
+<p>Goalie Dan Jenney (Class of 2005) recently moved to New Jersey and is interested in playing on a team in the area. If anyone is playing at Chelsea Piers or anywhere nearby and you are looking for a goalie, please contact Dan directly at <a href="mailto:dangoal33@aol.com">dangoal33@aol.com</a></p>
+
+<p>Thanks,<br/>
+Mike Casserly, Class of 1999</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

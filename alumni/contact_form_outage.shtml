@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Contact Us</title>
+    
+<script>
+<!-- Begin
+function checkrequired(which) {
+var pass=true;
+if (document.images) {
+for (i=0;i<which.length;i++) {
+var tempobj=which.elements[i];
+if (tempobj.name.substring(0,8)=="required") {
+if (((tempobj.type=="text"||tempobj.type=="textarea")&&
+tempobj.value=='')||(tempobj.type.toString().charAt(0)=="s"&&
+tempobj.selectedIndex==0)) {
+pass=false;
+break;
+         }
+      }
+   }
+}
+if (!pass) {
+shortFieldName=tempobj.name.substring(8,30).toUpperCase();
+alert("Please make sure to fill in the required "+shortFieldName+" field.");
+return false;
+}
+else
+return true;
+}
+//  End -->
+</script>
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;Contact Us</a></div>
+
+<p><center><b>This form temporarily unavailable.<br/>Please check back again later. We apologize for any inconvenience</b></center></p>
+
+
+<div class="BoldText">Also Contact Fordham Hockey via...</div>
+
+<table width="100%">
+<tr>
+	<td width="33%" align="right" valign="top"><b>General Manager:</b></td>
+	<td width="1%">&nbsp;</td>
+	<td width="66%" align="left" valign="top">Andrew Mola, Class of '86</td>
+</tr>
+<tr>
+	<td align="right" valign="top">Phone:</td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top">212-538-8074 (work)</td>
+</tr>
+<!--
+<tr>
+	<td align="right" valign="top">Email:</td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top"><a href="mailto:andrew.mola@csfb.com" class="textlink">andrew.mola@csfb.com</a></td>
+</tr>
+<tr>
+	<td align="right" valign="top">Alternate Email:</td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top"><a href="mailto:fordhamhockey@verizon.net" class="textlink">fordhamhockey@verizon.net</a></td>
+</tr>
+-->
+<tr>
+	<td align="right" valign="top"></td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top"></td>
+</tr>
+<tr>
+	<td align="right" valign="top"><b>Technical (Webmaster):</b></td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top">Michael Casserly, Class of '99</td>
+</tr>
+<tr>
+	<td align="right" valign="top">Email:</td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top"><a href="mailto:mcasserly@fordhamramshockey.com" class="textlink">mcasserly@fordhamramshockey.com</a></td>
+</tr>
+<tr>
+	<td align="right" valign="top"></td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top"></td>
+</tr>
+<tr>
+	<td align="right" valign="top"><b>Home Page:</b></td>
+	<td>&nbsp;</td>
+	<td align="left" valign="top"><a href="http://www.fordhamramshockey.com" class="textlink">http://www.fordhamramshockey.com</a></td>
+</tr>
+</table>
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" --><!--End Bottom Navigation Menu-->
+
+</html>

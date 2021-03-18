@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Photo Gallery</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<!--#include virtual="/menus/bc_photo_gallery.html" -->
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0025.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0027.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<div class="ImageTitle">2004-05 Fordham Rams</div>
+<br>
+
+
+<img src="/images/gallery/gallery0026.jpg" style="max-width:500px;" alt="2004-05 Fordham Hockey Team Picture Mugz"><br>
+
+
+<table>
+
+<tr>
+
+<td align="right" width="500"><div align="right" class="ImageCredit"><!--Photo courtesy of: Rich Siemion--></div></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<p><div class="ImageLabel">Fall 2004 -- Bronx, NY -- 2004-05 Team Picture</div></p>
+<div class="ImageLabel"><b>From left to right:</b> (<i>Kneeling</i>) Dan Jenney, Rich Siemion, Ian O'Reilly, Mike Masefield, John Stachulski, Mike Daw;<br/>(<i>Standing</i>) Mike Mahoney, Geoff Rixon, Mike Hearon, Jim Bertorelli, Tom Scagnelli, John Rutter, Matt Hogan, Joe Wichowski, Derek Kennedy, Dave Improta, Steve Casey, Mike Connelly, Matt Pangia, Dan Callaghan</div>
+</p>
+
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0025.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0027.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

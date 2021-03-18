@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Stats</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/stats1/index.shtml">Stats</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Previous Seasons</a></div>
+
+
+<div class="ImageTitle">Stats for Previous Seasons</div>
+<p><center>
+<a class="btn btn-secondary" role="button" href="/stats1/2019/Stats.xls">2018-19 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2018/Stats.xls">2017-18 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2017/Stats.xls">2016-17 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2016/Stats.xls">2015-16 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2015/Stats.xls">2014-15 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2014/Stats.xls">2013-14 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2013/Stats.xls">2012-13 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2012/Stats.xls">2011-12 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2011/Stats.xls">2010-11 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2010/Stats.xls">2009-10 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2009/Stats.xls">2008-09 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2008/Stats.xls">2007-08 Stats (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2007/index.shtml">2006-07 Stats &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2006/index.shtml">2005-06 Stats &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/2005/index.shtml">2004-05 Stats &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/alltime.shtml">All-Time Record Book &raquo;</a>
+</center>
+</p>      
+<!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

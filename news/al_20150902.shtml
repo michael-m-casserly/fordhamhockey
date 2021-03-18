@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Looking for Defensemen to Play in MHL / Long Island, Fall 2015 Season</div>
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+<p>September 2, 2015</p>
+
+<p>Dear Fellow Alumni,</p>
+
+<p>If anyone is looking to skate this Fall, my team is looking for defensemen who are interested in playing in the <a href="http://islandicehockey.com/index.php/schedule/" target="_blank">Midnight Hockey League</a> in Long Island. It's a 12 game season that starts around Sept. 23rd, with 1 game a week, mostly all Wednesdays. Games are played in different locations throughout Long Island. Our team will play primarily out of Freeport, Cantiague, Syosset, and Bethpage, with an occasional game at Parkwood (Great Neck) or Iceland (New Hyde Park). Games would typically start some time between 10 to 11PM.</p>
+
+<p>Anyone who is interested in playing, please email Mike Casserly at <a href="mailto:mcasserly@fordhamramshockey.com">mcasserly@fordhamramshockey.com</a> We're currently looking for 2-3 defensemen to fill out our roster.</p>
+
+<p>Thanks,<br/>
+Mike Casserly, Class of 1999</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

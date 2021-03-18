@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Fordham Alumni Capture Men's League Title</div>
+
+<div class="NewsArticleAuthor">By Fordham Hockey Online</div>
+
+
+
+<p><table border="0"><tr><td><img src="/images/fu_slap_it_around.JPG" border="0"/></td><td>July 24, 2011 -- The Manhattan-based Fordham Hockey Alumni team, "Slap it Around" wins Chelsea Piers Men's League Championship in their first year of league play. Led by 2008 Fordham University captain, Matthew Pangia, Slap it Around placed first in the spring league regular season with an impressive 14-3 record. The team went on to sweep the 3-game championship series with two straight victories against regular season favorites Dirty Jerz. Slap it Around faced Dirty Jerz four times this season with a perfect record, outscoring their opponents an aggregate of 24-8.</td></tr>
+<tr><td colspan="2"><br/><p>The high-powered offense was propelled by past FU leaders '11 alum Kristian Krober, '07 alum Dave Improta and the class of '08's Matthew Pangia. The near blue was guarded by a trio of FU MCHC prior champions, '07 John Rutter, '08 John Michael Connolly and '10 Conor O' Brien. Between the pipes Fordham Hockey veteran goaltender, '08 Dan "Skittles" Callaghan, shined with the leagues lowest goals against average and least over all goals scored throughout the course of a season. Congrats to the team for a great season and for keeping the FU Hockey spirit alive.</p>
+
+<p><b>FU: Slap it Around plans to form a team again in the fall, all interested in playing / sponsoring the team should contact Matthew Pangia via email:</b> <a href="mailto:matthew.pangia@gmail.com">matthew.pangia@gmail.com</a></p>
+<!--center>Click <a href="http://www.chelseapiers.com/sportmgr/index.cfm?fuseaction=division.home&division_id=1362" target="_blank">here</a> to view the League Standings and Scoreboard</center--></td></tr></table>
+<center>
+<table border="0">
+<tr><td align="center"><br/>
+<img src="/images/fu_slap_it_around_photo2_500.jpg" border="0"/><br/>
+<img src="/images/fu_slap_it_around_photo1_500.jpg" border="0"/><br/>
+<div class="ImageCredit">Photos Courtesy of Matt Pangia</div>
+<div class="ImageLabel">Enjoying the fruits of their labor...<br/> (<i>Bottom Row -- Sitting left to right:</i>) Dan Callaghan (2008), Kristian Krober (2011) , Mike Connelly (2008)<br/>
+(<i>Top Row -- Standing left to right:</i>) John Rutter (2007), Conor O'Brien (2010), Matt Pangia (2008),<br/>Tom Scagnelli (2007), Dave Improta (2007)</div><br/><img src="/images/fu_slap_it_around_photo3_500.jpg" border="0"/></td></tr>
+</table>
+</center>
+</div>
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

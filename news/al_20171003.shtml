@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Fordham Alumni is in Need of Our Help</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+<p>October 3, 2017</p>
+
+<p>Dear Fellow Alumni,</p>
+
+<p>Former Ram John Quigg (Class of 2013) was in a recent diving accident were he suffered paralysis.</p>
+ 
+<p>The former Chaminade HS graduate and East Williston Long Island native was one of the most colorful players I have ever run across during my 34 years with the team.</p>
+ 
+<p>I am asking the Fordham Hockey community to reach out and do whatever they can to support John and his family.</p>
+
+<p><a href="http://LeagueAthletics.com/News.asp?org=ALBERTSONSOCCER.COM#708275" target="_blank">http://LeagueAthletics.com/News.asp?org=ALBERTSONSOCCER.COM#708275</a></p>
+
+<p><center><a href="http://LeagueAthletics.com/News.asp?org=ALBERTSONSOCCER.COM#708275" target="_blank"><img src="../images/alumni/2017-11-02_John-Quigg-Flyer.jpg" border="0" /></a></center>
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

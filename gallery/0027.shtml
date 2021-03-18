@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Photo Gallery</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<!--#include virtual="/menus/bc_photo_gallery.html" -->
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0026.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0028.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<div class="ImageTitle">Mike Hearon, Class of 2007</div>
+<br>
+
+
+<img src="/images/gallery/gallery0027.jpg" style="max-width:225px;" alt="Mike Hearon, Class of 2007"><br>
+
+
+<!--table>
+
+<tr>
+
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Mike Hearon></div></td>
+
+</tr>
+
+</table-->
+
+</center>
+
+<p><div class="ImageLabel">October 2009 -- Mike Hearon, Class of 2007, finished up flight school and has been designated as a Naval Helicopter Pilot.<br/>Mike has received his wings and was selected to fly the MH-60S Knighthawk.<br/>He will be headed to San Diego, CA for 7 months to learn how to fly that helicopter, and then will move to Guam for a 3 year tour.</div></p>
+
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0026.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0028.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

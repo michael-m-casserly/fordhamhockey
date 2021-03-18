@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+
+
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Book by John Kreiser (FC '76) Hits Bookstores</div>
+
+<div class="NewsArticleAuthor">Alumni News / Fordham Hockey Online</div></p>
+
+<p>Dec 4, 2006 -- <i>The Game of My Life</i>, NHL historian (and fellow Fordham grad) John Halligan and John Kreiser (FC '76) have put together an oral history of the Rangers, centered on talking to players about famous games in their careers. We have everyone from Frank Boucher (yes, he's long dead, but John Halligan knew him for years before he died) and Clint Smith (one of two living members of the 1940 Cup team) to the Messier-Leetch-Matteau etc. group in 1994. Also have Wayne Gretzky's   first-person account of his final game and Jagr on breaking the team scoring records. 24 players in all, more than half are in or headed for Hall of Fame.</p>
+
+<p><a class="textlink" target="_blank" href="http://www.sportspublishingllc.com/book.cfm?id=875">http://www.sportspublishingllc.com/book.cfm?id=875</a></p>
+
+<center><a target="_blank" href="http://www.sportspublishingllc.com/book.cfm?id=875"><img src="/images/kreiser_book.jpg" border="0"></a></center>
+
+<p>It's published by Sports Publishing Inc (<a class="textlink" target="_blank" href="http://www.sportspublishingllc.com">www.sportspublishingllc.com</a>) and is available through SPI as well as the usual suspects (Borders, Barnes &amp; Noble, Amazon.com, etc.).</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>

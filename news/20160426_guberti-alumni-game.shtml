@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Coach Rich Guberti Honored for 100th Win</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+<p>Apr 26, 2016 -- At this year's Annual Alumni Game Fordham Head Coach Rich Guberti was recognized for his recent achievement of winning his 100th career game as coach of the team. Guberti, who achieved this milestone in Fordham's 8-1 victory versus Kings Point on February 6th, is Fordham's all-time leader in wins and winning percentage. During his tenure, he has coached the team to four 1st place finishes, two Metropolitan Collegiate Hockey Conference Championships, and three consecutive appearances in the league Finals.  The awards shown in the photo are from both the team and USA Hockey and were presented to Coach Guberti from the two Captains from his two championship teams. On the left in John Fox (Class of 2014) and on the right is Conor O'Brien (Class of 2010).</p>
+
+<p><center><img src="/images/alumni/2016-001.jpg" border="0" width="500" height="375"/></center></p>
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

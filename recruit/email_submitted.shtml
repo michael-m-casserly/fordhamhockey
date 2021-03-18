@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Recruiting Form</title>
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/recruit/index.shtml">Recruit</a><a class="PageTitleBreadCrumb"></a></div>
+
+<p><div class="ImageTitle">Thank You for submitting a recruiting form.</div></p>
+
+<p>Your information is currently being processed, and will be reviewed by our coaching and recruiting staff.</p>
+
+<p><img src="/images/fordham-by-the-numbers-2018_618px.jpg" border="0" /></p>
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" --><!--End Bottom Navigation Menu-->
+</html>

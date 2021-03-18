@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<form url="pickup_order.php"
+ window="_self"
+ method="POST"
+ fontname="MS Sans Serif"
+ width="350"
+ height="350"
+ bkcolor="0xFFFFFF"
+ outlinecolor="0xFFFFFF"
+ fontcolor="0x000000"
+ themecolor="0xFFFF99"
+ fontcolor2="#000000"
+ bkcolor2="#FFFFFF"
+ includeresults="false"
+ emailuser="false"
+ reqmessage="One or More Fields are Required"
+ autoresponse="">
+
+<hidden
+ name="thankyoupage"
+ value="http://www.fordhamramshockey.com/shop/confirm_pickup.html"
+></hidden>
+
+<hidden
+ name="mailto"
+ value="shop@fordhamramshockey.com"
+></hidden>
+
+<hidden
+ name="subject"
+ value="Pick Up Order--Fordham Hockey Shop"
+></hidden>
+
+<label
+ name="My Text 1"
+ x="68"
+ y="6"
+ w="72"
+ h="16"
+ text="First Name:"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<textinput
+ name="firstName"
+ x="148"
+ y="4"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0xFFFFFF"
+  fontname="Arial"
+  fontcolor="0x000000"
+ required="true"
+>
+</textinput>
+
+<submitbutton
+ name="Submit Button 1"
+ x="136"
+ y="140"
+ w="196"
+ h="27"
+ label="Submit Pickup Order Request"
+ fontname="Arial"
+ fontcolor="0x000000"
+  fontsize="12"
+></submitbutton>
+
+<textinput
+ name="lastName"
+ x="148"
+ y="36"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0xFFFFFF"
+  fontname="Arial"
+  fontcolor="0x000000"
+ required="true"
+>
+</textinput>
+
+<label
+ name="My Text 2"
+ x="68"
+ y="34"
+ w="71"
+ h="16"
+ text="Last Name:"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 3"
+ x="96"
+ y="66"
+ w="41"
+ h="16"
+ text="Email:"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<textinput
+ name="emailAddress"
+ x="148"
+ y="64"
+ w="175"
+ h="22"
+ initvalue=""
+ bkcolor="0xFFFFFF"
+  fontname="Arial"
+  fontcolor="0x000000"
+ required="true"
+ emailbox="true"
+>
+</textinput>
+
+<label
+ name="My Text 4"
+ x="28"
+ y="98"
+ w="101"
+ h="16"
+ text="Pickup Location:"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<combobox
+ name="pickupLocation"
+ x="148"
+ y="96"
+ bkcolor="0xFFFFFF"
+ fontcolor="0x000000"
+ w="151"
+ h="20">
+  <item name="Select One..."></item>
+  <item name="NYC (25th Street and Park Ave)"></item>
+  <item name="Mount Vernon, NY"></item>
+</combobox>
+
+</form>

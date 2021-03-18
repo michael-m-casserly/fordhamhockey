@@ -1,0 +1,495 @@
+<!doctype html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+
+xmlns="http://www.w3.org/TR/REC-html40" lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Stats</title>
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+
+<style id="PublishedStatsYearEnd_5083_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl225083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl235083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl245083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl255083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl265083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl275083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl285083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl295083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:auto none;
+	white-space:nowrap;}
+.xl305083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl315083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl325083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:auto none;
+	white-space:nowrap;}
+.xl335083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:auto none;
+	white-space:nowrap;}
+.xl345083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl355083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl365083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl375083
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+-->
+</style>
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_stats_previous.html" -->
+<!--#include virtual="/menus/subnav_stats_previous.html" -->
+
+<div id="contentstart">
+
+
+
+<p>
+<div class="ImageTitle">2005-06 Power Play Stats</div>
+
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Publish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="PublishedStatsYearEnd_5083" align=center x:publishsource="Excel">
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=235 style='border-collapse:
+ collapse;table-layout:fixed;width:177pt'>
+ <col class=xl235083 width=78 style='mso-width-source:userset;mso-width-alt:
+ 2852;width:59pt'>
+ <col class=xl225083 width=23 style='mso-width-source:userset;mso-width-alt:
+ 841;width:17pt'>
+ <col class=xl225083 width=14 style='mso-width-source:userset;mso-width-alt:
+ 512;width:11pt'>
+ <col class=xl225083 width=31 style='mso-width-source:userset;mso-width-alt:
+ 1133;width:23pt'>
+ <col class=xl285083 width=89 style='mso-width-source:userset;mso-width-alt:
+ 3254;width:67pt'>
+ <tr height=33 style='mso-height-source:userset;height:24.75pt'>
+  <td colspan=5 height=33 class=xl365083 width=235 style='height:24.75pt;
+  width:177pt' x:str="'TOTAL LEAGUE &amp; NON-LEAGUE (Combined)">TOTAL LEAGUE
+  &amp; NON-LEAGUE (Combined)</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl245083 width=78 style='height:12.75pt;border-top:none;
+  width:59pt'>FORDHAM</td>
+  <td class=xl255083 width=23 style='border-top:none;width:17pt' x:num>26</td>
+  <td class=xl255083 width=14 style='border-top:none;width:11pt'>-</td>
+  <td class=xl255083 width=31 style='border-top:none;width:23pt' x:num>109</td>
+  <td class=xl305083 width=89 style='border-top:none;width:67pt'
+  x:num="0.23853211009174313" x:fmla="=(B2/D2)">24%</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl265083 width=78 style='height:12.75pt;width:59pt'>OPPONENT</td>
+  <td class=xl275083 width=23 style='width:17pt' x:num>10</td>
+  <td class=xl275083 width=14 style='width:11pt'>-</td>
+  <td class=xl275083 width=31 style='width:23pt' x:num>123</td>
+  <td class=xl315083 width=89 style='width:67pt' x:num="8.1300813008130079E-2"
+  x:fmla="=(B3/D3)">8%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl325083 style='height:12.75pt'>&nbsp;</td>
+  <td class=xl295083>&nbsp;</td>
+  <td class=xl295083>&nbsp;</td>
+  <td class=xl295083>&nbsp;</td>
+  <td class=xl335083>&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td colspan=5 height=17 class=xl345083 width=235 style='height:12.75pt;
+  width:177pt' x:str="'TOTAL LEAGUE">TOTAL LEAGUE</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl245083 width=78 style='height:12.75pt;width:59pt'>FORDHAM</td>
+  <td class=xl255083 width=23 style='width:17pt' x:num>17</td>
+  <td class=xl255083 width=14 style='width:11pt'>-</td>
+  <td class=xl255083 width=31 style='width:23pt' x:num>75</td>
+  <td class=xl305083 width=89 style='width:67pt' x:num="0.22666666666666666"
+  x:fmla="=(B6/D6)">23%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl265083 width=78 style='height:12.75pt;width:59pt'>OPPONENT</td>
+  <td class=xl275083 width=23 style='width:17pt' x:num>7</td>
+  <td class=xl275083 width=14 style='width:11pt'>-</td>
+  <td class=xl275083 width=31 style='width:23pt' x:num>84</td>
+  <td class=xl315083 width=89 style='width:67pt' x:num="8.3333333333333329E-2"
+  x:fmla="=(B7/D7)">8%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl325083 style='height:12.75pt'>&nbsp;</td>
+  <td class=xl295083>&nbsp;</td>
+  <td class=xl295083>&nbsp;</td>
+  <td class=xl295083>&nbsp;</td>
+  <td class=xl335083>&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td colspan=5 height=17 class=xl345083 width=235 style='height:12.75pt;
+  width:177pt' x:str="'TOTAL NON-LEAGUE/PLAYOFFS">TOTAL NON-LEAGUE/PLAYOFFS</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl245083 width=78 style='height:12.75pt;width:59pt'>FORDHAM</td>
+  <td class=xl255083 width=23 style='width:17pt' x:num>9</td>
+  <td class=xl255083 width=14 style='width:11pt'>-</td>
+  <td class=xl255083 width=31 style='width:23pt' x:num>34</td>
+  <td class=xl305083 width=89 style='width:67pt' x:num="0.26470588235294118"
+  x:fmla="=(B10/D10)">26%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl265083 width=78 style='height:12.75pt;width:59pt'>OPPONENT</td>
+  <td class=xl275083 width=23 style='width:17pt' x:num>3</td>
+  <td class=xl275083 width=14 style='width:11pt'>-</td>
+  <td class=xl275083 width=31 style='width:23pt' x:num>39</td>
+  <td class=xl315083 width=89 style='width:67pt' x:num="7.6923076923076927E-2"
+  x:fmla="=(B11/D11)">8%</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=78 style='width:59pt'></td>
+  <td width=23 style='width:17pt'></td>
+  <td width=14 style='width:11pt'></td>
+  <td width=31 style='width:23pt'></td>
+  <td width=89 style='width:67pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+
+</p>
+
+</div>
+
+<!--Begin Stats navigation menu-->
+
+<!--#include virtual="/menus/subnav_stats_previous.html" -->
+
+<!--End Stats navigation menu-->
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>

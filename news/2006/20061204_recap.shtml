@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Loses to College of St. Rose; Break until January 16th</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Dec 4, 2006 -- Recap and news...</p>
+        <p><b>vs. College of St. Rose</b><br>
+          Last Friday night, Fordham ended the fall semester of their 2006-07 schedule on a down note, losing to the Knights of St. Rose by a 7-6 score. The game was a back and forth battle with four lead changes throughout the game.  The Knights took advantage of weaker Fordham defensive pairing to score their first 3 goals and, despite a shorter bench than the Rams, played with a greater sense of urgency. "We skated like we were in quicksand" Head Coach Chip Foley said after the game. "I was afraid the break over Thanksgiving would hurt us, and it did." After trading lead changes for the first two periods, Fordham had to play catch up during the third period to keep the game tied. St. Rose jumped ahead with 3:48 left in the game and the Rams were forced to pull Goalie Joe Wichowski with less than a minute left. St. Rose scored into an empty net with 28 seconds left to put the game out of reach. The Rams would score a meaningless goal with 3 seconds left to fall 1 goal short. The loss to the Knights marked the first time Fordham has ever lost to St. Rose. Based out of Albany, St. Rose has come a long way in a short period of time. Formed only 3 years ago, the Knights have seemed to emerge as a major spoiler in the MCHC.</p>
+        <p><b>Team Notes</b><br>
+Fordham now breaks for Christmas vacation and will not hit the ice until January 16...The Rams face a tough schedule when they come back from the break as 3 out of their 6 opponents are nationally ranked in the ACHA Top 10 (Albany State #1, Hofstra #6, and Fairfield #9)...With his second goal of the game Junior Matt Pangia passed the 100 point total for his career. His 103 points are the 15th most in team history...Fordham has not lost back to back MCHC contests in over two years...The team has a record of 7-2 in league play and 9-4 overall...All the team's losses this year have been by only 1 goal...The team is still waiting to try and continue their suspended home game against Albany State. The game, which was played back on October 27, saw Fordham leading 2-1 going into the third period when the hinges came off the Zamboni doors at the team's home rink, the Ice Hutch. The only possible date the game can be continued in Saturday February 3rd, since Albany State has no other league games in the New York metro area. The team is awaiting word from the rink to see if 1 hour of ice can be scheduled. If the game is not played, the MCHC has determined that the game will be a no contest.</p>
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

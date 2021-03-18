@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Rinks</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="index.shtml">Fordham Hockey</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="rinks.shtml">Rinks</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;Ice Hutch</a></div>
+
+<div id="contentstart">
+
+<p><div class="ImageTitle">Ice Hutch--Mount Vernon, NY</div></p>
+<p><div class="BoldText">Street Address:</div>655 Garden Ave.<br>
+Mount Vernon, NY 10550</p>
+<p><center><img src="/images/ice_hutch_map.gif" border="0" alt="Map to Ice Hutch"></center></p>
+<p><div class="BoldText">Phone Number:</div> 914-699-6787</p>
+<p><div class="BoldText">Directions to the Ice Hutch Rink:</div>
+<table><tr><td></td><td>
+<p><b>By Bus or car from the George Washington Bridge</b><br>
+After crossing the George Washington bridge stay on I 95 North. Proceed to Exit 15, US Route 1, New Rochelle and the Pelhams. At the end of the exit ramp, at the stop light, turn left on Route 1 S. At 3rd traffic light turn right on Pelhamdale Ave. Go to the 2nd light on Pelhamdale and make a left on Colonial Ave. Go two lights (you will pass the High School on the right and after the first light you will go under a parkway). Once you go under the parkway the street changes its name to East Sandford Blvd. Go 3 lights to South Columbus Avenue and make left a light (Phillips 66 station will be on your right). Go 1/10th of a mile and another make left. There is no street sign but there will be a Redicut Carpet on the corner. The ICE HUTCH will be right in front of you. Parking is on the right.</p>
+
+<p><b>By Bus or car From the Tappan Zee Bridge</b><br>
+After crossing the T.Z. Bridge take EXIT 8(I 287 E this is the 2nd exit after crossing the bridge). Stay on 287 E to I 95 S to NYC. Stay on I 95 S to EXIT 15. At the end of the exit ramp turn right on Route 1 S. At 3rd traffic light turn right on Pelhamdale Ave. Go to the 2nd light on Pelhamdale and make a left on Colonial Ave. Go two lights (you will pass the High School on the right and after the first light you will go under a parkway). Once you go under the parkway the street changes its name to East Sandford Blvd. Go 3 lights to South Columbus Avenue and make left a light (Phillips 66 station will be on your right). Go 1/10th of a mile and another make left. There is no street sign but there will be a Redicut Carpet on the corner. The ICE HUTCH will be right in front of you. Parking is on the right.</p>
+
+<p><b>By Car From the George Washington Bridge</b><br>
+Exit G. W. Bridge at Henry Hudson Parkway North or Riverside Dr North. Proceed on henry Hudson North through the Toll to exit at Cross County Parkway (it only goes in one direction) Exit at the Hutchinson River Parkway SOUTH (toward Whitestone and Throgs Neck Bridges) Proceed on hutchinson River Parkway South to Exit 8 (E. SANDFORD BLVD). At the end of the exit ramp make a left at the light onto East Sandford Blvd. Go 2 lights to South Columbus Avenue and make left a light (Phillips 66 station will be on your right). Go 1/10th of a mile and another make left. There is no street sign but there will be a Redicut Carpet on the corner. The ICE HUTCH will be right in front of you. Parking is on the right.</p>
+
+<p><b>By Car from Long Island (via Throgs Neck Bridge)</b><br>
+After T.N. Bridge, bear right. Take the I-295/THROGS NECK BR (Exit 33), towards BRONX/NEW ENGLAND. Take THROGS NECK EXWY towards BRUCKNER EXPWY(I-95 N)/NEW ENGLAND. THROGS NECK EXWY becomes I-95 N. Take the HUTCHINSON PKWY NORTH (Exit 9). Take to Exit 9 WOLFS LANE. Turn RIGHT at light onto WOLFS LANE. Make another quick turn RIGHT onto COLONIAL AVE. COLONIAL AVE will become E SANDFORD BLVD once you go under the highway. Go 3 lights to South Columbus Avenue and make left a light (Phillips 66 station will be on your right). Go 1/10th of a mile and another make left. There is no street sign but there will be a Redicut Carpet on the corner. The ICE HUTCH will be right in front of you. Parking is on the right.</p>
+
+<p><b>By Car from Long Island (via Whitestone Bridge)</b><br>
+Take Whitestone bridge. After paying toll stay to your left, the highway will turn into the Hutchinson Parkway. Take to Exit 9 WOLFS LANE. Turn RIGHT at light onto WOLFS LANE. Make another quick turn RIGHT onto COLONIAL AVE. COLONIAL AVE will become E SANDFORD BLVD once you go under the highway. Go 3 lights to South Columbus Avenue and make left a light (Phillips 66 station will be on your right). Go 1/10th of a mile and another make left. There is no street sign but there will be a Redicut Carpet on the corner. The ICE HUTCH will be right in front of you. Parking is on the right.</p>
+</td></tr></table>
+<!--
+<p><div class="BoldText">Web Address: </div><a href="#" target="_blank" class="textlink">http://www.icehutch.com</a></p>
+-->
+</div>
+<hr align="left">
+<p><center><a class="btn btn-secondary" role="button" href="rinks.shtml">Return to Rinks Home Page &raquo;</a></center></p>
+<!--hr align="left">
+<p><div class="ImageTitle">Useful Links</div></p>
+<p><center><a class="btn btn-secondary" role="button" href="http://www.methockey.com/league/rinks.shtml" target="_blank">Directions to All Rinks &raquo;</a></center></p>
+<p><center><a class="btn btn-secondary" role="button" href="http://www.methockey.com/" target="_blank">methockey.com &raquo;</a></center></p-->
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

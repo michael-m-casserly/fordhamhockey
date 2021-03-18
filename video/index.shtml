@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey -- 2019 ACHA Nationals</title>
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Video</a></div>
+
+<p><center>
+<!--img src="/images/excel_icon_small.gif" border="0" style="width:16px; height:17px;">&nbsp;-->
+<a class="btn btn-secondary" role="button" href="/video/2020-CHF-Nationals/index.shtml">2020 CHF Nationals &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/video/2019-ACHA-Nationals/index.shtml">2019 ACHA Nationals &raquo;</a>
+</center></p>
+
+<!--End Central Content-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+
+</html>

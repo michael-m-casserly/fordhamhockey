@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Stats</title>
+
+<style type="text/css">
+.btn-secondary {
+	width:265px; 
+	}
+</style>    
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Stats</a></div>
+
+<p><center>
+<!--img src="/images/excel_icon_small.gif" border="0" style="width:16px; height:17px;">&nbsp;-->
+<a class="btn btn-secondary" role="button" href="/stats1/Stats.xls" target="_blank">Current Season Statistics (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/previous.shtml">Stats for Previous Seasons &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button"href="/stats1/alltime.shtml">All-Time Record Book &raquo;</a>
+</center></p>
+
+<!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>

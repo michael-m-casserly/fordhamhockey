@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">View Dean Obeidallah Sketch on ComedyCentral.com</div>
+
+
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+
+
+
+
+<p>Mar 16, 2007 -- Dean Obeidallah '86 is now producing a show for Comedy Central called <i>The Watch List</i> which is now playing on it's Internet channel ComedyCentral.com</p>
+ 
+<p>He is hoping to get it on TV and we need people to download it - it's short sketches and stand up clips even featuring Dean!</p>
+
+<!--p>Please view the sketches and show your support by clicking on the following link:</p>
+
+<p><a class="textlink" href="http://images.comedycentral.com/shows/watch_list/videos/season_1/index.jhtml" target="_blank">http://images.comedycentral.com/shows/watch_list/videos/season_1/index.jhtml</a>
+</p-->
+
+
+
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>
+
+
+
+
+
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+
+</html>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Pictures</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_team_pictures.html" -->
+
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2018FordhamHockeyTeamPictureSeniors.shtml"> << Class of 2018</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><a class="smalltextlink" href="2019FordhamHockeyTeamPictureSeniors.shtml">Class of 2019  >></a></td>
+</tr>
+</table>
+</center>
+<!--Picture Slide Show Navigation-->
+<div class="ImageTitle">2018-19 Championship Fordham Rams</div>
+<p>
+<center>
+<img src="/images/team/1600/2019FordhamHockeyTeamPicture.jpg" width="500" alt="2018-19 Fordham Hockey Team Picture">
+<table>
+<tr>
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Perry Grosser</div></td>
+</tr>
+</table>
+</center>
+</p>
+<p>
+<div class="ImageLabel">December 2018 -- Ice Hutch, Mount Vernon, NY -- 2018-19 Team Picture</div>
+</p>
+<div class="ImageLabel">
+<b>From left to right:</b>
+<i>(Standing):</i> Rich Guberti (<b>Head Coach</b>), Oliver Nasr, Turner Stansbury, Dominic Francis, Harry D'Agostino, Cary Collucci, Sean Blaney, Zach Morfogen, Patrick Strauss, Frank Taddeo, John Cernero, Maxim Denomme, Connor Burke, Mike Hatch, Alex D'Andrea, Kevin Schroeder, Joe Rocco, Matt Palmer, Dave Smith (<b>Asst. Coach</b>) Andrew Mola (<b>GM</b>)<br/>
+
+<i>(Front Row):</i> Brendan Crowley, Jack Flanagan, Nick Gadowski, Sean Johnson (<b>A</b>), Ryan Leblanc (<b>A</b>), Joe Sponenburg, Mike Gamby (<b>C</b>), Anthony DiPerri (<b>A</b>), Zach Brenner<br/>
+<i>Missing:</i> Jack Tamburro, Art Dellasalla (<b>Asst. Coach</b>)</div>
+
+<p><div class="ImageLabel"><a target="_blank" href="/images/team/800/2019FordhamHockeyTeamPicture.jpg">View Larger Image</a> (800 x 419)<img src="/images/spacer.gif" height="10" width="20" style="width:20px; height:10px;"><a target="_blank" href="/images/team/1600/2019FordhamHockeyTeamPicture.jpg">View Largest Image</a> (1600 x 838)</div></p>
+<!--Picture Slide Show Naviagtion-->
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2018FordhamHockeyTeamPictureSeniors.shtml"> << Class of 2018</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><a class="smalltextlink" href="2019FordhamHockeyTeamPictureSeniors.shtml">Class of 2019  >></a></td>
+</tr>
+</table>
+<!--Picture Slide Show Naviagtion-->
+</center>
+<!--#include virtual="/menus/subnav_gallery.html" -->
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

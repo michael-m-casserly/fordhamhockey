@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Photo Gallery</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<!--#include virtual="/menus/bc_photo_gallery.html" -->
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0024.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0026.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<div class="ImageTitle">Rich Siemion, Class of '05</div>
+<br>
+
+<center>
+
+<img src="/images/gallery/gallery0025.jpg" style="max-width:500px;" alt="Rich Siemion, Class of '05"><br>
+
+<center>
+
+<table>
+
+<tr>
+
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Rich Siemion</div></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<p><div class="ImageLabel">December 2008 -- Rich Siemion (2nd from Left) has made it through Ranger School and is now a qualified Airborne Ranger. Only 61 out of 310 Soldiers made it through!</div></p>
+
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0024.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0026.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

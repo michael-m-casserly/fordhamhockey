@@ -1,0 +1,3181 @@
+<!doctype html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+
+xmlns="http://www.w3.org/TR/REC-html40" lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Stats</title>
+    
+
+
+<style id="PublishedStatsYearEnd_17310_Styles"><!--table
+
+	{mso-displayed-decimal-separator:"\.";
+
+	mso-displayed-thousand-separator:"\,";}
+
+.xl2217310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+.xl2317310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2417310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2517310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+.xl2617310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2717310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2817310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2917310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3017310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3117310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3217310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3317310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3417310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3517310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3617310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3717310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3817310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3917310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4017310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:left;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4117310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4217310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4317310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4417310
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+--></style>
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_stats_previous.html" -->
+
+<!--#include virtual="/menus/subnav_stats_previous.html" -->
+
+
+
+<div id="contentstart">
+
+
+
+<p><div class="ImageTitle">2004-05 Offensive Stats</div>
+
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+
+<!--The following information was generated by Microsoft Office Excel's Publish
+
+as Web Page wizard.-->
+
+<!--If the same item is republished from Excel, all information between the DIV
+
+tags will be replaced.-->
+
+<!----------------------------->
+
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+
+<!----------------------------->
+
+
+
+<div id="PublishedStatsYearEnd_17310" align=center x:publishsource="Excel">
+
+
+
+<table x:str border=0 cellpadding=0 cellspacing=0  style='border-collapse:
+
+ collapse; width:100%; max-width:500px;'>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td colspan=9 height=17 class=xl4317310  style='height:12.75pt;
+
+  ' x:str="'TOTAL LEAGUE &amp; NON-LEAGUE (Combined)">TOTAL LEAGUE
+
+  &amp; NON-LEAGUE (Combined)</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4017310  style='height:12.75pt;'>PLAYER</td>
+
+  <td class=xl4117310  style=''>G</td>
+
+  <td class=xl4117310  style=''>A</td>
+
+  <td class=xl4117310  style=''>PTS</td>
+
+  <td class=xl4117310  style=''>PP</td>
+
+  <td class=xl4117310  style=''>SH</td>
+
+  <td class=xl4117310  style=''>GW</td>
+
+  <td class=xl4117310  style=''>PIM</td>
+
+  <td class=xl4217310  style=''>GP</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2617310  style='height:12.75pt;border-top:
+
+  none;'>Matt Pangia</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>27</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>22</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>49</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>5</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>3</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>4</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>4</td>
+
+  <td class=xl2817310  style='border-top:none;' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Dave
+
+  Improta</td>
+
+  <td class=xl2317310  style='' x:num>24</td>
+
+  <td class=xl2317310  style='' x:num>18</td>
+
+  <td class=xl2317310  style='' x:num>42</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num>42</td>
+
+  <td class=xl3017310  style='' x:num>24</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>John
+
+  Stachulski</td>
+
+  <td class=xl2317310  style='' x:num>21</td>
+
+  <td class=xl2317310  style='' x:num>21</td>
+
+  <td class=xl2317310  style='' x:num>42</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Rich
+
+  Siemion</td>
+
+  <td class=xl2317310  style='' x:num>12</td>
+
+  <td class=xl2317310  style='' x:num>24</td>
+
+  <td class=xl2317310  style='' x:num>36</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl3017310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Steve
+
+  Casey</td>
+
+  <td class=xl2317310  style='' x:num>16</td>
+
+  <td class=xl2317310  style='' x:num>16</td>
+
+  <td class=xl2317310  style='' x:num>32</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>42</td>
+
+  <td class=xl3017310  style='' x:num>23</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Jim
+
+  Bertorelli</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl2317310  style='' x:num>16</td>
+
+  <td class=xl2317310  style='' x:num>24</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>40</td>
+
+  <td class=xl3017310  style='' x:num>21</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Colin
+
+  Downey</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl2317310  style='' x:num>14</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>10</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Matt
+
+  Hogan</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl2317310  style='' x:num>13</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Connolly</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl2317310  style='' x:num>11</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>20</td>
+
+  <td class=xl3017310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>John
+
+  Rutter</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>7</td>
+
+  <td class=xl2317310  style='' x:num>9</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>73</td>
+
+  <td class=xl3017310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Derek
+
+  Kennedy</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>14</td>
+
+  <td class=xl3017310  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Masefield</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl2317310  style='' x:num>7</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>10</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pat
+
+  Kelley</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>21</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Tom
+
+  Scagnelli</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>23</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Ian
+
+  O'Reilly</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>24</td>
+
+  <td class=xl3017310  style='' x:num>21</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Geoff
+
+  Rixon</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>21</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Mahoney</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>4</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Daw</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>22</td>
+
+  <td class=xl3017310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pete
+
+  Puglisi</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>20</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Hearon</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>12</td>
+
+  <td class=xl3017310  style='' x:num>17</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Dan
+
+  Callaghan</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Bench</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pat
+
+  Macoy</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>22</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Joe
+
+  Wichowski</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>23</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3117310  style='height:12.75pt;'>Dan
+
+  Jenney</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3317310  style='' x:num>7</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3417310  style='height:12.75pt;border-top:
+
+  none;'>FORDHAM</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(B3:B27)">137</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(C3:C27)">174</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(D3:D27)">311</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(E3:E27)">24</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(F3:F27)">9</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(G3:G27)">16</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(H3:H27)">354</td>
+
+  <td class=xl3617310  style='border-top:none;' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3717310  style='height:12.75pt;'>OPPONENT</td>
+
+  <td class=xl3817310  style='' x:num>107</td>
+
+  <td class=xl3817310  style='' x:num>145</td>
+
+  <td class=xl3817310  style='' x:num x:fmla="=C29+B29">252</td>
+
+  <td class=xl3817310  style='' x:num>19</td>
+
+  <td class=xl3817310  style='' x:num>4</td>
+
+  <td class=xl3817310  style='' x:num>7</td>
+
+  <td class=xl3817310  style='' x:num>326</td>
+
+  <td class=xl3917310  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2417310  style='height:12.75pt;'>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td colspan=9 height=17 class=xl4317310  style='height:12.75pt;
+
+  ' x:str="'TOTAL LEAGUE">TOTAL LEAGUE</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4017310  style='height:12.75pt;'>PLAYER</td>
+
+  <td class=xl4117310  style=''>G</td>
+
+  <td class=xl4117310  style=''>A</td>
+
+  <td class=xl4117310  style=''>PTS</td>
+
+  <td class=xl4117310  style=''>PP</td>
+
+  <td class=xl4117310  style=''>SH</td>
+
+  <td class=xl4117310  style=''>GW</td>
+
+  <td class=xl4117310  style=''>PIM</td>
+
+  <td class=xl4217310  style=''>GP</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2617310  style='height:12.75pt;border-top:
+
+  none;'>Matt Pangia</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>11</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>16</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(B33:C33)">27</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>3</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>1</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>4</td>
+
+  <td class=xl2817310  style='border-top:none;' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Dave
+
+  Improta</td>
+
+  <td class=xl2317310  style='' x:num>16</td>
+
+  <td class=xl2317310  style='' x:num>11</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B34:C34)">27</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>20</td>
+
+  <td class=xl3017310  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>John
+
+  Stachulski</td>
+
+  <td class=xl2317310  style='' x:num>14</td>
+
+  <td class=xl2317310  style='' x:num>11</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B35:C35)">25</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Rich
+
+  Siemion</td>
+
+  <td class=xl2317310  style='' x:num>9</td>
+
+  <td class=xl2317310  style='' x:num>13</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B36:C36)">22</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Steve
+
+  Casey</td>
+
+  <td class=xl2317310  style='' x:num>9</td>
+
+  <td class=xl2317310  style='' x:num>14</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B37:C37)">23</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>26</td>
+
+  <td class=xl3017310  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Jim
+
+  Bertorelli</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl2317310  style='' x:num>9</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B38:C38)">14</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>26</td>
+
+  <td class=xl3017310  style='' x:num>13</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Colin
+
+  Downey</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B39:C39)">7</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>10</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Matt
+
+  Hogan</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B40:C40)">6</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Connolly</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>7</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B41:C41)">9</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>12</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>John
+
+  Rutter</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B42:C42)">2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>40</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Derek
+
+  Kennedy</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B43:C43)">4</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Masefield</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B44:C44)">2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pat
+
+  Kelley</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B45:C45)">3</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>13</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Tom
+
+  Scagnelli</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B46:C46)">4</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>14</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Ian
+
+  O'Reilly</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B47:C47)">4</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>18</td>
+
+  <td class=xl3017310  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Geoff
+
+  Rixon</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B48:C48)">3</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>13</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Mahoney</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B49:C49)">2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>2</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Daw</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B50:C50)">1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>16</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pete
+
+  Puglisi</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B51:C51)">2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>13</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Hearon</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B52:C52)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Dan
+
+  Callaghan</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B53:C53)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>5</td>
+
+  <td class=xl3017310  style='' x:num>3</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Bench</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B54:C54)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pat
+
+  Macoy</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B55:C55)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>13</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Joe
+
+  Wichowski</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B56:C56)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3117310  style='height:12.75pt;'>Dan
+
+  Jenney</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num x:fmla="=SUM(B57:C57)">0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3317310  style='' x:num>4</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3417310  style='height:12.75pt;border-top:
+
+  none;'>FORDHAM</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(B33:B57)">80</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(C33:C57)">107</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(D33:D57)">187</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(E33:E57)">15</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(F33:F57)">5</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(G33:G57)">9</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(H33:H57)">205</td>
+
+  <td class=xl3617310  style='border-top:none;' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+
+  <td height=17 class=xl3717310  style='height:12.75pt;'>OPPONENT</td>
+
+  <td class=xl3817310  style='' x:num>66</td>
+
+  <td class=xl3817310  style='' x:num>90</td>
+
+  <td class=xl3817310  style='' x:num x:fmla="=+C63+B63">22</td>
+
+  <td class=xl3817310  style='' x:num>14</td>
+
+  <td class=xl3817310  style='' x:num>4</td>
+
+  <td class=xl3817310  style='' x:num>5</td>
+
+  <td class=xl3817310  style='' x:num>222</td>
+
+  <td class=xl3917310  style='' x:num>16</td>
+
+ </tr>
+
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+
+  <td height=17 class=xl2417310  style='height:12.75pt;'>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+  <td class=xl2317310  style=''>&nbsp;</td>
+
+ </tr>
+
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+
+  <td colspan=9 height=17 class=xl4317310  style='height:12.75pt;
+
+  ' x:str="'TOTAL NON-LEAGUE">TOTAL NON-LEAGUE</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4017310  style='height:12.75pt;'>PLAYER</td>
+
+  <td class=xl4117310  style='' x:str="'  G"><span
+
+  style='mso-spacerun:yes'>&nbsp; </span>G</td>
+
+  <td class=xl4117310  style=''>A</td>
+
+  <td class=xl4117310  style=''>PTS</td>
+
+  <td class=xl4117310  style=''>PP</td>
+
+  <td class=xl4117310  style=''>SH</td>
+
+  <td class=xl4117310  style=''>GW</td>
+
+  <td class=xl4117310  style=''>PIM</td>
+
+  <td class=xl4217310  style=''>GP</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2617310  style='height:12.75pt;border-top:
+
+  none;'>Matt Pangia</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>16</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>6</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(B63:C63)">22</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>2</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>2</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>4</td>
+
+  <td class=xl2717310  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2817310  style='border-top:none;' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Dave
+
+  Improta</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl2317310  style='' x:num>7</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B64:C64)">15</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>22</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>John
+
+  Stachulski</td>
+
+  <td class=xl2317310  style='' x:num>7</td>
+
+  <td class=xl2317310  style='' x:num>10</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B65:C65)">17</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Rich
+
+  Siemion</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>11</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B66:C66)">14</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Steve
+
+  Casey</td>
+
+  <td class=xl2317310  style='' x:num>7</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B67:C67)">9</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>16</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Jim
+
+  Bertorelli</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>7</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B68:C68)">10</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>14</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Colin
+
+  Downey</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B69:C69)">7</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl3017310  style='' x:num>6</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Matt
+
+  Hogan</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>4</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B70:C70)">7</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Connolly</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B71:C71)">2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>8</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>John
+
+  Rutter</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B72:C72)">7</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>33</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Derek
+
+  Kennedy</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B73:C73)">4</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>10</td>
+
+  <td class=xl3017310  style='' x:num>6</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Masefield</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num>3</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B74:C74)">5</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pat
+
+  Kelley</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B75:C75)">2</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Tom
+
+  Scagnelli</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B76:C76)">1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Ian
+
+  O'Reilly</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B77:C77)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>6</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Geoff
+
+  Rixon</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B78:C78)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Mahoney</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B79:C79)">1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>2</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Daw</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>1</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B80:C80)">1</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pete
+
+  Puglisi</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B81:C81)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>7</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Mike
+
+  Hearon</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B82:C82)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>6</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Dan
+
+  Callaghan</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B83:C83)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>5</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Bench</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B84:C84)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Pat
+
+  Macoy</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B85:C85)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>2</td>
+
+  <td class=xl3017310  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl2917310  style='height:12.75pt;'>Joe
+
+  Wichowski</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num x:fmla="=SUM(B86:C86)">0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl2317310  style='' x:num>0</td>
+
+  <td class=xl3017310  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3117310  style='height:12.75pt;'>Dan
+
+  Jenney</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num x:fmla="=SUM(B87:C87)">0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3217310  style='' x:num>0</td>
+
+  <td class=xl3317310  style='' x:num>3</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3417310  style='height:12.75pt;border-top:
+
+  none;'>FORDHAM</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(B63:B87)">57</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(C63:C87)">67</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(D63:D87)">124</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(E63:E87)">9</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(F63:F87)">4</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(G63:G87)">7</td>
+
+  <td class=xl3517310  style='border-top:none;' x:num
+
+  x:fmla="=SUM(H63:H87)">149</td>
+
+  <td class=xl3617310  style='border-top:none;' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3717310  style='height:12.75pt;'>OPPONENT</td>
+
+  <td class=xl3817310  style='' x:num>41</td>
+
+  <td class=xl3817310  style='' x:num>55</td>
+
+  <td class=xl3817310  style='' x:num x:fmla="=+C89+B89">96</td>
+
+  <td class=xl3817310  style='' x:num>5</td>
+
+  <td class=xl3817310  style='' x:num>0</td>
+
+  <td class=xl3817310  style='' x:num>2</td>
+
+  <td class=xl3817310  style='' x:num x:fmla="=92+12">104</td>
+
+  <td class=xl3917310  style='' x:num>9</td>
+
+ </tr>
+
+</table>
+
+
+
+</div>
+
+
+
+
+
+<!----------------------------->
+
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+
+<!----------------------------->
+
+
+
+</p>
+
+
+
+</div>
+
+<!--Begin Stats navigation menu-->
+
+<!--#include virtual="/menus/subnav_stats_previous.html" -->
+
+<!--End Stats navigation menu-->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

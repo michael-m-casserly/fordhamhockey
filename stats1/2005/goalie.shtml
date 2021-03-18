@@ -1,0 +1,2461 @@
+<!doctype html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+
+xmlns="http://www.w3.org/TR/REC-html40" lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Stats</title>
+
+
+
+<style id="PublishedStatsYearEnd_21976_Styles"><!--table
+
+	{mso-displayed-decimal-separator:"\.";
+
+	mso-displayed-thousand-separator:"\,";}
+
+.xl2221976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+.xl2321976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2421976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2521976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2621976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2721976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2821976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl2921976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3021976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3121976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3221976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3321976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3421976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:.5pt solid windowtext;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3521976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:general;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+.xl3621976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+.xl3721976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3821976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl3921976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4021976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4121976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4221976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4321976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4421976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4521976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4621976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4721976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:.5pt solid windowtext;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4821976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl4921976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5021976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5121976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5221976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5321976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5421976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:.5pt solid windowtext;
+
+	border-right:none;
+
+	border-bottom:none;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5521976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	border-top:none;
+
+	border-right:none;
+
+	border-bottom:.5pt solid windowtext;
+
+	border-left:none;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5621976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:black;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Verdana, sans-serif;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:normal;}
+
+.xl5721976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+.xl5821976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.000";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:nowrap;}
+
+.xl5921976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:nowrap;}
+
+.xl6021976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:400;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:"0\.0%";
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	background:white;
+
+	mso-pattern:auto none;
+
+	white-space:nowrap;}
+
+.xl6121976
+
+	{padding-top:1px;
+
+	padding-right:1px;
+
+	padding-left:1px;
+
+	mso-ignore:padding;
+
+	color:windowtext;
+
+	font-size:10.0pt;
+
+	font-weight:700;
+
+	font-style:normal;
+
+	text-decoration:none;
+
+	font-family:Arial;
+
+	mso-generic-font-family:auto;
+
+	mso-font-charset:0;
+
+	mso-number-format:General;
+
+	text-align:center;
+
+	vertical-align:bottom;
+
+	mso-background-source:auto;
+
+	mso-pattern:auto;
+
+	white-space:nowrap;}
+
+--></style>
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_stats_previous.html" -->
+<!--#include virtual="/menus/subnav_stats_previous.html" -->
+
+
+<div id="contentstart">
+
+
+
+<p><div class="ImageTitle">2004-05 Goaltending Stats</div>
+
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+
+<!--The following information was generated by Microsoft Office Excel's Publish
+
+as Web Page wizard.-->
+
+<!--If the same item is republished from Excel, all information between the DIV
+
+tags will be replaced.-->
+
+<!----------------------------->
+
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+
+<!----------------------------->
+
+
+
+<div id="PublishedStatsYearEnd_21976" align=center x:publishsource="Excel">
+
+
+
+<table x:str border=0 cellpadding=0 cellspacing=0 9 style='border-collapse:
+
+ collapse; width:100%; max-width:500px;'>
+
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td colspan=12 height=17 class=xl4921976 9 style='height:12.75pt;' x:str="'TOTAL LEAGUE &amp; NON-LEAGUE (Combined)">TOTAL LEAGUE &amp; NON-LEAGUE (Combined)</td>
+
+ </tr>
+
+ <tr class=xl3521976 height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4021976 style='height:12.75pt;'>GAA</td>
+
+  <td class=xl3321976>&nbsp;</td>
+
+  <td class=xl3321976>W</td>
+
+  <td class=xl3321976>L</td>
+
+  <td class=xl3321976>T</td>
+
+  <td class=xl3321976>MIN</td>
+
+  <td class=xl3321976>GA</td>
+
+  <td class=xl3321976>EN</td>
+
+  <td class=xl3321976>SAV</td>
+
+  <td class=xl3321976>SHO</td>
+
+  <td class=xl5021976>PCT</td>
+
+  <td class=xl3421976>GP</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3721976 style='height:12.75pt;border-top:none;' x:num x:fmla="=60/+F3*+G3">6.000</td>
+
+  <td class=xl2321976 style='border-top:none;'>Dan
+
+  Callaghan</td>
+
+  <td class=xl2321976 style='border-top:none;' x:num>1</td>
+
+  <td class=xl2321976 style='border-top:none;' x:num>1</td>
+
+  <td class=xl2321976 style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976 style='border-top:none;' x:num>160</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>16</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>85</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>101</td>
+
+  <td class=xl5121976  style='border-top:none;'
+
+  x:num="0.84158415841584155" x:fmla="=I3/+J3">84.2%</td>
+
+  <td class=xl2421976  style='border-top:none;' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3821976  style='height:12.75pt;'
+
+  x:num="6.666666666666667" x:fmla="=60/+F4*+G4">6.667</td>
+
+  <td class=xl2521976  style=''>Dan Jenney</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>144</td>
+
+  <td class=xl2521976  style='' x:num>16</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>88</td>
+
+  <td class=xl2521976  style='' x:num>104</td>
+
+  <td class=xl5221976  style='' x:num="0.84615384615384615"
+
+  x:fmla="=I4/+J4">84.6%</td>
+
+  <td class=xl2621976  style='' x:num>7</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl3921976  style='height:12.75pt;'
+
+  x:num="3.7922077922077926" x:fmla="=60/+F5*+G5">3.792</td>
+
+  <td class=xl2721976  style=''>Joe Wichowski</td>
+
+  <td class=xl2721976  style='' x:num>15</td>
+
+  <td class=xl2721976  style='' x:num>6</td>
+
+  <td class=xl2721976  style='' x:num>2</td>
+
+  <td class=xl2721976  style='' x:num>1155</td>
+
+  <td class=xl2721976  style='' x:num>73</td>
+
+  <td class=xl2721976  style='' x:num>2</td>
+
+  <td class=xl2721976  style='' x:num>593</td>
+
+  <td class=xl2721976  style='' x:num>666</td>
+
+  <td class=xl5321976  style='' x:num="0.89039039039039036"
+
+  x:fmla="=I5/+J5">89.0%</td>
+
+  <td class=xl2821976  style='' x:num>23</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4121976  style='height:12.75pt;border-top:none;
+
+  ' x:num="4.3180260452364632" x:fmla="=60/+F6*+G6">4.318</td>
+
+  <td class=xl2921976  style='border-top:none;'>FORDHAM</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(C3:C5)">16</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(D3:D5)">7</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(E3:E5)">2</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(F3:F5)">1459</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(G3:G5)">105</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(H3:H5)">2</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(I3:I5)">766</td>
+
+  <td class=xl2921976  style='border-top:none;' x:num
+
+  x:fmla="=SUM(J3:J5)">871</td>
+
+  <td class=xl5421976  style='border-top:none;'
+
+  x:num="0.87944890929965558" x:fmla="=I6/+J6">87.9%</td>
+
+  <td class=xl3021976  style='border-top:none;' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4221976  style='height:12.75pt;'
+
+  x:num="5.604395604395604" x:fmla="=60/+F7*+G7">5.604</td>
+
+  <td class=xl3121976  style=''>OPPONENT</td>
+
+  <td class=xl3121976  style='' x:num>7</td>
+
+  <td class=xl3121976  style='' x:num>16</td>
+
+  <td class=xl3121976  style='' x:num>2</td>
+
+  <td class=xl3121976  style='' x:num>1456</td>
+
+  <td class=xl3121976  style='' x:num>136</td>
+
+  <td class=xl3121976  style='' x:num>1</td>
+
+  <td class=xl3121976  style='' x:num>835</td>
+
+  <td class=xl3121976  style='' x:num>971</td>
+
+  <td class=xl5521976  style='' x:num="0.85993820803295573"
+
+  x:fmla="=I7/+J7">86.0%</td>
+
+  <td class=xl3221976  style='' x:num>25</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4821976  style='height:12.75pt;'>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+  <td class=xl5621976  style=''>&nbsp;</td>
+
+  <td class=xl4921976  style=''>&nbsp;</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td colspan=12 height=17 class=xl4921976 9 style='height:12.75pt;
+
+  width:390pt' x:str="'TOTAL LEAGUE">TOTAL LEAGUE</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4321976  style='height:12.75pt;'>GAA</td>
+
+  <td class=xl3321976  style=''>&nbsp;</td>
+
+  <td class=xl3321976  style=''>W</td>
+
+  <td class=xl3321976  style=''>L</td>
+
+  <td class=xl3321976  style=''>T</td>
+
+  <td class=xl3321976  style=''>MIN</td>
+
+  <td class=xl3321976  style=''>GA</td>
+
+  <td class=xl3321976  style=''>EN</td>
+
+  <td class=xl3321976  style=''>SAV</td>
+
+  <td class=xl3321976  style=''>SHO</td>
+
+  <td class=xl5021976  style=''>PCT</td>
+
+  <td class=xl3421976  style=''>GP</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4421976  style='height:12.75pt;border-top:none;
+
+  ' x:num="4.8648648648648649" x:fmla="=60/+F11*+G11">4.865</td>
+
+  <td class=xl2321976  style='border-top:none;'>Dan
+
+  Callaghan</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>1</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>37</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>3</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>11</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>14</td>
+
+  <td class=xl5121976  style='border-top:none;'
+
+  x:num="0.7857142857142857" x:fmla="=I11/+J11">78.6%</td>
+
+  <td class=xl2421976  style='border-top:none;' x:num>3</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4521976  style='height:12.75pt;'
+
+  x:num="7.2727272727272725" x:fmla="=60/+F12*+G12">7.273</td>
+
+  <td class=xl2521976  style=''>Dan Jenney</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>66</td>
+
+  <td class=xl2521976  style='' x:num>8</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>53</td>
+
+  <td class=xl2521976  style='' x:num>61</td>
+
+  <td class=xl5221976  style='' x:num="0.86885245901639341"
+
+  x:fmla="=I12/+J12">86.9%</td>
+
+  <td class=xl2621976  style='' x:num>4</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4521976  style='height:12.75pt;'
+
+  x:num="3.9608801955990223" x:fmla="=60/+F13*+G13">3.961</td>
+
+  <td class=xl2521976  style=''>Joe Wichowski</td>
+
+  <td class=xl2521976  style='' x:num>8</td>
+
+  <td class=xl2521976  style='' x:num>5</td>
+
+  <td class=xl2521976  style='' x:num>2</td>
+
+  <td class=xl2521976  style='' x:num>818</td>
+
+  <td class=xl2521976  style='' x:num>54</td>
+
+  <td class=xl2521976  style='' x:num>1</td>
+
+  <td class=xl2521976  style='' x:num>406</td>
+
+  <td class=xl2521976  style='' x:num>460</td>
+
+  <td class=xl5221976  style='' x:num="0.88260869565217392"
+
+  x:fmla="=I13/+J13">88.3%</td>
+
+  <td class=xl2621976  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4621976  style='height:12.75pt;'
+
+  x:num="4.234527687296417" x:fmla="=60/+F14*+G14">4.23</td>
+
+  <td class=xl2921976  style=''>FORDHAM</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(C11:C13)">9</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(D11:D13)">5</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(E11:E13)">2</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(F11:F13)">921</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(G11:G13)">65</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(H11:H13)">1</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(I11:I13)">470</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(J11:J13)">535</td>
+
+  <td class=xl5421976  style='' x:num="0.87850467289719625"
+
+  x:fmla="=I14/+J14">87.9%</td>
+
+  <td class=xl3021976  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4721976  style='height:12.75pt;'
+
+  x:num="5.2173913043478262" x:fmla="=60/+F15*+G15">5.22</td>
+
+  <td class=xl3121976  style=''>OPPONENT</td>
+
+  <td class=xl3121976  style='' x:num>5</td>
+
+  <td class=xl3121976  style='' x:num>9</td>
+
+  <td class=xl3121976  style='' x:num>2</td>
+
+  <td class=xl3121976  style='' x:num>920</td>
+
+  <td class=xl3121976  style='' x:num>80</td>
+
+  <td class=xl3121976  style='' x:num>0</td>
+
+  <td class=xl3121976  style='' x:num>555</td>
+
+  <td class=xl3121976  style='' x:num>635</td>
+
+  <td class=xl5521976  style='' x:num="0.87401574803149606"
+
+  x:fmla="=I15/+J15">87.4%</td>
+
+  <td class=xl3221976  style='' x:num>15</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl5821976 style='height:12.75pt'>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+  <td class=xl6021976>&nbsp;</td>
+
+  <td class=xl5921976>&nbsp;</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td colspan=12 height=17 class=xl4921976 9 style='height:12.75pt;
+
+  width:390pt' x:str="'TOTAL NON-LEAGUE">TOTAL NON-LEAGUE</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4321976  style='height:12.75pt;'>GAA</td>
+
+  <td class=xl3321976  style=''>&nbsp;</td>
+
+  <td class=xl3321976  style=''>W</td>
+
+  <td class=xl3321976  style=''>L</td>
+
+  <td class=xl3321976  style=''>T</td>
+
+  <td class=xl3321976  style=''>MIN</td>
+
+  <td class=xl3321976  style=''>GA</td>
+
+  <td class=xl3321976  style=''>EN</td>
+
+  <td class=xl3321976  style=''>SAV</td>
+
+  <td class=xl3321976  style=''>SHO</td>
+
+  <td class=xl5021976  style=''>PCT</td>
+
+  <td class=xl3421976  style=''>GP</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4421976  style='height:12.75pt;border-top:none;
+
+  ' x:num="6.3414634146341466" x:fmla="=60/+F19*+G19">6.341</td>
+
+  <td class=xl2321976  style='border-top:none;'>Dan
+
+  Callaghan</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>1</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>123</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>13</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num>0</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num
+
+  x:fmla="=15+6+20+18+15">74</td>
+
+  <td class=xl2321976  style='border-top:none;' x:num
+
+  x:fmla="=22+24+22+19">87</td>
+
+  <td class=xl5121976  style='border-top:none;'
+
+  x:num="0.85057471264367812" x:fmla="=I19/+J19">85.1%</td>
+
+  <td class=xl2421976  style='border-top:none;' x:num>5</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4521976  style='height:12.75pt;'
+
+  x:num="6.1538461538461542" x:fmla="=60/+F20*+G20">6.154</td>
+
+  <td class=xl2521976  style=''>Dan Jenney</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num>78</td>
+
+  <td class=xl2521976  style='' x:num>8</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num x:fmla="=9+17+9">35</td>
+
+  <td class=xl2521976  style='' x:num x:fmla="=12+20+11">43</td>
+
+  <td class=xl5221976  style='' x:num="0.81395348837209303"
+
+  x:fmla="=I20/+J20">81.4%</td>
+
+  <td class=xl2621976  style='' x:num>3</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4521976  style='height:12.75pt;'
+
+  x:num="3.3827893175074188" x:fmla="=60/+F21*+G21">3.383</td>
+
+  <td class=xl2521976  style=''>Joe Wichowski</td>
+
+  <td class=xl2521976  style='' x:num>7</td>
+
+  <td class=xl2521976  style='' x:num>1</td>
+
+  <td class=xl2521976  style='' x:num>0</td>
+
+  <td class=xl2521976  style='' x:num x:fmla="=199+20+60+58">337</td>
+
+  <td class=xl2521976  style='' x:num>19</td>
+
+  <td class=xl2521976  style='' x:num>1</td>
+
+  <td class=xl2521976  style='' x:num
+
+  x:fmla="=31+12+32+14+12+14+31+41">187</td>
+
+  <td class=xl2521976  style='' x:num
+
+  x:fmla="=34+14+35+15+12+16+34+46">206</td>
+
+  <td class=xl5221976  style='' x:num="0.90776699029126218"
+
+  x:fmla="=I21/+J21">90.8%</td>
+
+  <td class=xl2621976  style='' x:num>8</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4621976  style='height:12.75pt;'
+
+  x:num="4.4609665427509295" x:fmla="=60/+F22*+G22">4.46</td>
+
+  <td class=xl2921976  style=''>FORDHAM</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(C19:C21)">7</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(D19:D21)">2</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(E19:E21)">0</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(F19:F21)">538</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(G19:G21)">40</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(H19:H21)">1</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(I19:I21)">296</td>
+
+  <td class=xl2921976  style='' x:num x:fmla="=SUM(J19:J21)">336</td>
+
+  <td class=xl5421976  style='' x:num="0.88095238095238093"
+
+  x:fmla="=I22/+J22">88.1%</td>
+
+  <td class=xl3021976  style='' x:num>9</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl4721976  style='height:12.75pt;'
+
+  x:num="6.2686567164179108" x:fmla="=60/+F23*+G23">6.27</td>
+
+  <td class=xl3121976  style=''>OPPONENT</td>
+
+  <td class=xl3121976  style='' x:num>2</td>
+
+  <td class=xl3121976  style='' x:num>7</td>
+
+  <td class=xl3121976  style='' x:num>0</td>
+
+  <td class=xl3121976  style='' x:num x:fmla="=357+59+60+60">536</td>
+
+  <td class=xl3121976  style='' x:num>56</td>
+
+  <td class=xl3121976  style='' x:num>1</td>
+
+  <td class=xl3121976  style='' x:num
+
+  x:fmla="=39+42+34+30+21+7+9+18+18+32+30">280</td>
+
+  <td class=xl3121976  style='' x:num
+
+  x:fmla="=43+47+37+36+23+5+10+13+22+28+39+33">336</td>
+
+  <td class=xl5521976  style='' x:num="0.83333333333333337"
+
+  x:fmla="=I23/+J23">83.3%</td>
+
+  <td class=xl3221976  style='' x:num>9</td>
+
+ </tr>
+
+
+</table>
+
+
+
+</div>
+
+
+
+
+
+<!----------------------------->
+
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+
+<!----------------------------->
+
+
+
+</p>
+
+
+
+</div>
+
+<!--Begin Stats navigation menu-->
+
+<!--#include virtual="/menus/subnav_stats_previous.html" -->
+
+<!--End Stats navigation menu-->
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

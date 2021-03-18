@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Loses to Indiana University, Beats University of Pittsburgh</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Nov 22, 2006 -- Recap from weekend tournament...</p>
+        <p><b>vs. Indiana University of PA</b><br>
+          Last Friday night, the Rams traveled to Altoona Pennsylvania to compete in the first ever MCHC - CHE (College Hockey East) Showcase Tournament. The 8 games featured some of the best teams from both leagues. Fordham squared off against the number 1 seeded team, I.U.P. The Indians (12-3) jumped out to a two goal lead midway through the first period but the Rams hung tough as they closed out the second period with 2 goals of their own to knot the game 2-2 going into the third period.  I.U.P. took advantage of two power play opportunities and scored on each to seemingly put the game out of reach. Fordham sophomore John Gibbons cut the deficit to 4-3 with 5 minutes left, but the Rams fell short. Indian goalie Mike Lady stopped a flurry of late activity during a Fordham power play with 3 minutes left to seal the victory. Ram goalie Joe Wichowksi stopped 32 shots in the loss.</p>
+        <p><b>vs. University of Pittsburgh - Johnstown</b><br>
+        The 7:00 am start time for the Saturday morning match up with U.P.J. did not affect the team's performance as they easily defeated the Ice Cats by a 7-2 score. The Rams jumped out to an early 4-0 lead after the first period and never looked back. They built the lead to 6-0 before U.P.J. finally scored a goal midway through the second period. By then, the Rams were on cruise control as the 5-goal victory was the largest of the entire tournament. Wichowki only faced 8 shots on goal, before being pulled after playing the first 29 minutes of the game. Sophomore Greg Siroky finished off the game stopping 8 of 10 shots.</p>
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

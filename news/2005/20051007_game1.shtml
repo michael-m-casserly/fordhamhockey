@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+<div class="NewsArticleTitle">Fordham 11, Briarcliffe 1</div>
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+<p>Oct 7, 2005 -- The Fordham Rams started the 2005-2006 campaign with a successful exhibition win over the Briarcliffe by an 11-1 victory. The Rams and Seahawks played a tight first period with Fordham leading only a 3-1 margin after one period.  However Fordham opened up the second period of play by scoring early and often, netting 5 goals in a 4-minute span. Leading the scoring were junior John Stachulksi (3 goals - 2 assists), sophomore Matt Pangia (2 goals - 2 assists) and Villanova transfer Jorge Rocha (2 goals - 2 assists). When all the dust settled the Rams came away with 35 shots in just 2 periods of play.  Fordham net minder junior Joe Wichowski chalked up his first win of the season stopping 11 of 12 shots, while splitting time with freshman Greg Sirosky and sophomore Dan Callaghan.</p>
+
+<p>Team notes: The Rams open up their 36th MCHC season this Wednesday night at home against long time rival Columbia...The Lions returned to the MCHC after a 3 years absence...Fordham defeated Columbia twice last season in non league games (7-5 and 11-8) and are 28-3-0 head to head since the 1980 season...Saturday the team travels to Connecticut to face off against Fairfield...Fordham has never beaten Fairfield during the teams brief 4 game history, however 2 of the four game have gone to overtime shootouts.</p>
+
+<div style="text-align:center; font:10pt Verdana;">
+<b>Upcoming games:</b>
+<p>Wednesday 10/12   Columbia - Home   Ice Hutch - Mount Vernon, NY  9:00 pm<br>
+Saturday 10/15 Fairfield - Away Wonderland of Ice - Bridgeport, CT  2:30 pm</p>
+</div>
+</div>
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center>
+</p>
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

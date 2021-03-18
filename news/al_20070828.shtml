@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Former Team Captain to Wed</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+<p>August 28, 2007 -- Congratulations are in order for former team captain and all time Fordham penalty leader Andy Montroy FC' 00. Andy and fianc&eacute;e Tami were recently engaged in Maine and have set a September 2008 wedding date. Andy and his future wife currently reside in Philadelphia where Andy is currently employed by the Defense Association of Philadelphia.</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+
+
+
+
+
+
+
+<div class="NewsArticleTitle">Fordham Places 4 All-Stars</div>
+
+
+
+
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+
+
+
+
+<p>Dec 21, 2005 -- Four Fordham University players were named to this year's MCHC All Star team. The game will be held on January 14 at the Pepsi Arena in Albany NY at 2:00 PM prior to an Albany River Rats (New Jersey Devils American Hockey League Affiliate) game. Game admission is $10 per person and will include admission to the River Rats game. The team rosters format will be the MCHC Public Schools vs. the MCHC Private Schools.</p>
+
+
+
+<p>The Fordham players named were Junior goaltender Joe Wichowski, Sophomore defensemen Mike Connolly, and Junior forwards Matt Pangia and John Stachulski. 
+
+<!--The game roster can be found at <a href="http://www.methockey.com/Special_Events.htm" class="textlink" target="_blank">http://www.methockey.com/Special_Events.htm</a>--></p>
+
+
+
+</div>
+
+
+
+
+
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>

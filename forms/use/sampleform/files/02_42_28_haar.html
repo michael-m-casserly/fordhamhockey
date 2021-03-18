@@ -1,0 +1,602 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>An Introduction to Wavelets and</title>
+<style>
+<!--
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+</head>
+
+<body>
+
+<p class="MsoNormal" align="center"><b><font face="Verdana" size="2">An 
+Introduction to Wavelets and the Haar Transform</font></b></p>
+<p class="MsoNormal" align="center"><font size="2" face="Verdana">by Musawir Ali</font></p>
+<p class="MsoNormal" align="center">&nbsp;</p>
+<div align="center">
+	<table border="0" width="85%" id="table1">
+		<tr>
+			<td>
+			<table border="0" width="100%" id="table2" bgcolor="#CCCCCC" cellpadding="5">
+				<tr>
+					<td><span style="font-family: Verdana"><font size="2">In 
+					this article, I will present an introduction to “<b>wavelets</b>” 
+					and the 1D Haar Transform. Then I will show how the 1D Haar 
+					Transform can easily be extended to 2D. This article assumes 
+					that the reader has general knowledge about basis functions. 
+					If not, please look at my introductory article on basis 
+					functions before reading this one.</font></span></td>
+				</tr>
+			</table>
+			<p class="MsoNormal">&nbsp;</p>
+			<p class="MsoNormal"><u><b><font face="Verdana" size="2">What are 
+			Wavelets?</font></b></u></p>
+			<p class="MsoNormal">&nbsp;</p>
+			<p class="MsoNormal"><font face="Verdana" size="2">Wavelets are a 
+			set of <i>non-linear</i> bases. When projecting (or approximating) a 
+			function in terms of wavelets, the wavelet basis functions are 
+			chosen according to the function being approximated. Hence, unlike 
+			families of <i>linear</i> bases where the same, <b>static</b> set of 
+			basis functions are used for <b>every</b> input function, wavelets 
+			employ a <b>dynamic</b> set of basis functions that represents the 
+			input function in the most efficient way. Thus wavelets are able to 
+			provide a great deal of compression and are therefore very popular 
+			in the fields of image and signal processing.</font></p>
+			<p class="MsoNormal">&nbsp;</p>
+			<p class="MsoNormal"><font face="Verdana" size="2">Let’s get in to 
+			the details of how this dynamic set of basis functions is chosen and 
+			how the input function is transformed into wavelets.</font></p>
+			<p class="MsoNormal"><font face="Verdana" size="2">&nbsp;</font></p>
+			<span style="font-family: Verdana"><font size="2">Lets suppose that 
+			we have a string of numbers: ( 2, 2, 2, 2 ) and we want to transmit 
+			this over a network. Of course, we would like to do this in the 
+			fastest possible way, which implies that we want to send the least 
+			amount of data possible. So let’s consider our options. Trivially, 
+			one of our options is to just send all the four numbers, i.e., send 
+			the first '2', then the second '2', then the third, and lastly the 
+			fourth. In doing so, we are implicitly choosing the following basis:<br>
+&nbsp;</font></span><div align="center">
+				<table border="1" width="35%" id="table3" bgcolor="#FF9933" style="border-collapse: collapse" bordercolor="#000000">
+					<tr>
+						<td>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;1, 0, 0, 0&gt;</font></p>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;0, 1, 0, 0&gt;</font></p>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;0, 0, 1, 0&gt;</font></p>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;0, 0, 0, 1&gt;</font></td>
+					</tr>
+				</table>
+			</div>
+			<p class="MsoNormal"><br>
+			<font face="Verdana" size="2">But as you would suspect, this is not 
+			the best way of doing things. Can we do better? The trick is to 
+			choose a basis that represents our data efficiently and in a very 
+			compact fashion. Notice that our data is pretty uniform; in fact it 
+			is just a constant signal of 2. We would like to exploit this 
+			uniformity. If we choose the basis vector &lt;1, 1, 1, 1&gt;, we can 
+			represent our data by just one number! We would only have to send 
+			the number 2 over the network, and our entire data string could be 
+			reconstructed by just multiplying (or weighting) with the basis 
+			vector &lt;1, 1, 1, 1&gt;. This is great, but we still need three more 
+			basis vectors to complete our basis since the space in our example 
+			is 4 dimensional. Remember, that all basis vectors have to be 
+			orthogonal (or perpendicular). This means that if you take the dot 
+			(or scalar) product of any two basis vectors, the result should be 
+			zero. So our task is to find a vector that is orthogonal to &lt;1, 1, 
+			1, 1&gt;. One such vector is &lt;1, 1, -1, -1&gt;. If you take the dot 
+			product of these two vectors, the result is indeed zero. 
+			Graphically, these two vectors look like this:</font></p>
+			<p class="MsoNormal">&nbsp;</p>
+			<div align="center">
+				<table border="0" width="80%" id="table4">
+					<tr>
+						<td width="50%" align="center">
+						<img border="0" src="wave1.jpg" width="165" height="84"></td>
+						<td width="50%" align="center">
+						<img border="0" src="wave2.jpg" width="163" height="150"></td>
+					</tr>
+					<tr>
+						<td width="50%">
+						<p align="center"><b><font size="2" face="Verdana">
+						&lt;1,1,1,1&gt;</font></b></td>
+						<td width="50%">
+						<p align="center"><b><font size="2" face="Verdana">
+						&lt;1,1,-1,-1&gt;</font></b></td>
+					</tr>
+				</table>
+			</div>
+			<p class="MsoNormal"><br>
+			<span style="font-family: Verdana"><font size="2">Notice that graphically these basis vectors look like “waves”, hence the name 
+			wavelets. Now that we have two basis vectors, we need two more. Haar 
+			constructed the remaining basis vectors by a process of <i>dilation</i> 
+			and <i>shifting</i>. Dilation basically means <i>squeezing</i>; 
+			therefore the remaining basis vectors were constructed by squeezing 
+			and shifting. If we squeeze the vector &lt;1, 1, -1, -1&gt;, we get &lt;1, 
+			-1, 0, 0&gt;. The 1, 1 pair gets squeezed in to a single 1, and 
+			similarly the -1, -1 pair becomes a single -1. Next, we perform a 
+			shift on the resultant basis vector and get: &lt;0, 0, 1, -1&gt; which is 
+			our final basis vector. Graphically, these two vectors look like 
+			this:</font></span></p>
+			<p class="MsoNormal">&nbsp;</p>
+			<div align="center">
+				<table border="0" width="80%" id="table5">
+					<tr>
+						<td width="50%" align="center">
+						<img border="0" src="wave3.jpg" width="164" height="151"></td>
+						<td width="50%" align="center">
+						<img border="0" src="wave4.jpg" width="162" height="144"></td>
+					</tr>
+					<tr>
+						<td width="50%">
+						<p align="center"><b><font size="2" face="Verdana">
+						&lt;1,-1,0,0&gt;</font></b></td>
+						<td width="50%">
+						<p align="center"><b><font size="2" face="Verdana">
+						&lt;0,0,1,-1&gt;</font></b></td>
+					</tr>
+				</table>
+			</div>
+			<p class="MsoNormal">&nbsp;</p>
+			<p class="MsoNormal"><span style="font-family: Verdana">
+			<font size="2">We now have a complete basis for our four dimensional 
+			space, comprised of the following basis vectors or <b>wavelets</b>.</font></span><br>
+&nbsp;</p>
+			<div align="center">
+				<table border="1" width="35%" id="table6" bgcolor="#FF9933" style="border-collapse: collapse" bordercolor="#000000">
+					<tr>
+						<td>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;1, 1, 1, 1&gt;</font></p>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;1, 1, -1, -1&gt;</font></p>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;1, -1, 0, 0&gt;</font></p>
+						<p class="MsoNormal" align="center">
+						<font face="Verdana" size="2">&lt;0, 0, 1, -1&gt;</font></td>
+					</tr>
+				</table>
+				<p class="MsoNormal" align="center">&nbsp;</p>
+				<p class="MsoNormal" align="left">
+				<span style="font-family: Verdana"><font size="2">Take time to 
+				convince yourself that all four of these vectors are 
+				perpendicular to each other (take the dot product and see if it 
+				is zero). Even though these basis vectors are orthogonal, they 
+				are not <i>orthonormal</i>. However, we can easily normalize 
+				them by calculating the magnitude of each of these vectors and 
+				then dividing their components by that magnitude.</font></span></p>
+				<p class="MsoNormal" align="left">&nbsp;</p>
+				<table border="1" width="90%" id="table7" bgcolor="#FF9933" style="border-collapse: collapse" bordercolor="#000000">
+					<tr>
+						<td>
+						<table border="0" width="100%" id="table8" style="border-collapse: collapse" bordercolor="#CCCCCC" cellspacing="4">
+							<tr>
+								<td>
+								<p class="MsoNormal" align="left">
+								<font face="Verdana" size="2">&lt;1, 1, 1, 1&gt;</font></td>
+								<td width="53%"><font face="Verdana" size="2">
+								--&gt; magnitude = sqrt((1)<sup>2</sup> + (1)<sup>2</sup> 
+								+ (1)<sup>2</sup> + (1)<sup>2</sup>) = 2</font></td>
+								<td><font face="Verdana" size="2">--&gt; &lt;1/2, 1/2, 
+								1/2, 1/2&gt;</font></td>
+							</tr>
+							<tr>
+								<td width="15%"><font face="Verdana" size="2">
+								&lt;1, 1, -1, -1&gt;</font></td>
+								<td><font face="Verdana" size="2">--&gt; magnitude 
+								= sqrt((1)<sup>2</sup> + (1)<sup>2</sup> + (-1)<sup>2</sup> 
+								+ (-1)<sup>2</sup>) = 2</font></td>
+								<td><font face="Verdana" size="2">--&gt; &lt;1/2, 1/2, 
+								-1/2, -1/2&gt;</font></td>
+							</tr>
+							<tr>
+								<td><font face="Verdana" size="2">&lt;1, -1, 0, 0&gt;</font></td>
+								<td><font face="Verdana" size="2">--&gt; magnitude 
+								= sqrt((1)<sup>2</sup> + (-1)<sup>2</sup> + (0)<sup>2</sup> 
+								+ (0)<sup>2</sup>) = &#8730;2</font></td>
+								<td><font face="Verdana" size="2">--&gt; &lt;1/&#8730;2, 
+								-1/&#8730;2, 0, 0&gt;</font></td>
+							</tr>
+							<tr>
+								<td><font face="Verdana" size="2">&lt;0, 0, 1, -1&gt;</font></td>
+								<td><font face="Verdana" size="2">--&gt; magnitude 
+								= sqrt((0)<sup>2</sup> + (0)<sup>2</sup> + (1)<sup>2</sup> 
+								+ (-1)<sup>2</sup>) = &#8730;2</font></td>
+								<td><font face="Verdana" size="2">--&gt; &lt;0, 0, 
+								1/&#8730;2, -1/&#8730;2&gt;</font></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				<p class="MsoNormal" align="left"><br>
+				<span style="font-family: Verdana"><font size="2">Now that we 
+				have our basis, let us look at an example of how we can project 
+				an input vector in to wavelets. This is also known as the 1D 
+				Haar Transform. </font></span></p>
+				<p class="MsoNormal" align="left"><br>
+&nbsp;</p>
+				<p class="MsoNormal" align="left"><u><b>
+				<font face="Verdana" size="2">1D Haar Transform</font></b></u></p>
+				<p class="MsoNormal" align="left">&nbsp;</p>
+				<p class="MsoNormal" align="left">
+				<span style="font-family: Verdana"><font size="2">Suppose our 
+				input vector is: &lt;4, 2, 5, 5&gt;. To project this in to wavelets, 
+				we simply take a dot product of the input vector with each of 
+				the basis vectors.</font></span></p>
+				<p class="MsoNormal" align="left"><br>
+&nbsp;</p>
+				<table border="1" width="50%" id="table11" bgcolor="#FF9933" style="border-collapse: collapse" bordercolor="#000000">
+					<tr>
+						<td align="left">
+						<table border="0" width="100%" id="table12" style="border-collapse: collapse" bordercolor="#CCCCCC" cellspacing="4">
+							<tr>
+								<td>
+								<p class="MsoNormal" align="left">
+								<font face="Verdana" size="2">dot ( &lt;4, 2, 5, 5&gt; 
+								, &lt;1/2, 1/2, 1/2, 1/2&gt; ) = 8</font></td>
+							</tr>
+							<tr>
+								<td><font face="Verdana" size="2">dot ( &lt;4, 2, 
+								5, 5&gt; , &lt;1/2, 1/2, -1/2, -1/2&gt; ) = -2</font></td>
+							</tr>
+							<tr>
+								<td><font face="Verdana" size="2">dot ( &lt;4, 2, 
+								5, 5&gt; , &lt;1/&#8730;2, -1/&#8730;2, 0, 0&gt; ) = 2/&#8730;2</font></td>
+							</tr>
+							<tr>
+								<td><font face="Verdana" size="2">dot ( &lt;4, 2, 
+								5, 5&gt; , &lt;0, 0, 1/&#8730;2, -1/&#8730;2&gt; ) = 0</font></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				<p align="left"><span style="font-family: Verdana">
+				<font size="2">Thus the input vector got transformed in to &lt;8, 
+				-2, </font></span><font face="Verdana" size="2">2/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+				0&gt;. Notice the 4th component is 0! This means that we do not 
+				need the 4<sup>th</sup> basis vector, we can reconstruct our 
+				original input vector with just the first&nbsp; three basis vectors. 
+				In other words, we <b>dynamically</b> chose 3 basis vectors from 
+				a possible 4 according to our input.</font></span></p>
+				<table border="1" width="70%" id="table15" bgcolor="#FF9933" style="border-collapse: collapse" bordercolor="#000000">
+					<tr>
+						<td>
+						<table border="0" width="100%" id="table16" style="border-collapse: collapse" bordercolor="#CCCCCC" cellspacing="4" cellpadding="3">
+							<tr>
+								<td width="50%" align="right">
+								<font face="Verdana" size="2">8 * &lt;1/2, 1/2, 
+								1/2, 1/2&gt;</font></td>
+								<td>
+								<p class="MsoNormal" align="left">
+								<font face="Verdana" size="2">= &lt;4, 4, 4, 4&gt;</font></td>
+							</tr>
+							<tr>
+								<td align="right"><font face="Verdana" size="2">
+								-2 * &lt;1/2, 1/2, -1/2, -1/2&gt;</font></td>
+								<td><font face="Verdana" size="2">= &lt;-1, -1, 1, 
+								1&gt;</font></td>
+							</tr>
+							<tr>
+								<td align="right"><font face="Verdana" size="2">
+								2/&#8730;2 * &lt;1/&#8730;2, -1/&#8730;2, 0, 0&gt;</font></td>
+								<td><font face="Verdana" size="2">= &lt;1, -1, 0, 
+								0&gt;</font></td>
+							</tr>
+							<tr>
+								<td>
+								<p align="right"><font face="Verdana" size="2">
+								add the vectors</font></td>
+								<td><font face="Verdana" size="2">= <b>&lt;4, 2, 5, 
+								5&gt;</b></font></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				<p align="left"><span style="font-family: Verdana">
+				<font size="2">Until now, we had a 4 component input vector, and 
+				a corresponding set of 4 component basis vectors. But what if we 
+				have a larger input vector, say with 8 components? Would we need 
+				to find the new basis vectors? The answer is no. We can use the 
+				smaller basis that we already have. In fact, we can use the 
+				simplest wavelet basis which consists of: &lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+				1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt; 
+				and &lt;1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+				-1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;. 
+				These are the smallest wavelets, notice you cannot squeeze them 
+				any further. However in choosing these smaller basis vectors for 
+				larger input, we can no longer do the Haar wavelet transform in 
+				one pass as we did earlier. We will have to recursively 
+				transform the input vector until we get to our final result. As 
+				an example, let us use the simple, 2 component basis to 
+				transform the 4 component input vector that we had in our 
+				previous example. The algorithm is outlined below, and our 
+				example is traced along side.<br>
+&nbsp;</font></span><table border="1" width="90%" id="table19" bgcolor="#FF9933" style="border-collapse: collapse" bordercolor="#000000">
+					<tr>
+						<td>
+						<table border="1" width="100%" id="table20" style="border-collapse: collapse" bordercolor="#666666" cellspacing="4" cellpadding="3">
+							<tr>
+								<td width="5%" align="left">
+								<font face="Verdana" size="2">#</font></td>
+								<td width="50%" align="left">
+								&nbsp;</td>
+								<td width="45%">
+								<p align="center"><u>
+								<font face="Verdana" size="2">Example</font></u></td>
+							</tr>
+							<tr>
+								<td width="5%" align="left">
+								&nbsp;</td>
+								<td width="50%" align="left">
+								<font face="Verdana" size="2">Input Vector:</font></td>
+								<td width="45%">
+								<font face="Verdana" size="2">&lt;4,2,5,5&gt;</font></td>
+							</tr>
+							<tr>
+								<td align="left" width="5%">&nbsp;</td>
+								<td align="left" width="50%">
+								<font face="Verdana" size="2">Transformed Vector 
+								(basis coefficients):</font></td>
+								<td width="45%"><font face="Verdana" size="2">&lt;<b>?</b>,<b>?</b>,<b>?</b>,<b>?</b>&gt; 
+								(we are calculating this)</font></td>
+							</tr>
+							<tr>
+								<td align="left" width="5%">&nbsp;</td>
+								<td align="left" width="50%">
+								<font face="Verdana" size="2">Basis Vectors 
+								(wavelets):</font></td>
+								<td width="45%"><span style="font-family: Verdana">
+				<font size="2">&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+				1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;, 
+								&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+								-1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;</font></span></td>
+							</tr>
+							<tr>
+								<td align="left" width="5%">
+								<font face="Verdana" size="2">1.</font></td>
+								<td align="left" width="50%">
+								<font face="Verdana" size="2">If size of input 
+								vector is less than size of basis vector, place 
+								input in transformed vector and exit</font></td>
+								<td width="45%"><font face="Verdana" size="2">
+								Size of input vector = 4<br>
+								Size of basis vector = 2<br>
+								4 &gt; 2, so continue</font></td>
+							</tr>
+							<tr>
+								<td align="left" width="5%">
+								<font face="Verdana" size="2">2.</font></td>
+								<td align="left" width="50%">
+								<font face="Verdana" size="2">Break input vector 
+								in to parts of size of the wavelet:</font></td>
+								<td width="45%"><font face="Verdana" size="2">
+								&lt;4,2&gt; , &lt;5,5&gt;</font></td>
+							</tr>
+							<tr>
+								<td align="left" width="5%">
+								<font face="Verdana" size="2">3.</font></td>
+								<td align="left" width="50%">
+								<font face="Verdana" size="2">Take dot product 
+								of <b>first</b> basis with every part:</font></td>
+								<td width="45%"><font face="Verdana" size="2">
+								dot(&lt;4,2&gt; , </font>
+								<span style="font-family: Verdana">
+								<font size="2">&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;) 
+								= <b>6/</b></font></span><b><font face="Verdana" size="2">&#8730;2<br>
+								</font></b><font face="Verdana" size="2">
+								dot(&lt;5,5&gt; , </font>
+								<span style="font-family: Verdana">
+								<font size="2">&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;) 
+								= <b>10/</b></font></span><b><font face="Verdana" size="2">&#8730;2</font></b></td>
+							</tr>
+							<tr>
+								<td align="left" width="5%">
+								<font face="Verdana" size="2">4.</font></td>
+								<td align="left" width="50%">
+								<font face="Verdana" size="2">Take dot product 
+								of <b>second</b> basis with every part:</font></td>
+								<td width="45%"><font face="Verdana" size="2">
+								dot(&lt;4,2&gt; , </font>
+								<span style="font-family: Verdana">
+								<font size="2">&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+								-1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;) 
+								= <b>2/</b></font></span><b><font face="Verdana" size="2">&#8730;2<br>
+								</font></b><font face="Verdana" size="2">
+								dot(&lt;5,5&gt; , </font>
+								<span style="font-family: Verdana">
+								<font size="2">&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+								-1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;) 
+								= <b>0</b></font></span></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								<font face="Verdana" size="2">Result of 3. is 
+								the new Input Vector:</font></td>
+								<td width="45%"><font face="Verdana" size="2">&lt;</font><span style="font-family: Verdana"><font size="2">6/</font></span><font face="Verdana" size="2">&#8730;2, </font><span style="font-family: Verdana"><font size="2">
+								10/</font></span><font face="Verdana" size="2">&#8730;2&gt;</font></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								<font face="Verdana" size="2">Result of 4. fills part of the Transformed Vector:</font></td>
+								<td width="45%"><font face="Verdana" size="2">&lt;
+								<b>?</b>, <b>?</b>,</font><span style="font-family: Verdana"><font size="2"> 
+								2/</font></span><font face="Verdana" size="2">&#8730;2, 
+								0&gt;</font></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								<font face="Verdana" size="2">5.</font></td>
+								<td width="50%">
+								<font face="Verdana" size="2">Go to 1.</font></td>
+								<td width="45%"><font face="Verdana" size="2">
+								Size of input vector = 2<br>
+								Size of basis vector = 2<br>
+								2 = 2, so continue</font></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								&nbsp;</td>
+								<td width="45%"><font face="Verdana" size="2">
+								dot(&lt;</font><span style="font-family: Verdana"><font size="2">6/</font></span><font face="Verdana" size="2">&#8730;2, </font><span style="font-family: Verdana"><font size="2">
+								10/</font></span><font face="Verdana" size="2">&#8730;2&gt; 
+								, </font><span style="font-family: Verdana">
+								<font size="2">&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;) 
+								= <b>8</b></font></span></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								&nbsp;</td>
+								<td width="45%"><font face="Verdana" size="2">
+								dot(&lt;</font><span style="font-family: Verdana"><font size="2">6/</font></span><font face="Verdana" size="2">&#8730;2, </font><span style="font-family: Verdana"><font size="2">
+								10/</font></span><font face="Verdana" size="2">&#8730;2&gt; 
+								, </font><span style="font-family: Verdana">
+								<font size="2">&lt;1</font></span><font face="Verdana" size="2">/&#8730;2</font><span style="font-family: Verdana"><font size="2">, 
+								-1/</font></span><font face="Verdana" size="2">&#8730;2</font><span style="font-family: Verdana"><font size="2">&gt;) 
+								= <b>-2</b></font></span></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								<font face="Verdana" size="2">Input Vector:</font></td>
+								<td width="45%"><font face="Verdana" size="2">
+								&lt;8&gt;</font></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								<font face="Verdana" size="2">Updated 
+								Transformed Vector:</font></td>
+								<td width="45%"><font face="Verdana" size="2">&lt;
+								<b>?</b>, -2,</font><span style="font-family: Verdana"><font size="2"> 
+								2/</font></span><font face="Verdana" size="2">&#8730;2, 
+								0&gt;</font></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								&nbsp;</td>
+								<td width="45%"><font face="Verdana" size="2">
+								Size of input vector = 1<br>
+								Size of basis vector = 2<br>
+								1 &lt; 2, so place input in transformed vector and 
+								exit</font></td>
+							</tr>
+							<tr>
+								<td width="5%">
+								&nbsp;</td>
+								<td width="50%">
+								<font face="Verdana" size="2">Transformed Vector 
+								(final result):</font></td>
+								<td width="45%"><b>
+								<font face="Verdana" size="2">&lt;8, -2, </font><span style="font-family: Verdana"><font size="2">
+								2/</font></span><font face="Verdana" size="2">&#8730;2, 
+								0&gt;</font></b></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				<p align="left"><font face="Verdana" size="2">This algorithm is 
+				very simple. If you think about it, all it does is take the sums 
+				and differences of every pair of numbers in the input vector and 
+				divides them by square root of 2. Then, the process is repeated 
+				on the resultant vector of the summed terms. Following is an 
+				implementation of the 1D Haar Transform in C++</font></p>
+				<table border="0" width="75%" id="table21" bgcolor="#000000" cellpadding="4">
+					<tr>
+						<td><font face="Arial" size="2" color="#00FF00"><br>
+						/* Inputs: vec = input vector, n = size of input vector 
+						*/</font><font color="#FFFFFF" face="Arial" size="2"><br>
+						</font><font face="Arial" size="2" color="#FF00FF">void</font><font color="#FFFFFF" face="Arial" size="2"> 
+						haar1d(</font><font face="Arial" size="2" color="#FF00FF">float</font><font color="#FFFFFF" face="Arial" size="2"> 
+						*vec, </font>
+						<font face="Arial" size="2" color="#FF00FF">int</font><font color="#FFFFFF" face="Arial" size="2"> 
+						n)<br>
+						{<br>
+						</font><font face="Arial" size="2" color="#FF00FF">&nbsp;&nbsp;&nbsp;&nbsp; 
+						int</font><font color="#FFFFFF" face="Arial" size="2"> i=</font><font face="Arial" size="2" color="#FF0000">0</font><font color="#FFFFFF" face="Arial" size="2">;<br>
+&nbsp;&nbsp;&nbsp;&nbsp; </font><font face="Arial" size="2" color="#FF00FF">int</font><font color="#FFFFFF" face="Arial" size="2"> 
+						w=n;<br>
+&nbsp;&nbsp;&nbsp;&nbsp; </font><font face="Arial" size="2" color="#FF00FF">
+						float</font><font color="#FFFFFF" face="Arial" size="2"> 
+						*vecp = new </font>
+						<font face="Arial" size="2" color="#FF00FF">float</font><font color="#FFFFFF" face="Arial" size="2">[n];<br>
+&nbsp;&nbsp;&nbsp;&nbsp; </font><font face="Arial" size="2" color="#FF00FF">for</font><font color="#FFFFFF" face="Arial" size="2">(i=</font><font face="Arial" size="2" color="#FF0000">0</font><font color="#FFFFFF" face="Arial" size="2">;i&lt;n;i++)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vecp[i] = </font>
+						<font face="Arial" size="2" color="#FF0000">0</font><font color="#FFFFFF" face="Arial" size="2">;<br>
+						<br>
+&nbsp;&nbsp;&nbsp;&nbsp; </font><font face="Arial" size="2" color="#FF00FF">
+						while</font><font color="#FFFFFF" face="Arial" size="2">(w&gt;</font><font face="Arial" size="2" color="#FF0000">1</font><font color="#FFFFFF" face="Arial" size="2">)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; w/=</font><font face="Arial" size="2" color="#FF0000">2</font><font color="#FFFFFF" face="Arial" size="2">;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
+						<font face="Arial" size="2" color="#FF00FF">&nbsp;&nbsp;&nbsp; 
+						for</font><font color="#FFFFFF" face="Arial" size="2">(i=</font><font face="Arial" size="2" color="#FF0000">0</font><font color="#FFFFFF" face="Arial" size="2">;i&lt;w;i++)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+						vecp[i] = (vec[</font><font face="Arial" size="2" color="#FF0000">2</font><font color="#FFFFFF" face="Arial" size="2">*i] 
+						+ vec[</font><font face="Arial" size="2" color="#FF0000">2</font><font color="#FFFFFF" face="Arial" size="2">*i+</font><font face="Arial" size="2" color="#FF0000">1</font><font color="#FFFFFF" face="Arial" size="2">])/</font><font face="Arial" size="2" color="#FFFF00">sqrt</font><font color="#FFFFFF" face="Arial" size="2">(</font><font face="Arial" size="2" color="#FF0000">2.0</font><font color="#FFFFFF" face="Arial" size="2">);<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+						vecp[i+w] = (vec[</font><font face="Arial" size="2" color="#FF0000">2</font><font color="#FFFFFF" face="Arial" size="2">*i] 
+						- vec[</font><font face="Arial" size="2" color="#FF0000">2</font><font color="#FFFFFF" face="Arial" size="2">*i+</font><font face="Arial" size="2" color="#FF0000">1</font><font color="#FFFFFF" face="Arial" size="2">])/</font><font face="Arial" size="2" color="#FFFF00">sqrt</font><font color="#FFFFFF" face="Arial" size="2">(</font><font face="Arial" size="2" color="#FF0000">2.0</font><font color="#FFFFFF" face="Arial" size="2">);<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+						<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
+						<font face="Arial" size="2" color="#FF00FF">&nbsp;&nbsp;&nbsp; 
+						for</font><font color="#FFFFFF" face="Arial" size="2">(i=</font><font face="Arial" size="2" color="#FF0000">0</font><font color="#FFFFFF" face="Arial" size="2">;i&lt;(w*</font><font face="Arial" size="2" color="#FF0000">2</font><font color="#FFFFFF" face="Arial" size="2">);i++)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+						vec[i] = vecp[i]; <br>
+&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+						<br>
+						</font><font face="Arial" size="2" color="#FF00FF">&nbsp;&nbsp;&nbsp;&nbsp; 
+						delete</font><font color="#FFFFFF" face="Arial" size="2"> 
+						[] vecp;<br>
+						}<br>
+&nbsp;</font></td>
+					</tr>
+				</table>
+				<p align="left"><br>
+				<u><b><font face="Verdana" size="2">2D Haar Transform</font></b></u></p>
+				<p align="left"><font face="Verdana" size="2">The 1D Haar 
+				Transform can be easily extended to 2D. In the 2D case, we 
+				operate on an input matrix instead of an input vector. To 
+				transform the input matrix, we first apply the 1D Haar transform 
+				on each row. We take the resultant matrix, and then apply the 1D 
+				Haar transform on each column. This gives us the final 
+				transformed matrix. The source code for both the 1D and 2D Haar 
+				transform can be downloaded <a href="haar.cpp">here</a>. The 2D 
+				Haar transform is used extensively in image compression.</font></p>
+				<p align="left">&nbsp;</div>
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>

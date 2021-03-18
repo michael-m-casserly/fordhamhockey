@@ -1,0 +1,38 @@
+phpFormGenerator 2.08
+Author: Musawir Ali <musawir@gmail.com>
+URL: http://phpformgen.sourceforge.net
+DEMO: http://phpformgen.sourceforge.net/phpform
+
+=================================================
+INSTALLATION:
+
+1. Download the file and untar/unzip it as follows
+
+UNIX:
+tar zxvf phpFormGenerator-php-x.xx.tar.gz 
+(replace x.xx with the version number)
+
+Windows:
+use winrar or some other unzipping utility
+
+2. Upload the unpacked directory to your web host
+
+3. Set read+write+execute file permissions on the 'forms' directory and *everything* inside it (including all subdirectories and files)
+
+UNIX:
+chmod -R 777 forms
+
+4. Point your browser to http://my.server.com/phpform/index.php
+(or where ever you uploaded the program)
+
+Optional Recommended Steps:
+5. After creating a form, take a look at the form1.html for cutomizations  
+
+6. *Advance Users*: Open process.php in a text editor and scroll all the way to the bottom. You will see that the content of the "Thank You" page is located there. You can edit this portion according to your liking. Be careful while doing this as it might break your form.
+
+Thats it! Enjoy!!
+
+====================================================
+
+For script modifications, customizations and other programming services, please see the 'Services' section on the projects website at: http://phpformgen.sourceforge.net
+

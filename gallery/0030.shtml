@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Photo Gallery</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<!--#include virtual="/menus/bc_photo_gallery.html" -->
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0029.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0031.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<div class="ImageTitle">Alumni Game 2014</div>
+<br>
+
+
+<img src="/images/gallery/gallery0030.jpg" style="max-width:500px;" alt="Alumni Game 2014"><br>
+
+
+<table>
+
+<tr>
+
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Joyce Mola</div></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<p><div class="ImageLabel">April 12, 2014 -- From Left to Right: John Stevenson (Class of '63), Mike Kavanagh '77,<br/>Rich Strauss '76,  Bill Riley '76, Nick Gaudiosi '78</div></p>
+
+
+
+<!--Picture Slide Show Navigation-->
+
+<center>
+
+<table>
+
+<tr>
+
+<td width="240" align="left"><a class="smalltextlink" href="0029.shtml"><< Previous Picture</a></td>
+
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+
+<td width="240" align="right"><a class="smalltextlink" href="0031.shtml">Next Picture >></a></td>
+
+</tr>
+
+</table>
+
+</center>
+
+<!--Picture Slide Show Navigation-->
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

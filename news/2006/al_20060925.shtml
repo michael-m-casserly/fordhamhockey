@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+
+
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Goalie Coach Needed</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+<p>Sep 25, 2006 -- Joe Donovan, FC '90, Fordham's leading scorer, is coaching a Mite Minor team in Ridgefield, CT and needs a part-time goalie coach for his team.  <!--Also, the Brewster Rink would like to have a goalie coach for all age groups to conduct a weekly goalie clinic.--></p>
+
+<p>Any interested parties can contact Joe by email at <a class="textlink" href="mailto:joe_donovan@sbcglobal.net">joe_donovan@sbcglobal.net</a> or by phone at 203-438-2855.</p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>

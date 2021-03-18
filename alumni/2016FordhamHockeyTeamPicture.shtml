@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Pictures</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_team_pictures.html" -->
+
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2015FordhamHockeyTeamPicture.shtml"> << 2015 Team Picture</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><a class="smalltextlink" href="2017FordhamHockeyTeamPicture.shtml">2017 Team Picture  >></a></td>
+</tr>
+</table>
+</center>
+<!--Picture Slide Show Navigation-->
+<div class="ImageTitle">2015-16 Fordham Rams</div>
+<p>
+<center>
+<img src="/images/team/1600/2016FordhamHockeyTeamPicture.jpg" width="500" alt="2015-16 Fordham Hockey Team Picture">
+<table>
+<tr>
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Perry Grosser</div></td>
+</tr>
+</table>
+</center>
+</p>
+<p>
+<div class="ImageLabel">January 2016 -- Ice Hutch, Mount Vernon, NY -- 2015-16 Team Picture</div>
+</p>
+<div class="ImageLabel">
+<b>From left to right:</b> (<i>Standing</i>) Rich Guberti (<b>Head Coach</b>), Art DellaSalla (<b>Asst. Coach</b>), John Fox (<b>Asst. Coach</b>), Joe Rametta, John Murray, Sean Johnson, Rich Podpirka, Joe Jacobello, Connor McHugh, Nick Allardi, Ryan Findeisen, Max Leveroni, Brendan Hill, Trey Herlitz-Ferguson, Andrew Mola (<b>GM</b>), Mike Gamby, George Pappous, Dave Smith (<b>Asst. Coach</b>);<br/>(<i>Front Row</i>) Cole Taylor, Ryan Flood (A), Joey Houser, John Oddo (C), Nick Guberti (A), Marty Bartoszewicz (A), Connor Davis, Pay Killion</div>
+
+<p><div class="ImageLabel"><a target="_blank" href="/images/team/800/2016FordhamHockeyTeamPicture.jpg">View Larger Image</a> (800 x 476)<img src="/images/spacer.gif" height="10" width="20" style="width:20px; height:10px;"><a target="_blank" href="/images/team/1600/2016FordhamHockeyTeamPicture.jpg">View Largest Image</a> (1600 x 952)</div></p>
+<!--Picture Slide Show Naviagtion-->
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2015FordhamHockeyTeamPicture.shtml"> << 2015 Team Picture</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><a class="smalltextlink" href="2017FordhamHockeyTeamPicture.shtml">2017 Team Picture  >></a></td>
+</tr>
+</table>
+<!--Picture Slide Show Naviagtion-->
+</center>
+<!--#include virtual="/menus/subnav_gallery.html" -->
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

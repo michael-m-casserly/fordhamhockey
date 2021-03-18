@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Captures Their 3rd MCHC Championship</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+<p>Feb 17, 2014 -- In a close game, Fordham edged out Suffolk CC by a 5-4 margin.</p>
+ 
+<p>Fordham, never trailing in the game, took leads of 1-0 (after 1st period), and 4-3 (after 2nd period), and held on for the win.</p>
+ 
+<p>After all was said and done the team ended the season with an overall record of 20-5-2-1, the third time in team history the team has won 20 games.</p>
+ 
+<p>The Rams also finished in first place for the third time in the last five years and the team played 28 games which ties the record for most games played in a single season.</p>
+ 
+<p>By season's end the team had won it's last 12 games in a row, breaking the team record for consecutive wins.</p>
+ 
+<p>Congratulations to the Fordham University Hockey program, your 2013-2014 MCHC Champions!</p>
+      <p>
+        <center>
+          <a class="leftnavlink" href="http://vimeo.com/86866663" target="_blank"><b>View Championship Game Video</b></a>
+        </center>
+      </p>
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

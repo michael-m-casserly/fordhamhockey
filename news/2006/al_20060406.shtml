@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Wedding Bells for Eric Genau, FC '98</div>
+
+
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+
+
+
+
+<p>Apr 6, 2006 -- Congratulations are in order for Eric Genau FC '98. Eric and fiancee Sarah Joyce were recently engaged in Toronto, Canada.  Sara is a Trinity College graduate, and like Eric, a native of Buffalo, NY.  The couple has yet to set a date, but the wedding will be in Buffalo, where they will reside.  Eric is also happy to announce that Sarah is a hockey fan and is 
+
+looking forward to attending many future Fordham alumni games.</p>
+
+
+
+
+
+
+
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>
+
+
+
+
+
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+
+</html>

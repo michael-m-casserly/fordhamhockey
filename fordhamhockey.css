@@ -1,0 +1,418 @@
+.bodyTag{ 
+margin:0 0 0 0; 
+background-image: url(/images/background.gif)}
+
+.pageWidth {
+}
+
+/* UPDATE: on 8/6/12 the background color throughout the site was updated from #900028 to #5e182e; This was done to match the color of the new logo that Drew sent */
+
+/* Begin Global Classes */
+/* This is a cool font from the New York Times website
+body 
+{
+background-color: white;
+font: small Georgia, serif;
+}
+
+html>body 
+{
+font: 83.5% Georgia, serif;
+}
+*/
+
+p, span, ul, li {
+text-align:left; 
+color: black; 
+font: 10pt "Verdana"}
+
+p.Header {
+text-align:center; 
+color: black; 
+font: 12pt "Tahoma"}
+
+p.TableHeader {
+text-align:center; 
+color: black; 
+font: bold 10pt "Verdana"}
+
+td {
+color: black; 
+font: 10pt "Verdana"}
+
+td.leftnavlinkselected{ 
+color: #5e183e; 
+text-align: center; 
+font: bold 10pt "Arial"}
+
+td.thinborder { 
+border-bottom: .5px solid;
+border-left: .5px solid; 
+border-top: .5px solid;
+border-right: .5px solid}
+
+.pageoutlineborder { 
+border-bottom: 3px solid #5e183e;
+border-left: 3px solid #5e183e; 
+border-top: 3px solid #5e183e;
+border-right: 3px solid #5e183e;
+background-color: #FFFFFF;
+}
+
+.bannernavmenuoutlineborder { 
+border-left: 4px solid #5e183e; 
+border-right: 4px solid #5e183e;
+background-color: #5e183e;
+}
+
+.footermenu, .bannernavmenuoutlineborder, .pageoutlineborder  {
+width:930px}
+
+/* End Global Classes */
+
+a.bottomnavlink{ 
+text-decoration: none; 
+color: white; 
+font: bold 10pt "Arial"}
+
+a.homepagelink, a.PageTitleBreadCrumb { 
+color: #5e183e; 
+text-align: left; 
+font: 10pt "Tahoma"}
+
+a.homepagelink:link, a.PageTitleBreadCrumb:link {
+color: #0000CC; }
+
+a.PageTitleBreadCrumb {
+font-weight:bold}
+
+a.smalltextlink{ 
+color: #5e183e; 
+text-align: center; 
+font: 8pt "Arial"}
+
+a.smalltextlink:link{ 
+color: #0000CC;}
+
+a.rightnavlink{ 
+color: #5e183e; 
+text-align: left;
+font: 8pt "Arial"}
+
+a.rightnavlink:link{ 
+color: #0000CC;}
+
+a.sitemapheaderlink{ 
+padding: 0px 0px 0px 0px;
+color: #5e183e; 
+font: bold 12pt "Tahoma"}
+
+a.sitemapheaderlink:link{ 
+color: #0000CC;
+}
+
+li.sitemapsublinks {
+list-style-image: url(/images/left_nav_arrow.jpg);
+background-color: white;
+text-align: left;
+vertical-align: middle;
+padding: 0px 0px 0px 0px}
+
+a.sitemapsublink{ 
+color: #5e183e; 
+font: 10pt "Tahoma"}
+
+a.sitemapsublink:link{ 
+color: #0000CC; 
+}
+
+a.statsnavlink{ 
+text-decoration: underline; 
+color: #0000CC; 
+font: 10pt "Verdana"}
+
+a.statsnavlink:visited{ 
+color: #5e183e;}
+
+a.statsnavlink:active, a.statsnavlink:hover{ 
+text-decoration: none; 
+color: #5e183e; 
+font: bold 9pt "Verdana"}
+
+a.textlink{ 
+color: #5e183e; 
+font: 10pt "Arial"}
+
+a.textlink:link{ 
+color: #0000CC; }
+
+a.highlightmodulelink{ 
+color: #000000; 
+font: bold 10pt "Arial"}
+
+a.topnavlink{ 
+color: white; 
+text-decoration: none; 
+font: bold 10pt "Tahoma"}
+
+a.topnavlink:hover{ 
+color: #FFD700; 
+text-decoration: underline; }
+
+.BoldText {
+text-align:left; 
+color: #5e183e; 
+font: bold 10pt "Arial"}
+
+.BlackText {
+text-align:left; 
+color: Black; 
+font: 10pt "Arial"}
+
+.FordhamHockeyNestDate, .FordhamHockeyNestIssue, .FordhamHockeyNestText, .FordhamHockeyNestVolume {
+color: black; 
+font: 10pt "Arial"}
+
+.FordhamHockeyNestDate {
+text-align:center; }
+
+.FordhamHockeyNestIssue {
+text-align:right;}
+
+.FordhamHockeyNestText, .FordhamHockeyNestVolume {
+text-align:left;}
+
+.FordhamHockeyNestTitle {
+text-align: center; 
+color: black; 
+font: bold 12pt "Tahoma"}
+
+.FooterText {
+text-align:center; 
+color: black; 
+font: 8pt "Arial"}
+
+.FooterTitle {
+text-align:center; 
+color: #5e183e; 
+font: bold 16pt "Tahoma"}
+
+.ImageCredit {
+text-align:right;
+color: black; 
+font: 8pt "Arial"}
+
+.ImageLabel {
+text-align:center; 
+color: black; 
+font: 8pt "Arial"}
+
+.ImageTitle {
+text-align:center; 
+color: #5e183e; 
+font: bold 12pt "Tahoma"}
+
+.LeftNavText { 
+color: #5e183e; 
+text-align: center; 
+font: bold 12pt "Comic Sans MS"}
+
+.NewsArticleAuthor, .RightNavTitle, .HomePageNewsPublished {
+text-align:left; 
+color: black; 
+font: 8pt "Arial"}
+
+.HomePageNewsPublished {
+padding-left: 5px;}
+
+.NewsArticleTitle, .PageTitle {
+text-align: left; 
+color: #5e183e; 
+font: bold 12pt "Tahoma"}
+
+.RightNavHeader {
+text-align: center; 
+color: black; 
+font: bold 10pt "Tahoma"}
+
+.SectionHeader {
+text-align: left; 
+color: #5e183e; 
+font: bold 14pt "Tahoma"}
+
+.ThumbTitle {
+text-align:center; 
+color: #5e183e; 
+font: bold 10pt "Tahoma"}
+
+.TodaysDateText { 
+color: #5e183e; 
+font: bold 8pt "Arial"}
+
+.seperator {
+border-bottom: 1px solid #5e183e;
+background-color: white;
+height: 5px}
+
+/* Begin Left Navigation Classes */
+
+li.leftnavlinks {
+list-style-image: url(/images/left_nav_arrow.jpg);
+background-color: white;
+text-align: left;
+vertical-align: middle;
+border-bottom: 1px solid #5e183e;
+padding: 5px 0px 5px 0px}
+
+a.leftnavlink{
+padding-left: 5px;
+color: #5e183e; 
+text-align: center; 
+font: 10pt "Arial"}
+
+a.leftnavlink:link{ 
+color: #0000CC; }
+
+/* End Left Navigation Classes */
+
+/* Begin Module Classes */
+
+.ModuleBox {
+border-left: 1px solid #5e183e;
+border-right: 2px solid #5e183e;
+border-bottom: 2px solid #5e183e;
+border-top: 1px solid #5e183e;
+/*
+background-color: white; 
+padding: 5px;
+margin: 10px 5px 10px 10px;
+border-top: 1px solid navy;
+border-right: 2px solid navy;
+border-bottom: 2px solid navy;
+border-left: 1px solid navy;
+*/
+}
+
+.ModuleBoxTitle {
+background-color: #5e183e;
+vertical-align: top;
+text-align: left;
+padding: 5px}
+
+.ModuleTitle {
+text-align: center; 
+color: white; 
+font: bold 10pt "Tahoma"; 
+padding-top:5px;
+padding-bottom:5px;
+background-color: #5e183e;}
+
+a.ModuleTitleLink {
+text-decoration: underline; 
+text-align: left; 
+color: white; 
+font: bold 10pt "Tahoma"}
+
+/* End Module Classes */
+
+/* Begin Quick Links */
+
+li.quicklinks {
+list-style-image: url(/images/news_bullet_homepage.jpg);
+background-color: white; 
+text-align: left;
+vertical-align: middle;
+border-bottom: 1px solid #5e183e;
+padding: 5px 0px 5px 0px}
+
+a.quicklinkslink{ 
+color: #5e183e; 
+text-align: left; 
+padding-left: 5px;
+font: 10pt "Tahoma"}
+
+a.quicklinkslink:link{ 
+color: #0000CC; }
+
+/* End Quick Links */
+
+/* Begin Home Page News */
+
+li.newsbullet{
+list-style-image: url(/images/news_bullet_homepage.jpg);
+background-color: white;
+text-align:left;
+padding: 0px 0px 5px 0px}
+
+a.newsbulletlink, .alumniPublicationTitleHomePage, .alumniPublicationCreditHomePage{ 
+color: #5e183e; 
+font: 10pt "Arial";
+padding-left: 5px}
+
+a.newsbulletlink:link{
+color: #0000CC; }
+
+.alumniPublicationTitleHomePage
+{
+font-style:italic;
+}
+
+.alumniPublicationCreditHomePage
+{
+text-decoration:none;
+padding-left:5px;}
+
+/* End Home Page News */
+
+/* Begin Index Pages */
+
+li.IndexPages{
+list-style: none;
+background-color: white;
+text-align:left;
+padding: 10px 0px 10px 0px}
+
+.IndexPageDates {
+width: 100px;
+padding: 0px 10px 0px 0px;
+text-align: right; 
+color: #5e183e; 
+font: bold 10pt "Arial"}
+
+a.IndexPageLink{ 
+color: #5e183e; 
+font: 10pt "Arial"}
+
+a.IndexPageLink:link{
+color: #0000CC}
+
+/* End Index Pages */
+
+/* Added Breadcrumb for Responsive pages, May 2019*/
+.breadcrumb {
+	padding-top: 30px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
+	border: 2px solid black; 
+	border-radius:5px;
+	padding-left: 20px !important;
+}
+
+/*Added this for responsive IFRAMEs */
+.embed-container { 
+	position: relative; 
+	padding-bottom: 56.25%; 
+	height: 0; 
+	overflow: hidden; 
+	max-width: 100%; 
+	} 
+.embed-container iframe, .embed-container object, .embed-container embed { 
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	width: 100%; 
+	height: 100%; }
+	
+/* Button properties */
+
+.btn-secondary {
+background-color: #1b95e0 !important;
+}

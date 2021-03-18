@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+
+
+
+
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Book by Rich Libero (FC '87) Hits Bookstores...</div>
+
+
+
+<div class="NewsArticleAuthor">Alumni News / Fordham Hockey Online</div></p>
+
+<p>Oct 28, 2005 -- <i>This Could Be The Year: My 30 Years As A Miami Dolphins Fan</i>, by Rich Libero (FC '87), will hit bookstores next week.</p>
+
+<!-- Noticed this link was broken on 8/6/07
+<p><a href="http://thiscouldbetheyear.com" target="_blank" class="textlink">http://thiscouldbetheyear.com</a></p>
+-->
+<center>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01AKA4JQA&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_GaT8CbZ1VCDT6" ></iframe>
+</center>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>
+
+
+
+
+
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>

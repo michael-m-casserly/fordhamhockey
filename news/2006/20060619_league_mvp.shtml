@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Goalie Joe Wichowski Named League MVP</div>
+
+
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+
+
+<p>Jun 19, 2006 -- At the Spring meeting of the Metropolitan Collegiate Hockey Conference it was announced that Fordham University Goalie Joe Wichowski was named as the league's Most Valuable Player.  Wichowski, a junior, led the Rams to their best ever seasonal record of 21-4 while capturing the team's first league championship.  For the year Wichowski led the league in wins (13), goals against average (1.96), and save percentage (93.1).</p>
+
+<p>Overall Wichowski is already Fordham's career leader in wins, games played, save percentage, and goals against average. The Unionville, Connecticut native is a Communications major at Fordham and has an equally impressive 3.3 overall GPA.</p>
+
+</div>
+
+
+
+
+
+<p><center><a class="leftnavlink" href="/recordbook/defense.shtml">View Fordham's All-Time Goaltending Record Book</a></center></p>
+
+
+
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+
+
+<p><center><a class="leftnavlink" href="/fordhamhockey/champs.shtml">Visit the <i>2006 Champs</i> section of the site...</a></center></p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Hockey Players Needed for Connecticut League </div>
+
+
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+
+
+
+
+<p>Jan 10, 2007 -- If there are any Fordham Hockey Alum who are interested in playing in a Connecticut Men's League, please contact Rob Loh (Class of 2003) as soon as possible.  The league starts playing in early February as has a 16-game season followed by playoffs.  Games will be played in the evenings on weeknights.  Rob's team is currently looking to add a player or two and <i><b>is in need of a goalie</b></i>.</p>
+
+<p>For more details, you can visit the following web site <a class="textlink" href="http://www.sportscenterct.com" target="_blank">http://www.sportscenterct.com</a>.</p>
+
+<p>All interested players should please contact <b>Rob</b> at <a class="textlink" href="mailto:rloh@mahoneycohen.com">rloh@mahoneycohen.com</a>.</p>
+
+
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>
+
+
+
+
+
+
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+
+</html>

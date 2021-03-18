@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham To Defend MCHC Championship</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+<p>Feb 15, 2011 -- This past week the Hockey Rams accomplished something that only 3 other squads' in team history have accomplished. They clinched first place in the MCHC.</p>
+
+<p>They are the 1st team to win the league back to back. With a record 13-2-0-1, (18-3-0-2 overall) the Rams head into the playoffs as the # 1 seed.</p>
+
+<p>The playoffs will be held at the Prudential Center in Newark New Jersey this year the weekend of Feb 19-20. The Rams will face off in a semi-final game against CCM Saturday @ 1pm. The championship game against the winner of Wagner and Maritime will be held 5pm Sunday.</p>
+
+<p>The Rams will try to become the 1st team in Fordham hockey history to repeat as champions. We would love to see you come out and support the Rams in quest of their 2nd league championship.</p>
+
+<p><a href="http://www.methockey.com/" target="_blank">Official Home the Metropolitan Collegiate Hockey Conference</a></p>
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

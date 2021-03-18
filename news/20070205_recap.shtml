@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Defeats St. Thomas and Hofstra</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Feb 5, 2007 -- Recap and news...</p>
+        <p><b>vs. St. Thomas and Hofstra</b><br>
+The Rams hit the road this past weekend and defeated both St. Thomas and Hofstra by 4-3 verdicts. Both games were back and forth contests with each game being settled in the final 10 minutes. The Rams were without All-Star Goalie Joe Wichowski who was diagnosed with an MCL sprain on his knees. Filling in admirably was the backup tandem of Junior Dan Callaghan, who tuned away 28 shots versus St. Thomas, and Sophomore Greg Siroky, who stopped 25 Hoftra shots on goal. Leading the Rams in scoring this past weekend were Junior Matt Pangia with a 2-goal performance on Friday night, and Senior Dave Improta whose 2-goal 2-assist performance led Fordham past Hofstra.</p>
+<!--
+        <p><b>Team Notes</b><br>
+			As of this writing Wichowski's condition is unknown, but he felt that he had hyper-extended his knees during the collision...In even worse news, Barrett took a slap shot off his wrist during the third period and it appears his season and career at Fordham is over with a broken wrist...The 2 teams were unable to play the continuation of the October 27 Fordham home game which was stopped because of rink problems. The MCHC ruled the game a tie...The Rams have only 3 league games left before the playoffs begin...Next weekend the team is on the road to face St. Thomas on Friday (Palisades Mall) and Hoftra on Saturday (Ice Works).</p>
+			-->
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

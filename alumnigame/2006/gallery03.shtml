@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Alumni</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<!--#include virtual="/menus/bc_alumni_gallery.html" -->
+
+<div class="BoldText">Click Photos to Enlarge...</div>
+
+<br>
+
+<center><div class="ImageTitle">Alumni Game 2006 Photo Gallery</div></center>
+<center>
+
+<table width="100%" cellspacing="2" cellpadding="2">
+<tr>
+<td align="left" valign="bottom" bgcolor="white"><a class="smalltextlink" href="gallery02.shtml"><< More Pictures (Previous Page)</a></td>
+<td align="center" valign="bottom" bgcolor="white"><img src="/images/spacer.gif" style="width:1px; height:1px;"></td>
+<td align="right" valign="bottom" bgcolor="white"><!--<a class="smalltextlink" href="gallery04.html">More Pictures (Next  Page) >></a>--></td>
+</tr>
+<tr>
+<td><a href="0013.shtml"><img src="/images/alumni/thumbs/2006-013.jpg" alt="Alumni Game 2006" border="0" style="width:192px; height:144px;"></a></td>
+<td><a href="0014.shtml"><img src="/images/alumni/thumbs/2006-014.jpg" alt="Alumni Game 2006" border="0" style="width:192px; height:144px;"></a></td>
+<td><a href="0015.shtml"><img src="/images/alumni/thumbs/2006-015.jpg" alt="Alumni Game 2006" border="0" style="width:192px; height:144px;"></a></td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+<a href="0016.shtml"><img src="/images/alumni/thumbs/2006-016.jpg" alt="Alumni Game 2006" border="0" style="width:192px; height:144px;"></a>&nbsp;&nbsp;<a href="0017.shtml"><img src="/images/alumni/thumbs/2006-017.jpg" alt="Alumni Game 2006" border="0" style="width:192px; height:144px;"></a>
+</td>
+<!--
+<td><a href="0016.html"><img src="/images/alumni/thumbs/2006-016.jpg" alt="Alumni Game 2006" border="0"></a></td>
+<td><a href="0017.html"><img src="/images/alumni/thumbs/2006-017.jpg" alt="Alumni Game 2006" border="0"></a></td>
+<td><a href="0018.html"><img src="/images/alumni/thumbs/2006-018.jpg" alt="Alumni Game 2006" border="0"></a></td>
+-->
+
+</tr>
+
+<tr>
+<td align="left" valign="bottom" bgcolor="white"><a class="smalltextlink" href="gallery02.shtml"><< More Pictures (Previous Page)</a></td>
+<td align="center" valign="bottom" bgcolor="white"><img src="/images/spacer.gif" style="width:1px; height:1px;"></td>
+<td align="right" valign="bottom" bgcolor="white"><!--<a class="smalltextlink" href="gallery04.html">More Pictures (Next  Page) >></a>--></td>
+</tr>
+
+</table>
+
+</center>
+
+<br>
+
+<br>
+
+<div class="BoldText">Click Photos to Enlarge...</div>
+
+<br>
+
+<p>Please click <a class="textlink" href="index.shtml">here</a> for more Alumni Game 2006 details.</p>
+
+<!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

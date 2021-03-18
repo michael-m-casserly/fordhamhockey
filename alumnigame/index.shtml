@@ -1,0 +1,375 @@
+<!doctype html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40" lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Alumni</title>
+    
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 14">
+<style id="AlumniGame_25097_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl6325097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6425097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6525097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6625097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6725097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6825097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6925097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7025097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7125097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7225097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7325097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7425097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7525097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7625097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7725097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7825097
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#222222;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+-->
+</style>
+
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumni/index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;Alumni Game</a></div>
+
+<div id="contentstart">
+
+<p>Please click <a href="/alumnigame/previous.shtml" class="textlink">here</a> to view details from previous Alumni Games.</p>
+
+<p>
+
+<span id="pf_details">
+
+<div class="PageTitle">ALUMNI GAME 2017!!!</div>
+</span>
+<p><span><br>
+  
+  <span class="BoldText">Date: </span><span>Saturday, April 29th</span><br>
+  
+  <span class="BoldText">Time: </span><span>3:40 PM</span><br>
+  
+  <span class="BoldText">Place: </span><span>Ice Hutch, Mount Vernon, NY </span></span><a class="textlink" href="/fordhamhockey/rinks-icehutch.shtml">Directions</a></p>
+<p>Click <a href="2017/2017-alumni-game-roster-scoresheet.pdf" target="_blank">here</a> for Final Rosters, Scoresheet</p>
+
+<!--p><center><img src="/images/alumni/2017-001.jpg" border="0"/></center></p>
+<p><center><img src="/images/alumni/2017-002.jpg" border="0"/></center></p-->
+<p><center><img src="/images/alumni/2017-003.jpg" style="max-width:500px;" border="0"/></center></p>
+<p><center><img src="/images/alumni/2017-004.jpg" style="max-width:375px;" border="0"/></center></p>
+<p><center><img src="/images/alumni/2017-005.jpg" style="max-width:375px;" border="0"/></center></p>
+<p><center><img src="/images/alumni/2017-006.jpg" style="max-width:500px;" border="0"/></center></p>
+<br/><br/>
+  
+</p>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" --><!--End Bottom Navigation Menu-->
+
+</html>

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+
+      <div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Hockey Calendar Available For Sharing via Google Calendar</div>
+        <div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+        </p>
+<p>Aug 28, 2013 -- The Fordham Hockey Calendar is now available for sharing via Google Calendar. Instead of copying and pasting the events into your own calendar application, you can actually link directly to the calendar via the following options below.</p>
+
+<p><b>October 5, 2015 UPDATE</b> -- <i>Google has discontinued XML support for Google Calendar. You may still access Google Calendar via any of the 3 options listed below.</i></p>
+
+<!--Google discontinued XML support of Calendars in November 2015-->
+<!--p>1) You can copy and paste this into any feed reader (XML Format):<br/>
+<span style="font-size:9px">https://www.google.com/calendar/feeds/l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com/public/basic</span>
+</p-->
+
+<p>1) You can copy and paste this into any calendar product that supports the iCal format:<br/>
+<span style="font-size:10px; word-break: break-all;">
+https://www.google.com/calendar/ical/l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com/public/basic.ics</span>
+</p>
+
+<p>2) Google Calendar users can embed the Fordham Hockey Calendar into their own calendar by selecting "Other calendars", then "Add by URL", and then follow the prompts on the screen. You can refer to the iCal URL link above when prompted.</p>
+
+<p>3) For any other applications, if you get prompted for Calendar ID, here it is:<br/>
+<b>Calendar ID:</b> <span style="font-size:10px; word-break: break-all;">l0e69iac2j9snn7m073jd9er0o@group.calendar.google.com</span>
+</p>
+<!--p>
+Please use the following address to access your calendar in any web browser:<br/>
+https://www.google.com/calendar/embed?src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&ctz=America/New_York
+</p-->
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

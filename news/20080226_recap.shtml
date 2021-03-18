@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">C.C.M. 5, Fordham 4</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Feb 26, 2008 -- Recap and news...</p>
+        <p><b>Opening Round of Playoffs vs. County College of Morris</b><br>
+The Fordham Hockey team faced off against 2 opponents in last Saturday night first round Metropolitan Collegiate Hockey Conference playoff game. One team wore white with crimson trim, the other white with black stripes. After finishing the regular season with an 9-7 record (10-8 overall), the Rams lost their playoff opener versus the County College of Morris Titans by a 5-4 score, eliminating the team from further post-season play.</p>
+
+<p>A competitive game throughout, Fordham jumped out to a 3-0 lead after the first period on goals by Juniors Mike Winton and John Gibbons and Freshman Steve Keeler. However the lead would slowly evaporate. C.C.M. would score late in the second to cut the lead to 3-1. It was then when the "other" team affected Fordham's play. The three officials began to call penalty after penalty on the Rams. By the end of the game, the officials awarded the Titans an unheardof 14 power play opportunities. C.C.M. took advantage piling on 4 goals in the final period to take the lead. The Rams answered back with a late goal by Sophomore Conor O'Brien with 1:39 but could not convert on another while pulling their goalie Junior Greg Siroky.</p>
+
+<p>"In a game like this you want to have the best officials on the ice," said Head Coach Chip Foley FC '96, "but these guys were just brutal." The 28 minutes in penalties represented a team high for the year, and could not have come a more inopportune time. The team's leading scorer Senior Matt Pangia was unavailable for the game because of prior family commitment leaving the Rams without their top gun. "We have been playing with a short bench the entire year," Foley continued, "but not having Matt there hurt us. No excuses though, we should have beaten this team with or without him."</p>
+
+<p>With the season now over, on paper a 10-9 record doesn't seem very successful, but considering the team graduated 10 seniors coming into the season, the team can't be too disappointed with their finish. "It's kind of what I expected" said team Director of Operations Andrew Mola CBA '86, "we were competitive throughout the whole season despite a short bench and injuries. Everyone stepped up this season, they should be proud of their efforts, I know I am."</p>
+
+<p><b>POWER PLAYS:</b> In an ironic twist, the team's 232 total penalty minutes for the year were the lowest in the team's 39-year history...Senior Matt Pangia finished his 4-year Fordham career with the team 9th in total points (147), in 6th goals (86) and first in game winning goals (13)...The team posted their 5th consecutive winning season tying a team record set during the 1985-1990 seasons...The team's post-season appearance was their 8th in a row...The team's final ACHA (American Collegiate Hockey Association) ranking for their division was 16th in the Atlantic Conference, the team was ranked 9th and 10th the previous 2 seasons.</p>
+<!--
+        <p><b>Team Notes</b><br>
+			As of this writing Wichowski's condition is unknown, but he felt that he had hyper-extended his knees during the collision...In even worse news, Barrett took a slap shot off his wrist during the third period and it appears his season and career at Fordham is over with a broken wrist...The 2 teams were unable to play the continuation of the October 27 Fordham home game which was stopped because of rink problems. The MCHC ruled the game a tie...The Rams have only 3 league games left before the playoffs begin...Next weekend the team is on the road to face St. Thomas on Friday (Palisades Mall) and Hoftra on Saturday (Ice Works).</p>
+			-->
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

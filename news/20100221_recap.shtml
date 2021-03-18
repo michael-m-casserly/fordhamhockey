@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Defeats Columbia to Capture the 2009-2010 MCHC Championship</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+<p>Feb 21, 2010 -- MCHC Championship Game Results</p>
+
+<p><b>FORDHAM 6</b></p>
+
+<p><b>COLUMBIA 5</b></p>
+
+<p>What a great game and great effort from both teams!</p>
+
+<p>Fordham jumped out to an early 1-0 lead but trailed for most the way.</p>
+
+<p>Down 3-1 after 1, down 4-2 after 2, the Rams rallied back with goals at 10:45 and 6:46 mark to tie the game at 4.</p>
+
+<p>Columbia answered back with a goal at 5:11 to once again go ahead, but the Rams answered back again 45 seconds later to tie the game at 5.</p>
+
+<p>The Rams went ahead to stay with 3:33 left in the game and hung on to capture their second MCHC championship.</p>
+
+<p>The game, as mentioned below, was telecast on the WFUV intranet and the game should be archived in a few days so you can listen to it.</p>
+<hr align="left"/>
+<p>This will probably not work on Internet Explorer. Mozilla Firebox is best.</p>
+<p>On the top of the WFUV home page (<a href="http://www.wfuv.org" target="_blank">www.wfuv.org</a>)...click on news/sports...then click on Stream Fordham Sports. You'll see a schedule with links to our live and archived broadcasts.</p>
+
+<p>Click on the appropriate link and you can continue to hear the game.</p>
+
+<p>This is the direct link <a href="http://www.wfuv.org/sports/streams.html" target="_blank">http://www.wfuv.org/sports/streams.html</a></p>
+
+
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

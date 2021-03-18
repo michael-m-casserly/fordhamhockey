@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+        <div class="NewsArticleTitle">Fordham Defeats Columbia, Sweeps Season Series</div>
+        <div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+        </p>
+        <p>Jan 22, 2007 -- Recap and news...</p>
+        <p><b>vs. Columbia</b><br>
+          Last Friday night, this year's squad did something that last year's championship team could not; they defeated Columbia twice during the same season. The Rams began the second half of their difficult season with a convincing 8-3 victory over the Lions. The game did not start out like it was going to be an easy one. The Lions jumped out to an early 2-0 lead holding the Fordham offense in check for most of the first period. A late Matt Pangia goal would cut the deficit to 2-1. A missed Pangia penalty shot midway through the second period seemed to inspire his teammates. The Ram offense rallied for 3 goals in a 1:29 span to take the lead, a lead they would never again relinquish. When the dust settled the Rams closed out the third period with another 3-goal spurt, this time within a 2-minute span.</p>
+		  <p>Leading the scoring were Pangia (3 goals), Senior Steve Barrett (2 goals), and Senior John Stachulski (4 assists). Goalie Joe Wichowski chalked up his 8th win of the season turning away 21 shots.</p>
+        <p><b>Team Notes</b><br>
+The Rams picked up two players over the break: Sophomore Defensemen Mike Winton, a member of last year's championship team, and newcomer Freshman Jan Trampota; both took off the fall semester to focus on academics...This weekend Fordham faces SUNY Farmingdale at home on Friday night and travels up to Albany to go up against undefeated Albany State...The Albany State game will be unique as the team will not only play their regularly scheduled 6:15 game but they will also play the continuation of the October 27 Fordham home game which was stopped because of rink problems. The game will be picked up where it was left off with Fordham leading 2-1 going into the third period...Wichowski's 8th win ties the record for wins by a Senior goaltender which was held by Pete Agostini during the 1985-86 season...</p>
+      </div>
+      <p>
+        <center>
+          <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
+        </center>
+      </p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+<div class="NewsArticleTitle">Fordham 4, St. Thomas Aquinas 3</div>
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+<p>Oct 27, 2005 -- The Rams got back on track this past Wednesday with an important division win against St. Thomas Aquinas by a 4-3 verdict.</p>
+
+<p>The game was a fight for claim to first place in the newly formed Central Division of the MCHC. St. Thomas came into the game undefeated (3-0) while the Rams (3-1) were both tied in total points with 6.</p>
+
+<p>For Fordham's second game in a row, both teams were scoreless through one period.  Junior John Stachulski opened the scoring at the 18:56 mark of the second period with the first of his three goals on the night. St. Thomas's Steve Pereless tied at the 15:47 mark, but Stachulski answered back with another Fordham goal 12 seconds later. The teams traded goals to send the game into a 3-2 third period. Mid way through he third Spartans winger Chris Durdunas knotted the game at 3-3 and it looked like the game was heading into the inevitable overtime shootout. Fortunately for the Rams Junior Dave Improta's goal with 7:39 in the game gave Fordham the lead. The Rams defense held back any additional Spartan offense and Fordham was able to skate away with the victory. In the nets, Junior Joe Wichowski turned away 24 shots in the winning effort. With the victory Wichowski becomes the all time leader in wins for a goalie (31-13-4) passing John Gillespie's 30 wins set during the 1987-1991 seasons.</p>
+
+<p>Team notes:  Fordham now holds a 2-3-0 record lifetime over St. Thomas...Only 10 minutes of penalties were accessed during the game...Both teams went scoreless on the power play...Fordham has not allowed a power play goal in their last 3 games...The Rams are now 4-1 in league play, 5-1 overall.</p>
+
+<div style="text-align:center; font:10pt Verdana;">
+<b>Upcoming games:</b>
+<p>Friday 10/28  Briarcliffe - Home   Ice Hutch - Mount Vernon, NY  10:15 pm</p>
+</div>
+</div>
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

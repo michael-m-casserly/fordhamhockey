@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">Fordham Falls in PA</div>
+
+
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+<p>Feb 14, 2006 -- With the regular league season slate of games finished, the Rams traveled to Lancaster, Pennsylvania for what was supposed to be 2 games against Delaware Valley College Hockey Conference members Millersville and Franklin and Marshall.</p>
+
+<p>On Friday night, in a very competive game, the Marauders defeated Fordham by a 3-1 verdict. Millersville jumped on top one minute into the game on a John York's shot passed Ram goalie Joe Wichowski. Despite 97 shots on goal between both teams (Fordham 51 - Millersville 46), the game was locked at 1-0 until the 7:34 mark of the third period when Rams Freshman and Buffalo native John Gibbons' power play goal tied the game. The lead was short lived as Millersville's Bill Cleary put the Marauders ahead to stay with 5 minutes left in the game. The Rams pulled goalie Dan Callaghan with a minute left in the game, but a Toni Nardi empty net goal sealed Fordham's fate.</p>
+
+<p>Team notes: The Saturday afternoon game versus Franklin and Marshall was cancelled in anticipation of the snowstorm which hit the area and dumped 26 inches on snow...All three Rams goalies saw one period of action in the Millersville game, with Joe Wichowki stopping 13 of 14 shots, Freshman Greg Siroky stopping all 23 shots, and Junior Dan Callaghan stopping 10 of 11 shots...Fordham will have to wait another day to find out who their first round oppoentnet in the MCHC playoffs since the snow forced a number of important league games to be cancelled and postponed...Irrelevant who Fordham plays, they are the number 2 seed.</p>
+
+<div style="text-align:center; font:10pt Verdana;"><b>Upcoming games: TBD</b></div>
+
+
+
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+
+
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+
+
+</html>

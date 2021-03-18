@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>AXA Private Markets - Plan Smart - Seminar Registration Form</title>
+<link rel="stylesheet" href="/axaprivatemarkets/css/EventForm.css" type="text/css" />
+
+<script src="/javascript/GeneralUtil.js" type="text/javascript"></script>
+<script src="/javascript/FormValidation.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+		function submitForm() {
+			var frm = document.forms[0];
+			var valid = false;
+			valid = checkAlpabets(frm.firstName, "First name");
+			if (valid) valid = checkAlpabets(frm.lastName, "Last name");
+			if (valid) valid = checkNumber(frm.phoneArea, "Area Code", 3);
+			if (valid) valid = checkNumber(frm.phoneOne, "Phone number", 3);
+			if (valid) valid = checkNumber(frm.phoneTwo, "Phone number", 4);
+			if (valid) valid = checkEmail(frm.email);
+			if (valid) valid = checkString(frm.chooseSeminar, "Seminar");
+			if (valid) frm.submit();
+		}
+</script>
+
+</head>
+
+<body>
+
+<!--#include virtual="/axaprivatemarkets/common/form-0-banner.html"-->					   
+ 
+<INPUT TYPE="hidden" NAME="Form Name" VALUE="AXA Private Markets - Plan Smart Seminar">
+<INPUT TYPE="hidden" NAME="Subject" VALUE="AXA Private Markets - Plan Smart Seminar - Form Submission">
+<INPUT TYPE="hidden" NAME="KanaPath" VALUE="/cgi-bin/kana/KanaMail.cgi">
+
+<p class="IntroParagraph">Thank you for your interest in <b>Plan Smart</b>.<br />We look forward to seeing you at this exclusive program.</p>
+
+<!--#include virtual="/axaprivatemarkets/common/form-1-top-fields.html"-->					  
+
+<!--#include virtual="/axaprivatemarkets/common/form-2-seminar-dates-plansmart.html"-->					  
+
+<!--#include virtual="/axaprivatemarkets/common/form-3-bottom-fields.html"-->					  
+
+
+         
+</body>
+</html>

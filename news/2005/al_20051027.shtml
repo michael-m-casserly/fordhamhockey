@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Congrats to Doug Winkler, CBA '87</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+
+
+<p>Oct 27, 2005 -- Congratulations are in order for Doug Winkler CBA '87. Doug and his wife celebrated the birth of their child Kevin Michael Winkler last week. At 7 lbs, 5 ounces and 16 days early, is it expected that Doug's second child should be ready to play for the team by by the 2023-2024 season.</p>
+
+
+
+<p>In other alumni news we would like to recognize the fact that 5 Fordham alumni are presently coaching in the local Catholic High School Hockey League. The C.H.S.H.L. has been around since 1973 and many Fordham University alumni have played one of the now 20 teams currently in the league. The former Rams who are now either Head Coach or Assistant Coaches for the Varsity or Junior Varsity teams include Alan Pilla FC '84 (Fordham Prep), Ed Armellino FC '85 (Chaminade), Tim Turnbull FC '02 (Iona Prep), Jim Felakos CBA '04 (Mount St. Michael) and Matt Hogan FC '05 (Archbishop Stepinac).</p>
+
+
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,85 @@
+<!doctype html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40" lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Roster</title>
+ 
+ <style>
+#Iframe-Liason-Sheet {
+   max-width: 325px;
+   max-height: 1139px; /* Adjust this value whenever an update is applied to the current roster */
+   overflow: hidden;
+ }
+  /* inner wrapper: make responsive */
+ .responsive-wrapper {
+   position: relative;
+   height: 0;  /* gets height from padding-bottom setting */
+   -webkit-overflow-scrolling: touch;
+   overflow: auto;
+ }
+ .responsive-wrapper iframe {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   margin: 0;
+   padding: 0;
+   border: none;
+ }
+ /* padding-bottom = h/w as a % */
+ .responsive-wrapper-wxh-550x2000 {
+   padding-bottom: 363.6364%;
+ }
+ .iframe-border {
+   border: 1px solid #000;
+ }
+ .center-block-horiz {
+   margin-left: auto !important;
+   margin-right: auto !important;
+ }  
+ </style>   
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><!--a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="index2.html">Roster</a--><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;Roster</a></div>
+
+<!--Removed width='750' height='600' from IFRAME to make it responsive-->
+<div id="Iframe-Liason-Sheet" class="iframe-border center-block-horiz">
+   <div class="responsive-wrapper responsive-wrapper-wxh-550x2000">
+     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNXnCDctCmfCHOOWkeP4cBOL7fo-UCrTR7FE07moFkfUoGntlmScjSdOOPcuCMEbh_eMbTFy9feBAt/pubhtml?widget=true&amp;headers=false"> 
+       <p style="font-size: 110%;"><em><strong>ERROR: </strong>An &#105;frame should be displayed here but your browser version does not support &#105;frames.</em> Please update your browser to its most recent version and try again.</p>
+     </iframe>
+   </div>
+</div>  
+
+<br/>
+<p><center>Please use the tabs inside of the Google or Excel sheets below to view the rosters from previous seasons, 2005 to present.</center></p>
+
+<p><center>This roster above uses an "iframe" to display a Google Spreadsheet. If you are having trouble viewing the schedule in this window, it can also be accessed via the following links:<br/><br/>
+<a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheet/pub?key=0AlQr0QPHF4jpdEZ6MmNPNjdNYk1QdEUyNnB0MkphYlE&output=html" target="_blank">Google Drive<sup>&reg;</sup> (Updated Regularly) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/roster/Fordham Hockey Roster.xlsx" target="_blank">Microsoft Excel<!--img src="/images/excel_icon_small.gif" border="0" style="width:16px; height:17px;" /--> (Updated Yearly) &raquo;</a></p>
+
+<p><center>This document is stored on Google Drive<sup>&reg;</sup>. In some cases, depending on your browser or firewall settings, you may experience issues trying to access it. If this happens to you, please try clearing the cache and cookies from your browser, and that should resolve the issue.</center></p>
+
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

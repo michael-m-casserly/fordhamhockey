@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Chris Santangelo on "Law &amp; Order: SVU"</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+<p>November 8, 2009 -- Chris Santangelo class of 1991, who had also previously had a small part on the Soprano's, is back on the small screen in "<i>Law and Order:SVU</i>". For those who do not know Chris, he is the actor that is carrying the bolt cutters and yes he does look like Jesus Christ.</p>
+
+<!--p>Please click <a href="http://www.megavideo.com/?v=DUN502F2" target="_blank">here</a> or on the link below. When you get to the site, hit the red play button, let it load, it turns green, hit it again and it'll take you right to the episode.  Chris is in the first scene.  The episode is called "<i>Spooked</i>" and it aired October 28th.</p>
+
+<p><a href="http://www.megavideo.com/?v=DUN502F2" target="_blank">http://www.megavideo.com/?v=DUN502F2</a></p-->
+
+<p>Please see related news...<a href="/news/al_20091118.shtml">Chris Santangelo on "Sherri"</a>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

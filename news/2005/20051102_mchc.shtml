@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+      <!--#include virtual="/menus/bc_news.html" -->
+<div id="contentstart">
+
+
+
+<div class="NewsArticleTitle">MCHC Honors Fordham Player</div>
+
+
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div></p>
+
+
+
+
+
+
+
+<p>Nov 2, 2005 -- The M.C.H.C. named Fordham goalie Joe Wichowski 'FC 07 the player of the month for October 2005.</p>
+
+
+
+<p>Joe had a record of 5-1 during the month with a goals against average of 1.43, a save percentage of 95.1 %, and 2 shutouts.</p>
+
+
+
+<p>Only a junior, he has already won more games than any other goalie in Fordham history (32-13-4) with a lifetime 2612 minutes played (2nd all time), 
+
+a 90.6% save percentage, and 52 lifetime appearances (2nd all time).</p>
+
+
+
+<p><a class="textlink" target="_blank" href="http://www.methockey.com">http://www.methockey.com</a></p>
+
+
+
+</div>
+
+
+
+<p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
+
+
+
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+
+
+
+</html>

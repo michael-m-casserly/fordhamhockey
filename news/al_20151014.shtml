@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Father of Bryan Delaney (FC '90) Passes Away</div>
+
+<div class="NewsArticleAuthor">By Drew Mola / Fordham Hockey Online</div>
+
+
+
+<p>October 14, 2015</p>
+
+<p>Dear Fellow Alumni,</p>
+
+<p>I wanted to inform the Fordham Hockey community of the passing of Joe Delaney, father of Bryan Delaney FC '90. Mr. Delaney frequently attended many of our games despite travelling quite a long distance from his home in Massachusetts.</p>
+<p>Please keep him in your prayers, may be rest in peace. Below is a note from his line mate Chris Crotty.</p>
+ 
+ 
+<p>Drew,<br/>Bryan buried his father Joseph Delaney (87) this morning. I was at the wake yesterday. Talking with Bryan and his brothers about Fordham Hockey brought several moments of laughter and joy to an otherwise somber event. His dad was a big fan of Fordham Hockey and talked about it for years after we graduated. Bryan asked that I get the word out about the passing of his father to those who would remember him in the stands and from around the rink. It would probably just be the guys from our '85-'86 teams. I do not have many of the emails. Can you help me with this? I have attached a copy of the obituary. Thanks Drew.  Crotts</p>
+
+<p><a href="http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=joseph-t-delaney&pid=176056182&fhid=9261" target="_blank">http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=joseph-t-delaney&pid=176056182&fhid=9261</a></p>
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>

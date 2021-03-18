@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Fordham Hockey--Shop</title>    
+      <SCRIPT LANGUAGE="javascript" TYPE="TEXT/JAVASCRIPT">
+
+function checkform()
+{
+   	frm = document.tshirtform;	
+  	selectedVal = frm.os0.options[frm.os0.options.selectedIndex].value;
+	if (selectedVal == '')
+	{
+		// something is wrong
+		alert('Please Select a Shirt Size');
+		return false;
+	}
+/*	else if (value of next field is or isn't something)
+	{
+		// something else is wrong
+		alert('There is a problem with...');
+		return false;
+	}
+*/
+	// If the script gets this far through all of your fields
+	// without problems, it's ok and you can submit the form
+	return true;
+}
+
+</SCRIPT>
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+      <!--Begin Central Content-->
+      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Fordham Hockey Shop</a></div>
+      
+      <table width="100%">
+        <tr>
+          <td>Welcome to the Fordham Hockey Shop, powered by PayPal!<br>
+            <br>
+            <i>Please note:</i><br>
+            A PayPal account is <b><i>not</i></b> required if purchasing by credit card.</td>
+          <td align="right"><img src="/images/shop/paypal_credit_cards.jpg" border="0">
+            <!--<img src="/images/shop/logo-paypal.gif" border="0">-->
+          </td>
+        </tr>
+		<tr>
+			<td colspan="2" align="left"><!--<b><i>This item is currently out of stock.</i></b><br><br>If you are interested in back-ordering a 2006 MCHC Championship Shirt, please email us at <a class="textlink" href="mailto:shop@fordhamramshockey.com">shop@fordhamramshockey.com</a><br>Please specify the desired quantity and size(s) in your email.<br>Sizes come in S, M, L, XL, and XXL.--></td>
+      </table>
+      <center>
+        <!--This is the "Add to Cart" button -->
+        <table width="100%" cellpadding="3" cellspacing="0" class="ModuleBox">
+          <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" name="tshirtform" onSubmit="return checkform()">
+            <tr bgcolor="#5e183e">
+              <td colspan="3" align="center" style="color:#FFF; font:bold 12pt Tahoma;">2006 MCHC Championship T-Shirt</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><br>
+                <span class="ImageCredit"><b>Front</b></span><br>
+                <a href="javascript:popup_custom('shop_item','/shop/2006_MCHC_Championship_T-Shirt_front.html',640,600)"><img src="/images/shop/tshirt_champs06-front_thumb.jpg" border="0" alt="2006 MCHC Championship T-Shirt"></a><br>
+                <br>
+                <a class="smalltextlink" href="javascript:popup_custom('shop_item','/shop/2006_MCHC_Championship_T-Shirt_front.html',640,600)">View Larger Front</a>
+                <p style="text-align:center"><b>Price</b>: $20.00</p></td>
+              <td align="center" valign="top"><br>
+                <span class="ImageCredit"><b>Back</b></span><br>
+                <a href="javascript:popup_custom('shop_item','/shop/2006_MCHC_Championship_T-Shirt_back.html',640,600)"><img src="/images/shop/tshirt_champs06-back_thumb.jpg" border="0" alt="2006 MCHC Championship T-Shirt"></a><br>
+                <br>
+                <a class="smalltextlink" href="javascript:popup_custom('shop_item','/shop/2006_MCHC_Championship_T-Shirt_back.html',640,600)">View Larger Back</a><br>
+                <br>
+                <a class="smalltextlink" href="javascript:popup_custom_scroll('shop_item2','/shop/2006_MCHC_Championship_T-Shirt_back_text.html',657,684)"><b>Close-up of Writing on Back</b></a><br>
+                <br></td>
+              <td align="center"><!--<p style="background-color:#FFFF00; text-align:center"><i>Please place your order by <b>April 22, 2006</b>.<br>Items will be shipped to arrive the end of the 1st week in May.</i></p>-->
+                <p><b>Color</b>:&nbsp;Maroon</p>
+                <input type="hidden" name="on0" value="Size">
+                <b>Size</b>:<!--&nbsp;<a class="textlink" href="mailto:shop@fordhamramshockey.com">Please Email Us...</a>-->
+                <select name="os0">
+                  <option value="">Please Select...</option>
+                  <!--
+				  <option value="Small">Small</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Large">Large</option>
+				  -->
+                  <option value="XL-Extra Large">XL-Extra Large</option>
+                  <!--
+				  <option value="XXL-Double XL">XXL-Double XL</option>
+				  -->
+                </select>
+                <br>
+                <br>
+                <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+                <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1"><br>
+                <br>
+                <a class="smalltextlink" href="javascript:popup_custom_scroll('shop_fees','/shop/fees_policy.html#shipping',360,265)">Shipping &amp; Handling Details</a><br>
+                <br>
+                <a class="smalltextlink" href="javascript:popup_custom_scroll('shop_fees','/shop/fees_policy.html#returns',360,265)">View Our Return Policy</a></td>
+            </tr>
+            <input type="hidden" name="add" value="1">
+            <input type="hidden" name="cmd" value="_cart">
+            <input type="hidden" name="business" value="shop@fordhamramshockey.com">
+            <input type="hidden" name="item_name" value="Fordham Hockey 2006 MCHC Champions T-Shirt">
+            <input type="hidden" name="amount" value="20.00">
+            <input type="hidden" name="page_style" value="Primary">
+            <input type="hidden" name="return" value="http://www.fordhamramshockey.com/shop/payment_confirm.html">
+            <input type="hidden" name="cancel_return" value="http://www.fordhamramshockey.com/shop/payment_cancel.html">
+            <input type="hidden" name="currency_code" value="USD">
+            <input type="hidden" name="lc" value="US">
+            <input type="hidden" name="bn" value="PP-ShopCartBF">
+          </form>
+        </table>
+        <p><b><i>Avoid Shipping &amp; Handling Fees... Place a Pick-up Order!</i></b><br>
+          To place a <i>Pick-up</i> order, please add the item(s) to you cart, and select the "<i><b>Shipping is not required</b></i>" option on the order form before checking out.  Orders can be picked up in New York City (<i>Manhattan, 25th Street and Park Ave.</i>) or Mount Vernon, NY (<i>Zip Code 10552</i>).
+          
+          You will be contacted via email once your order is ready for pickup.</p>
+        <p>Any questions, concerns, or special requests (i.e. cash payment on pickups, etc.) should be directed to the Fordham Hockey Shop via <a href="mailto:shop@fordhamramshockey.com" class="textlink">shop@fordhamramshockey.com</a>.</p>
+        <!--This is the "View Cart" button-->
+        <div align="right">
+          <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <input type="hidden" name="cmd" value="_cart">
+            <input type="hidden" name="business" value="shop@fordhamramshockey.com">
+            <input type="image" src="https://www.paypal.com/en_US/i/btn/view_cart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+            <input type="hidden" name="display" value="1">
+            <input type="hidden" name="page_style" value="Primary">
+          </form>
+        </div>
+      </center>
+      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+
+</html>

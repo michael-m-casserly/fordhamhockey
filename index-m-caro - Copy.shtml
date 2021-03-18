@@ -1,0 +1,372 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>Fordham University Hockey -- www.fordhamramshockey.com</title>
+
+    <!--link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/carousel/"-->
+
+<!--Begin code ported over from original site-->
+<meta name="keywords" content="fordhamhockey.com Fordham University Fordham Hockey Club Sports Rams Hockey Ice Hockey Metropolitan Collegiate Hockey Conference MCHC ACHA American Collegiate Hockey Association">
+<meta name="description" content="Fordham University Ice Hockey, The Official Site of the 2006, 2010, 2014, 2018 and 2019 MCHC Champions!!! Roster, Schedule, Stats, Alumni Info, and much more...">
+<!-- nocache headers -->
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="no-cache" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<meta http-equiv="cache-control" content="no-cache">
+<!-- end nocache headers -->
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="msthemecompatible" content="yes">
+<meta name="robots" content="index,follow">
+<link rel="stylesheet" type="text/CSS" href="/fordhamhockey.css" media="screen">
+<link rel="stylesheet" type="text/CSS" href="/fordhamhockey_print.css" media="print">
+<script src="javascript/newwindows.js" language=javascript type="text/javascript"></script>
+<script src="javascript/printer-friendly.js" language=javascript type="text/javascript"></script>
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="icon" type="image/gif" href="animated_favicon1.gif">
+<!--End code ported over from original site-->
+
+    <!-- Bootstrap core CSS -->
+<link href="https://getbootstrap.com/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+	  /*force all images to be responsive*/
+	  img
+	  	{
+			width: 100%;
+			height: auto;
+		}
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="https://getbootstrap.com/docs/4.3/examples/carousel/carousel.css" rel="stylesheet">
+    <!-- Use this if a jumbotron is preferred to the carousel...
+    <link href="https://getbootstrap.com/docs/4.3/examples/jumbotron/jumbotron.css" rel="stylesheet">
+     -->
+    
+<!-- Begin Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45783609-1', 'fordhamramshockey.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics Code -->
+    
+  </head>
+  <body>
+    <header>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <a class="navbar-brand" href="/index.shtml"><img src="/images/logo_fordhamhockey.jpg" width="60" height="50" border="0" alt="Fordham Hockey" style="width:60px; height:50px;"></a>
+  <a class="navbar-brand" href="/index.shtml"><img src="/images/FordhamHockeyBanner.gif" border="0" alt="Fordham Hockey" style="width:142px; height:50px;"></a>
+  <!--a class="navbar-brand" href="/index.shtml">Fordham Hockey</a-->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/index.shtml">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="/roster/index.shtml" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Current Team</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="/fordhamhockey/index.shtml">Championships</a>
+          <a class="dropdown-item" href="/news/generalinfo.shtml">General Info</a>
+          <a class="dropdown-item" href="/fordhamhockey/news.shtml">News</a>
+          <a class="dropdown-item" href="/fordhamhockey/rinks.shtml">Rinks</a>
+          <a class="dropdown-item" href="/roster/index.shtml">Roster</a>
+          <a class="dropdown-item" href="/schedule/index.shtml">Scoreboard</a>
+          <a class="dropdown-item" href="/stats1/index.shtml">Stats</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="/stats1/alltime.shtml" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Record Book</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="/recordbook/assists.shtml">Assists</a>
+          <a class="dropdown-item" href="/recordbook/bestworstoutings.shtml">Best and Worst Outings</a>
+          <a class="dropdown-item" href="/recordbook/coaching.shtml">Coaching</a>
+          <a class="dropdown-item" href="/recordbook/goals.shtml">Goals</a>
+          <a class="dropdown-item" href="/recordbook/defense.shtml">Individual Defense</a>
+          <a class="dropdown-item" href="/recordbook/offense.shtml">Individual Offense</a>
+          <a class="dropdown-item" href="/recordbook/pim.shtml">Penalty Minutes</a>
+          <a class="dropdown-item" href="/recordbook/points.shtml">Points</a>
+          <a class="dropdown-item" href="/recordbook/powerplay.shtml">Power Play</a>
+          <a class="dropdown-item" href="/recordbook/specialgoals.shtml">Special Team Goals</a>
+          <a class="dropdown-item" href="/recordbook/teamrecords.shtml">Team Records</a>
+          <a class="dropdown-item" href="/recordbook/wonloss.shtml">Won-Loss</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="/alumni/index.shtml" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Alumni</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="/alumnigame/index.shtml">Alumni Game</a>
+          <a class="dropdown-item" href="/alumni/contact.shtml">Contact Us</a>
+          <a class="dropdown-item" href="https://www.linkedin.com/groups/5132099/" target="_blank">Fordham Hockey Alumni Group on LinkedIN</a>
+          <a class="dropdown-item" href="/alumni/news.shtml">News</a>
+          <a class="dropdown-item" href="/alumni/gallery.shtml">Photo Gallery</a>
+          <a class="dropdown-item" href="/alumni/pictures.shtml">Team Pictures</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="/alumni/contact.shtml">Contact Us</a>
+          <a class="dropdown-item" href="/donate.shtml">Donate</a>
+          <a class="dropdown-item" href="/links.shtml">Links</a>
+          <a class="dropdown-item" href="/recruit/">Recruits</a>
+          <a class="dropdown-item" href="/shop/index.shtml">Shop</a>
+          <a class="dropdown-item" href="/sitemap.shtml">Site Map</a>
+        </div>
+      </li>
+      <!--li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li-->
+    </ul>
+    <form class="form-inline my-2 my-lg-0" method="GET" action="http://www.google.com/custom">
+      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" name="q" size="13" maxlength="255" value="">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit" name="sa">Go</button>
+      <INPUT type="hidden" name="cof" VALUE="S:http://www.fordhamramshockey.com;VLC:#5e183e;AH:center;LH:95;LC:black;L:http://www.fordhamramshockey.com/images/banner_google.gif;ALC:#5e183e;LW:708;T:black;AWFID:0cc56407884f14f7;"><input type="hidden" name="domains" value="www.fordhamramshockey.com"><br><input type="hidden" name="sitesearch" value="www.fordhamramshockey.com" checked><!--span style="font-size:10px; color:#FFF; padding-right:10px;">This Site</span><input type="radio" name="sitesearch" value=""><span style="font-size:10px; color:#FFF;">The Web</span--><br><a href="http://www.google.com" target="_blank">Powered by Google&reg;</a>
+    </form>
+  </div>
+</nav>
+</header>
+
+<main role="main">
+
+  <!-- Main jumbotron for a primary marketing message or call to action
+  <div class="jumbotron">
+    <div class="container" align="center">
+    -->
+
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h3>2019 MCHC Champions</h3>
+            <p><a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></p>
+            <p><center><a class="btn btn-lg btn-primary" href="/fordhamhockey/champs-2019.shtml" role="button">Visit 2019 Champs Section</a></center></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h3>2018-19 Fordham Rams</h3>
+            <p><a href="/alumni/2019FordhamHockeyTeamPicture.shtml"><img src="/images/team/2019FordhamHockeyTeamPicture_home.jpg" border="0" alt="2018-19 Fordham Rams" title="2018-19 Fordham Rams"></a></p>
+            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPicture.shtml" role="button">View in Gallery</a></center></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h3>Class of 2019</h3>
+            <p><a href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" border="0" alt="Fordham Rams Class of 2019" title="Fordham Rams Class of 2019"></a></p>
+            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml" role="button">View in Gallery</a></center></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+    <!--End hide carousel during off-season-->
+  </div>
+
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div class="container marketing">
+
+    <!-- Three columns of text below the carousel -->
+    <div class="row">
+      <div class="col-lg-4">
+        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+        <h2>Team News Feed</h2>
+        <p><a href="https://twitter.com/FordhamHockey" target="_blank">@FordhamHockey</a> is the official Twitter account for the Fordham University Ice Hockey team. Follow us for team news, scores, and live in-game updates.</p>
+        <!--p><a class="btn btn-secondary" href="https://twitter.com/FordhamHockey" role="button" target="_blank">View details &raquo;</a></p-->
+        <p><a href="https://twitter.com/FordhamHockey" class="twitter-follow-button" data-show-count="false">Follow @FordhamHockey</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+        
+  		<p><a class="twitter-timeline" height="500" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+        <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+        <h2>Recruits</h2>
+        <p>Prospective Fordham Students who are interested in trying out for the team can fill out our online Fordham Hockey Recruting Form.</p>
+        <p><a class="btn btn-secondary" href="/recruit/" role="button">Fill out Recruiting Form &raquo;</a></p>
+		<h2>Donate</h2>
+        <p>Support the Fordham Hockey Club via the University Donation Form.</p>
+        <p><a class="btn btn-secondary" href="/donate.shtml" role="button">Donate to the Team &raquo;</a></p>
+		<h2>Alumni Group</h2>
+        <p>Fordham Hockey Alumni can connect via our LinkedIN Group.</p>
+        <p><a class="btn btn-secondary" href="https://www.linkedin.com/groups/5132099/" target="_blank" role="button">Request Access to Group &raquo;</a></p>
+		<h2>ACHA Nationals</h2>
+        <p>All 3 Fordham games from the 2019 ACHA Nationals Tournament were broadcast live on YouTube.</p>
+        <p><a class="btn btn-secondary" href="/video/2019-ACHA-Nationals/index.shtml" role="button">Watch the Replays &raquo;</a></p>
+
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+        <h2>Calendar / Scoreboard</h2>
+<p>Link to the Fordham Hockey Schedule and Scoreboard on Google Calendar.</p>
+        <p><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style=" border-width:0 " height="500" frameborder="0" scrolling="no"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>        
+        <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
+      	 <p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+
+
+    <!-- START THE FEATURETTES -->
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">2019 MCHC Champions<br><span class="text-muted">February 24, 2019 -- Dix Hills Arena, Dix Hills, NY</span></h2>
+        <!--p class="lead"-->
+        <p>
+        <i>Standing left to right:</i> Ryan LeBlanc, Art DellaSalla <b>(Asst. Coach)</b>, Anthony DiPerri, Rich Guberti <b>(Head Coach)</b><br/>Nick Gadowski Kevin Schroeder, Zach Morfogen, Marcus Mazur, Matt Palmer, Dave Smith <b>(Asst. Coach)</b><br/>
+<i>Kneeling left to right:</i> Jack Flanagan, Dominic Francis, Turner Stansbury, Max Denomme, Patrick Strauss<br/>Austin O'Malley, Mike Gamby, Jack Tamburro, Harry D'Agostino<br/>
+<i>Laying on ice:</i> Oliver Nasr, John Cernero, Brendan Crowley, Connor Burke, Joe Sponenburg, Sean Blaney, Mike Hatch
+      </div>
+      <div class="col-md-5">
+        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="397" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x397" xmlns:xlink="http://www.w3.org/1999/xlink"><title>2019 MCHC Champion Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x397</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" width="610" height="397"/></svg-->
+      <a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">2018-19 Fordham Rams<br><span class="text-muted">December 2018 -- Ice Hutch, Mount Vernon, NY</span></h2>
+        <!--p class="lead"-->
+		<p>
+        <b>From left to right:</b>
+            <i>(Standing):</i> Rich Guberti (<b>Head Coach</b>), Oliver Nasr, Turner Stansbury, Dominic Francis, Harry D'Agostino, Cary Collucci, Sean Blaney, Zach Morfogen, Patrick Strauss, Frank Taddeo, John Cernero, Maxim Denomme, Connor Burke, Mike Hatch, Alex D'Andrea, Kevin Schroeder, Joe Rocco, Matt Palmer, Dave Smith (<b>Asst. Coach</b>) Andrew Mola (<b>GM</b>)<br/>
+
+<i>(Front Row):</i> Brendan Crowley, Jack Flanagan, Nick Gadowski, Sean Johnson (<b>A</b>), Ryan Leblanc (<b>A</b>), Joe Sponenburg,<br/>Mike Gamby (<b>C</b>), Anthony DiPerri (<b>A</b>), Zach Brenner<br/>
+<i>Missing from photo:</i> Jack Tamburro, Art Dellasalla (<b>Asst. Coach</b>)</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="406" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x406" xmlns:xlink="http://www.w3.org/1999/xlink"><title>2018-19 Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x406</text><image xlink:href="/images/team/2019FordhamHockeyTeamPicture_home.jpg" width="610" height="406"/></svg-->
+      <a href="/alumni/2019FordhamHockeyTeamPicture.shtml"><img src="/images/team/2019FordhamHockeyTeamPicture_home.jpg" border="0" alt="2018-19 Fordham Rams" title="2018-19 Fordham Rams"></a>
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">Class of 2019<br><span class="text-muted">December 2018 -- Ice Hutch, Mount Vernon, NY</span></h2>
+        <!--p class="lead"-->
+        <p>
+        <b>From left to right:</b> Anthony DiPerri (<b>A</b>), Mike Gamby (<b>C</b>), Ryan Leblanc (<b>A</b>), Sean Johnson (<b>A</b>)</p>
+      </div>
+      <div class="col-md-5">
+        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="405" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x405" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Fordham Rams Class of 2019</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x405</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" width="610" height="405"/></svg-->
+		<a href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" border="0" alt="Fordham Rams Class of 2019" title="Fordham Rams Class of 2019"></a>
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- /END THE FEATURETTES -->
+
+  </div><!-- /.container -->
+
+<!--Begin Bottom Nav Bar-->
+<nav class="navbar fixed-bottom navbar-expand-sm navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Connect</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      <!--li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li-->
+      <li class="nav-item">
+        <a class="nav-link" href="https://calendar.google.com/calendar/embed?src=l0e69iac2j9snn7m073jd9er0o@group.calendar.google.com&ctz=America/New_York" target="_blank">Google Calendar</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.instagram.com/fu_hockey/" target="_blank">Instagram</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.linkedin.com/groups/5132099/" target="_blank">LinkedIN</a>
+      </li>
+      <li class="nav-item">  
+        <a class="nav-link" href="https://twitter.com/FordhamHockey" target="_blank">Twitter</a>
+      </li>
+      <li class="nav-item">  
+        <a class="nav-link" href="https://www.youtube.com/channel/UCacD1fU6kEQVU1DVsDVyaSQ" target="_blank">YouTube</a>
+      </li>
+      <!--li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li-->
+      <li class="nav-item dropup">
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Forms</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown10">
+          <a class="dropdown-item" href="/alumni/contact.shtml">Contact Us</a>
+          <a class="dropdown-item" href="/donate.shtml">Donate</a>
+          <a class="dropdown-item" href="/recruit/">Recruits</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!--End Bottom Nav Bar-->
+
+  <!-- FOOTER -->
+  <footer class="container">
+    <p class="float-right"><a href="#">Back to top</a></p>
+    <p><!--&copy; -->2005-2019 Fordham Hockey<!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>--></p>
+  </footer>
+</main>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="https://getbootstrap.com/docs/4.3/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="https://getbootstrap.com/docs/4.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script></body>
+</html>

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Alumni--News</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_news_alumni.html" -->
+<div id="contentstart">
+
+<div class="NewsArticleTitle">Congrats to Phil Camporeale, CBA '00</div>
+
+<div class="NewsArticleAuthor">By Michael Casserly / Fordham Hockey Online</div>
+
+
+
+<p>Mar 21, 2006 -- Congratulations are in order for Phil Camporeale CBA '00. Phil and his wife Mary Helen celebrated the birth of their son John Cosimo Camporeale on February 20, 2006. At 6 lbs, 2 ounces, is it expected that Phil's second child should be ready to play left wing for the team by by the 2023-2024 season, right alongside Doug Winkler's son Kevin! :)</p>
+
+
+
+</div>
+
+<p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
+      <!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>
