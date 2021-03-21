@@ -4,6 +4,8 @@
   <head>
   <!--#include virtual="/banner-head.html" -->
 
+  {% include /banner-head.html %}
+  
     <title>The Official Site of Fordham University Hockey -- www.fordhamhockey.com</title>
  <style type="text/css">
 
