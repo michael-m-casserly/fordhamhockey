@@ -133,7 +133,15 @@ h3{
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
-        <h3>CHF Nationals</h3>
+        <h3>Schedule</h3>
+		<!--p>Link to the Fordham Hockey Schedule and Scoreboard on Google Calendar.</p-->
+        <center>
+        <p style="border: 2px solid black; border-radius:5px; width:300px; padding-top:5px; margin:0px;"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0;" height="320" width="290" frameborder="0" scrolling="no"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
+        </center>
+        <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
+      	 <p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
+        <hr>
+     <h3>CHF Nationals</h3>
         <p>View Box Scores and YouTube videos from the 2020 CHF Nationals.</p>
         <p><a class="btn btn-secondary" href="/video/2020-CHF-Nationals/index.shtml" role="button">Go &raquo;</a></p>
 		<hr>
@@ -146,15 +154,7 @@ h3{
         <p>All 3 Fordham games from the 2019 ACHA Nationals Tournament were broadcast live on YouTube.</p>
         <p><a class="btn btn-secondary" href="/video/2019-ACHA-Nationals/index.shtml" role="button">Watch the Replays &raquo;</a></p>
 		<hr>
-        <h3>Schedule</h3>
-		<!--p>Link to the Fordham Hockey Schedule and Scoreboard on Google Calendar.</p-->
-        <center>
-        <p style="border: 2px solid black; border-radius:5px; width:300px; padding-top:5px; margin:0px;"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0;" height="320" width="290" frameborder="0" scrolling="no"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
-        </center>
-        <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
-      	 <p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
-        <hr>
-
+   
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
