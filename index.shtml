@@ -15,11 +15,11 @@
 
 h3{
 	font-family: Charlemagne std;
-	color: #000;
+	color: #5E1A3F;
 }
 
 .round-border{
-	border: 2px solid #344f7c; 
+	border: 2px solid #5E1A3F; 
 	border-radius:5px;
 	padding-bottom:10px;
 	padding-top:10px;
@@ -112,71 +112,89 @@ h3{
         <!--p><a class="btn btn-secondary" href="https://twitter.com/FordhamHockey" role="button" target="_blank">View details &raquo;</a></p-->
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         <!--p><a href="https://twitter.com/FordhamHockey" class="twitter-follow-button" data-show-count="false">Follow @FordhamHockey</a></p-->
-        
+
+        <p><a href="https://twitter.com/FordhamHockey" target="_blank">@FordhamHockey</a> is the official Twitter account for the Fordham University Ice Hockey team. <a href="https://twitter.com/FordhamHockey" target="_blank">Follow</a> us for team news, scores, and live in-game updates.</p>
+
         <p style="border: 2px solid black; border-radius:5px;">
-        <br/>
-          <a href="https://twitter.com/FordhamHockey" target="_blank">@FordhamHockey</a> is the official Twitter account for the Fordham University Ice Hockey team. <a href="https://twitter.com/FordhamHockey" target="_blank">Follow</a> us for team news, scores, and live in-game updates.<br/><br/>
-          
           <a class="twitter-timeline" height="500" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^https:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
 
 
         <p><a class="btn btn-secondary" href="/fordhamhockey/news.shtml" role="button">View News Archive &raquo;</a></p>
         </div>
-		<!--h3>Instagram</h3-->
+
+        <div class="round-border">
+        <!--h3>Instagram</h3-->
         <p><center><a href="https://www.instagram.com/fu_hockey/" target="_blank"><img src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram" title="Follow us on Instagram" /></a></center>
         <!--br/>Follow us on Instagram--></p>
         <p><a class="btn btn-secondary" href="https://www.instagram.com/fu_hockey/" target="_blank" role="button">Follow Us &raquo;</a></p>
-        <hr>
-		<h3>Alumni Group</h3>
+        </div>
+
+        <div class="round-border">
+		    <h3>Alumni Group</h3>
         <p><center><a href="https://www.linkedin.com/groups/5132099/" target="_blank"><img src="/images/logo_linkedIn.gif" style="width:129px; height:36px;" alt="Request Access to LinkedIn Group" title="Request Access to LinkedIn Group" /></a></center>
         <!--br/>Fordham Hockey Alumni can connect via our LinkedIN Group.--></p>
         <p><a class="btn btn-secondary" href="https://www.linkedin.com/groups/5132099/" target="_blank" role="button">Request Access &raquo;</a></p>
-        <hr>
+        </div>
+
+        <div class="round-border">
         <h3>Recruits</h3>
         <p>Prospective Fordham Students who are interested in trying out for the team can fill out our online Fordham Hockey Recruting Form.</p>
         <p><a class="btn btn-secondary" href="/recruit/" role="button">Fill out Form &raquo;</a></p>
-		<hr>
+        </div>
+
+        <div class="round-border">
         <h3>Donate</h3>
         <p>Support the Fordham Hockey Club via the University Donation Form.</p>
         <p><a class="btn btn-secondary" href="/donate.shtml" role="button">Donate &raquo;</a></p>
-		<hr>
+          </div>
+
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-        <!--hr-->
+
+        <div class="round-border">
         <h3>Schedule</h3>
 		<!--p>Link to the Fordham Hockey Schedule and Scoreboard on Google Calendar.</p-->
         <center>
-        <p style="border: 2px solid black; border-radius:5px; width:300px; padding-top:5px; margin:0px;"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0;" height="320" width="290" frameborder="0" scrolling="no"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
+        <p><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0;" height="320" width="283" frameborder="0" scrolling="no"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
         </center>
         <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
       	 <p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
-        <hr>
+        </div>
+         
+        <div class="round-border">
      <h3>CHF Nationals</h3>
         <p>View Box Scores and YouTube videos from the 2020 CHF Nationals.</p>
         <p><a class="btn btn-secondary" href="/video/2020-CHF-Nationals/index.shtml" role="button">Go &raquo;</a></p>
-		<hr>
+		    </div>
+    
         <a name="Rankings"></a>
+        <div class="round-border">
         <h3>CHF Rankings</h3>
-<!--p style="border: 2px solid black; border-radius:5px;"--><iframe src="https://myhockeyrankings.com/embed.php?v=986&y=2019" width="315" height="353" frameborder="0"></iframe><!--/p-->
-<iframe src="https://myhockeyrankings.com/embed.php?v=989&y=2019" width="315" height="350" frameborder="0"></iframe>
-		<hr>
+<!--p style="border: 2px solid black; border-radius:5px;"--><iframe src="https://myhockeyrankings.com/embed.php?v=986&y=2019" width="285" height="353" frameborder="0"></iframe><!--/p-->
+<iframe src="https://myhockeyrankings.com/embed.php?v=989&y=2019" width="285" height="350" frameborder="0"></iframe>
+        </div>
+
+        <div class="round-border">
         <h3>ACHA Nationals</h3>
         <p>All 3 Fordham games from the 2019 ACHA Nationals Tournament were broadcast live on YouTube.</p>
         <p><a class="btn btn-secondary" href="/video/2019-ACHA-Nationals/index.shtml" role="button">Watch the Replays &raquo;</a></p>
-		<hr>
-   
+        </div>
+        
+
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-        <!--hr-->
+
+        <div class="round-border">
         <h3>Scoreboard</h3>
 <!--#include virtual="/schedule/current-scoreboard-include.html" -->
         <p>View scores from all games, 1980 - present.</p>
         <p><a class="btn btn-secondary" href="/schedule/index.shtml#HistoricalScoreboard" role="button">View Scoreboard &raquo;</a></p>
-		<hr>
-        </div><!-- /.col-lg-4 -->
+          </div>
+
+      </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
 
