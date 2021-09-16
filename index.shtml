@@ -149,6 +149,10 @@ h3{
         <p><a class="btn btn-secondary" href="/donate.shtml" role="button">Donate &raquo;</a></p>
           </div>
 
+        <div class="round-border">
+          <div class="embedsocial-hashtag" data-ref="b8f4b956f096783fddac979ba69cb5a6b02aca45" ><a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
+        </div>
+
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
