@@ -116,7 +116,7 @@ h3{
         <p><a href="https://twitter.com/FordhamHockey" target="_blank">@FordhamHockey</a> is the official Twitter account for the Fordham University Ice Hockey team. <a href="https://twitter.com/FordhamHockey" target="_blank">Follow</a> us for team news, scores, and live in-game updates.</p>
 
         <p style="border: 2px solid black; border-radius:5px;">
-          <a class="twitter-timeline" height="500" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
+          <a class="twitter-timeline" height="750" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^https:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
 
 
@@ -131,6 +131,13 @@ h3{
         </div>
 
         <div class="round-border">
+          <!--h3>Facebook</h3-->
+          <p><center><a href="https://www.facebook.com/FordhamHockey" target="_blank"><img src="/images/logo_facebook.png" style="width:180px; height:55px;" alt="Like us on Facebook" title="Like us on Facebook" /></a></center>
+          <!--br/>Like us on Facebook--></p>
+          <p><a class="btn btn-secondary" href="https://www.facebook.com/FordhamHockey" target="_blank" role="button">Like Us &raquo;</a></p>
+          </div>
+      
+          <div class="round-border">
 		    <h3>Alumni Group</h3>
         <p><center><a href="https://www.linkedin.com/groups/5132099/" target="_blank"><img src="/images/logo_linkedIn.gif" style="width:129px; height:36px;" alt="Request Access to LinkedIn Group" title="Request Access to LinkedIn Group" /></a></center>
         <!--br/>Fordham Hockey Alumni can connect via our LinkedIN Group.--></p>
@@ -148,10 +155,6 @@ h3{
         <p>Support the Fordham Hockey Club via the University Donation Form.</p>
         <p><a class="btn btn-secondary" href="/donate.shtml" role="button">Donate &raquo;</a></p>
           </div>
-
-        <div class="round-border">
-          <div class="embedsocial-hashtag" data-ref="b8f4b956f096783fddac979ba69cb5a6b02aca45" ><a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
-        </div>
 
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
@@ -207,6 +210,9 @@ h3{
 	<hr>
     <!--hr class="featurette-divider"-->
 
+<!--Instagram Feed-->
+      <div class="embedsocial-hashtag" data-ref="b8f4b956f096783fddac979ba69cb5a6b02aca45" ><a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
+    
     <div class="row featurette">
       <div class="col-md-7">
         <h3 class="featurette-heading">2019 MCHC Champs<br><span class="text-muted">February 24, 2019 -- Dix Hills Arena, Dix Hills, NY</span></h3>
