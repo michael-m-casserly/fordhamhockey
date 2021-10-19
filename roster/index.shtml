@@ -10,7 +10,7 @@ xmlns="http://www.w3.org/TR/REC-html40" lang="en">
  <style>
 #Iframe-Liason-Sheet {
    max-width: 325px;
-   max-height: 1139px; /* Adjust this value whenever an update is applied to the current roster */
+   max-height: 1638px; /* Adjust this value whenever an update is applied to the current roster */
    overflow: hidden;
  }
   /* inner wrapper: make responsive */
@@ -32,7 +32,9 @@ xmlns="http://www.w3.org/TR/REC-html40" lang="en">
  }
  /* padding-bottom = h/w as a % */
  .responsive-wrapper-wxh-550x2000 {
-   padding-bottom: 363.6364%;
+   /*padding-bottom: 363.6364%;*/
+   padding-bottom: 504.0000%;
+ 
  }
  .iframe-border {
    border: 1px solid #000;
