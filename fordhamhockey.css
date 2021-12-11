@@ -425,3 +425,9 @@ color: #0000CC}
 .btn-secondary {
 background-color: #1b95e0 !important;
 }
+
+/* Custom styles in addition to out-of-the-box bootstrap */
+div.dropdown-menu{
+	border: 2px solid black; 
+  }	
+
