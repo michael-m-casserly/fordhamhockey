@@ -32,16 +32,17 @@ h3{
   <!--#include virtual="/banner-m.html" -->
 
   <!-- Main jumbotron for a primary marketing message or call to action -->
-  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<!--div class="container" align="center" style="max-width:800px;">
     <a href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" target="_blank"><img src="images/2020-National-Tournament-Donate.jpg" border="0" /></a>
     <p>Please consider dontating to support the team's travel to the CHF National Tournament:<br/><a href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" target="_blank" style="word-break: break-all;">https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations</a></p>
     <p><center><a class="btn btn-primary btn-lg" href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" role="button">Donate &raquo;</a></center></p>
-	</div-->
-   </div>
+	</div>
+   </div-->
 
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
 <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
+
+   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -87,15 +88,16 @@ h3{
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-    <!--End hide carousel during off-season-->
   </div>
+    <!--End hide carousel during off-season-->
+  
 
 
   <!-- Marketing messaging and featurettes
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing">
+  <div class="container marketing" style="padding-top: 30px;"> <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
