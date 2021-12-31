@@ -150,7 +150,7 @@
     <form class="form-inline my-2 my-lg-0" method="GET" action="http://www.google.com/custom">
       <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" name="q" size="13" maxlength="255" value="">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit" name="sa">Go</button>
-      <INPUT type="hidden" name="cof" VALUE="S:http://www.fordhamramshockey.com;VLC:#5e183e;AH:center;LH:95;LC:black;L:http://www.fordhamramshockey.com/images/banner_google.gif;ALC:#5e183e;LW:708;T:black;AWFID:0cc56407884f14f7;"><input type="hidden" name="domains" value="www.fordhamramshockey.com"><br><input type="hidden" name="sitesearch" value="www.fordhamramshockey.com" checked><!--span style="font-size:10px; color:#FFF; padding-right:10px;">This Site</span><input type="radio" name="sitesearch" value=""><span style="font-size:10px; color:#FFF;">The Web</span--><br><a href="http://www.google.com" target="_blank">Powered by Google&reg;</a>
+      <INPUT type="hidden" name="cof" VALUE="S:http://www.fordhamhockey.com;VLC:#5e183e;AH:center;LH:95;LC:black;L:http://www.fordhamhockey.com/images/banner_google.gif;ALC:#5e183e;LW:708;T:black;AWFID:0cc56407884f14f7;"><input type="hidden" name="domains" value="www.fordhamhockey.com"><br><input type="hidden" name="sitesearch" value="www.fordhamhockey.com" checked><!--span style="font-size:10px; color:#FFF; padding-right:10px;">This Site</span><input type="radio" name="sitesearch" value=""><span style="font-size:10px; color:#FFF;">The Web</span--><br><a href="http://www.google.com" target="_blank">Powered by Google&reg;</a>
     </form>
   </div>
 </nav>

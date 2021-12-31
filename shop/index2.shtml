@@ -102,8 +102,8 @@ function checkform()
             <input type="hidden" name="item_name" value="Fordham Hockey 2006 MCHC Champions T-Shirt">
             <input type="hidden" name="amount" value="20.00">
             <input type="hidden" name="page_style" value="Primary">
-            <input type="hidden" name="return" value="http://www.fordhamramshockey.com/shop/payment_confirm.html">
-            <input type="hidden" name="cancel_return" value="http://www.fordhamramshockey.com/shop/payment_cancel.html">
+            <input type="hidden" name="return" value="http://www.fordhamhockey.com/shop/payment_confirm.html">
+            <input type="hidden" name="cancel_return" value="http://www.fordhamhockey.com/shop/payment_cancel.html">
             <input type="hidden" name="currency_code" value="USD">
             <input type="hidden" name="lc" value="US">
             <input type="hidden" name="bn" value="PP-ShopCartBF">
