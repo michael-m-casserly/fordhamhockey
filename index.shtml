@@ -5,7 +5,7 @@
   <!--#include virtual="/banner-head.html" -->
   
     <title>The Official Site of Fordham University Hockey -- www.fordhamhockey.com</title>
- <style type="text/css">
+ <style>
 
 @font-face{
 	font-family: 'Charlemagne std';
@@ -33,10 +33,10 @@ h3{
 
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
-  	<!--div class="container" align="center" style="max-width:800px;">
-    <a href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" target="_blank"><img src="images/2020-National-Tournament-Donate.jpg" border="0" /></a>
+  	<div class="container" align="center" style="max-width:800px;">
+    <a href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" target="_blank"><img src="images/2020-National-Tournament-Donate.jpg" style="border: 0;" /></a>
     <p>Please consider dontating to support the team's travel to the CHF National Tournament:<br/><a href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" target="_blank" style="word-break: break-all;">https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations</a></p>
-    <p><center><a class="btn btn-primary btn-lg" href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" role="button">Donate &raquo;</a></center></p>
+    <p class="module-button-wrapper"><a class="btn btn-primary btn-lg" href="https://www.givecampus.com/schools/FordhamUniversity/hockey-qualifies-for-federation-cup#donations" role="button">Donate &raquo;</a></p>
 	</div>
    </div-->
 
@@ -54,8 +54,8 @@ h3{
         <div class="container">
           <div class="carousel-caption">
             <h3>2019 MCHC Champions</h3>
-            <p><a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></p>
-            <p><center><a class="btn btn-lg btn-primary" href="/fordhamhockey/champs-2019.shtml" role="button">Visit 2019 Champs Section</a></center></p>
+            <p><a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" style="border: 0;" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></p>
+            <p class="module-button-wrapper"><a class="btn btn-lg btn-primary" href="/fordhamhockey/champs-2019.shtml" role="button">Visit 2019 Champs Section</a></p>
           </div>
         </div>
       </div>
@@ -64,8 +64,8 @@ h3{
         <div class="container">
           <div class="carousel-caption">
             <h3>2018-19 Fordham Rams</h3>
-            <p><a href="/alumni/2019FordhamHockeyTeamPicture.shtml"><img src="/images/team/2019FordhamHockeyTeamPicture_home.jpg" border="0" alt="2018-19 Fordham Rams" title="2018-19 Fordham Rams"></a></p>
-            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPicture.shtml" role="button">View in Gallery</a></center></p>
+            <p><a href="/alumni/2019FordhamHockeyTeamPicture.shtml"><img src="/images/team/2019FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2018-19 Fordham Rams" title="2018-19 Fordham Rams"></a></p>
+            <p class="module-button-wrapper"><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPicture.shtml" role="button">View in Gallery</a></p>
           </div>
         </div>
       </div>
@@ -74,8 +74,8 @@ h3{
         <div class="container">
           <div class="carousel-caption">
             <h3>Class of 2019</h3>
-            <p><a href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" border="0" alt="Fordham Rams Class of 2019" title="Fordham Rams Class of 2019"></a></p>
-            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml" role="button">View in Gallery</a></center></p>
+            <p><a href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg"  style="border: 0;" alt="Fordham Rams Class of 2019" title="Fordham Rams Class of 2019"></a></p>
+            <p class="module-button-wrapper"><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml" role="button">View in Gallery</a></p>
           </div>
         </div>
       </div>
@@ -89,7 +89,7 @@ h3{
       <span class="sr-only">Next</span>
     </a>
   </div>
-    <!--End hide carousel during off-season-->
+    End hide carousel during off-season-->
   
 
 
@@ -119,7 +119,7 @@ h3{
         <p><a href="https://twitter.com/FordhamHockey" target="_blank">@FordhamHockey</a> is the official Twitter account for the Fordham University Ice Hockey team. <a href="https://twitter.com/FordhamHockey" target="_blank">Follow</a> us for team news, scores, and live in-game updates.</p>
 
         <p style="border: 2px solid black; border-radius:5px;">
-          <a class="twitter-timeline" height="695" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
+          <a class="twitter-timeline" height="735" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^https:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
 
 
@@ -128,21 +128,21 @@ h3{
 
         <div class="round-border">
         <!--h3>Instagram</h3-->
-        <p><center><a href="https://www.instagram.com/fu_hockey/" target="_blank"><img src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram" title="Follow us on Instagram" /></a></center>
+        <p class="module-button-wrapper"><a href="https://www.instagram.com/fu_hockey/" target="_blank"><img src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram" title="Follow us on Instagram" /></a>
         <!--br/>Follow us on Instagram--></p>
         <p><a class="btn btn-secondary" href="https://www.instagram.com/fu_hockey/" target="_blank" role="button">Follow Us &raquo;</a></p>
         </div>
 
         <div class="round-border">
           <!--h3>Facebook</h3-->
-          <p><center><a href="https://www.facebook.com/FordhamHockey" target="_blank"><img src="/images/logo_facebook.png" style="width:180px; height:39px;" alt="Like us on Facebook" title="Like us on Facebook" /></a></center>
+          <p class="module-button-wrapper"><a href="https://www.facebook.com/FordhamHockey" target="_blank"><img src="/images/logo_facebook.png" style="width:180px; height:39px;" alt="Like us on Facebook" title="Like us on Facebook" /></a>
           <!--br/>Like us on Facebook--></p>
           <p><a class="btn btn-secondary" href="https://www.facebook.com/FordhamHockey" target="_blank" role="button">Like Us &raquo;</a></p>
           </div>
       
           <div class="round-border">
 		    <h3>Alumni Group</h3>
-        <p><center><a href="https://www.linkedin.com/groups/5132099/" target="_blank"><img src="/images/logo_linkedIn.gif" style="width:129px; height:36px;" alt="Request Access to LinkedIn Group" title="Request Access to LinkedIn Group" /></a></center>
+        <p class="module-button-wrapper"><a href="https://www.linkedin.com/groups/5132099/" target="_blank"><img src="/images/logo_linkedIn.gif" style="width:129px; height:36px;" alt="Request Access to LinkedIn Group" title="Request Access to LinkedIn Group" /></a>
         <!--br/>Fordham Hockey Alumni can connect via our LinkedIN Group.--></p>
         <p><a class="btn btn-secondary" href="https://www.linkedin.com/groups/5132099/" target="_blank" role="button">Request Access &raquo;</a></p>
         </div>
@@ -166,11 +166,9 @@ h3{
         <div class="round-border">
         <h3>Schedule</h3>
 		<!--p>Link to the Fordham Hockey Schedule and Scoreboard on Google Calendar.</p-->
-        <center>
-        <p><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0;" height="315" width="100%" frameborder="0" scrolling="no"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
-        </center>
+        <p class="module-button-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 315px; width: 100%; overflow: hidden;"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
         <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
-      	 <p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
+      	 <p class="module-button-wrapper" style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
         </div>
          
         <div class="round-border">
@@ -185,14 +183,14 @@ h3{
         <p><a class="btn btn-secondary" href="/video/2020-CHF-Nationals/index.shtml" role="button">Go &raquo;</a></p>
 		    </div>
     
-        <a name="Rankings"></a>
+        <a id="Rankings"></a>
         <div class="round-border">
         <h3>CHF Rankings</h3>
-<!--p style="border: 2px solid black; border-radius:5px;"--><iframe src="https://myhockeyrankings.com/embed.php?v=986&y=2021" width="100%" height="353" frameborder="0"></iframe><!--/p-->
+<!--p style="border: 2px solid black; border-radius:5px;"--><iframe src="https://myhockeyrankings.com/embed.php?v=986&y=2021" style="border-width:0; height: 353px; width: 100%;"></iframe><!--/p-->
 <!--This is the code from the MyHockeyRankings Website-->
 <!--iframe src="http://myhockeyrankings.com/embed.php?v=986&y=2021" width="350" height="420" frameborder="0"></iframe-->
 
-<iframe src="https://myhockeyrankings.com/embed.php?v=989&y=2021" width="100%" height="350" frameborder="0"></iframe>
+<iframe src="https://myhockeyrankings.com/embed.php?v=989&y=2021" style="border-width:0; height: 350px; width: 100%;"></iframe>
 
 <!--This is the code from the MyHockeyRankings Website-->
 <!--iframe src="http://myhockeyrankings.com/embed.php?v=989&y=2021" width="350" height="420" frameborder="0"></iframe-->
@@ -240,7 +238,7 @@ h3{
       </div>
       <div class="col-md-5">
         <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="397" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x397" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2019 MCHC Champion Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x397</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" width="610" height="397"/></svg-->
-      <a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></div>
+      <a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" style="border: 0;" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></div>
     </div>
 
 	<hr>
@@ -259,7 +257,7 @@ h3{
       </div>
       <div class="col-md-5 order-md-1">
         <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="406" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x406" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2018-19 Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x406</text><image xlink:href="/images/team/2019FordhamHockeyTeamPicture_home.jpg" width="610" height="406"/></svg-->
-      <a href="/alumni/2020FordhamHockeyTeamPicture.shtml"><img src="/images/team/2020FordhamHockeyTeamPicture_home.jpg" border="0" alt="2019-20 Fordham Rams" title="2019-20 Fordham Rams"></a>
+      <a href="/alumni/2020FordhamHockeyTeamPicture.shtml"><img src="/images/team/2020FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2019-20 Fordham Rams" title="2019-20 Fordham Rams"></a>
       </div>
     </div>
 
@@ -276,7 +274,7 @@ Rich Guberti <b>(Head Coach)</b>, Kevin Schroeder, Harry D'Agostino <b>(A)</b>, 
       </div>
       <div class="col-md-5">
         <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="405" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x405" xmlns:xlink="https://www.w3.org/1999/xlink"><title>Fordham Rams Class of 2019</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x405</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" width="610" height="405"/></svg-->
-		<a href="/alumni/2020FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2020FordhamHockeyTeamPictureSeniors_home.jpg" border="0" alt="Fordham Rams Class of 2020" title="Fordham Rams Class of 2020"></a>
+		<a href="/alumni/2020FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2020FordhamHockeyTeamPictureSeniors_home.jpg" style="border: 0;" alt="Fordham Rams Class of 2020" title="Fordham Rams Class of 2020"></a>
       </div>
     </div>
 

@@ -429,3 +429,6 @@ div.dropdown-menu{
 	border: 2px solid black; 
   }	
 
+p.module-button-wrapper {
+	text-align: center;
+}
