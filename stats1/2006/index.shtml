@@ -7,7 +7,7 @@ xmlns="http://www.w3.org/TR/REC-html40" lang="en">
   <head>
   <!--#include virtual="/banner-head.html" -->
 
-<title>Fordham Hockey--Stats</title>
+<title>Stats | Fordham Hockey</title>
     
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Excel.Sheet>
@@ -1313,7 +1313,7 @@ tags will be replaced.-->
  <tr height=17 style='height:12.75pt'>
   <td height=17 class=xl284465  style='height:12.75pt;'>PLAYER</td>
   <td class=xl294465  style='' x:str="'  G"><span
-  style='mso-spacerun:yes'>  </span>G</td>
+  style='mso-spacerun:yes'>ï¿½ </span>G</td>
   <td class=xl294465  style=''>A</td>
   <td class=xl294465  style=''>PTS</td>
   <td class=xl294465  style=''>PP</td>
