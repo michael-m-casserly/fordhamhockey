@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Pictures | Fordham Hockey</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_team_pictures.html" -->
+
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2020FordhamHockeyTeamPictureSeniors.shtml"> << Class of 2020</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><!--a class="smalltextlink" href="2022FordhamHockeyTeamPictureSeniors.shtml">Class of 2022  >></a--></td>
+</tr>
+</table>
+</center>
+<!--Picture Slide Show Navigation-->
+<div class="ImageTitle">2021-22 Fordham Rams</div>
+<p>
+<center>
+<img src="/images/team/1600/2022FordhamHockeyTeamPicture.jpg" width="500" alt="2021-22 Fordham Hockey Team Picture">
+<table>
+<tr>
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Perry Grosser</div></td>
+</tr>
+</table>
+</center>
+</p>
+<p>
+<div class="ImageLabel">December 2021 -- Ice Hutch, Mount Vernon, NY -- 2021-22 Team Picture</div>
+</p>
+<div class="ImageLabel">
+<b>From left to right:</b>
+<i>(Sitting):</i> Oliver Nasr, Joe Sponenburg (<b>A</b>) , Owen O'Keeffe, Anthony DeMario (<b>A</b>), Michael Hatch (<b>C</b>), Turner Stansbury (<b>A</b>), Garett Silverman, Brendan Crowley, Charlie Borg, Bryce Vitale<br/>
+
+<i>(Standing):</i> Andrew Mola (<b>GM</b>), Nick Guberti (<b>Asst. Coach</b>), Sean Breslin, Jack Meade, Aiden Denning, Eamon Croucher, Aidan Graham, Owen Goulette, Trey Leo, Kyle Koehler, Chris McFarland, Matt Palmer, Sean Hoover, Chris Lordi, Charles Piggot, Connor McNeill, Chris Gabriel, Mike Izzo, Pete Genesi (<b>Head Coach</b>)<br/>
+<i>Not Pictured:</i> Seamus Carroll, Chris Tricarico, Tom Downey, Ryan Heise</p>
+</div>
+
+<p><div class="ImageLabel"><a target="_blank" href="/images/team/800/2022FordhamHockeyTeamPicture.jpg">View Larger Image</a> (800 x 415)<img src="/images/spacer.gif" height="10" width="20" style="width:20px; height:10px;"><a target="_blank" href="/images/team/1600/2022FordhamHockeyTeamPicture.jpg">View Largest Image</a> (1600 x 830)</div></p>
+<!--Picture Slide Show Naviagtion-->
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2020FordhamHockeyTeamPictureSeniors.shtml"> << Class of 2020</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><!--a class="smalltextlink" href="2022FordhamHockeyTeamPictureSeniors.shtml">Class of 2022  >></a--></td>
+</tr>
+</table>
+<!--Picture Slide Show Naviagtion-->
+</center>
+<!--#include virtual="/menus/subnav_gallery.html" -->
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>
