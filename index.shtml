@@ -99,6 +99,24 @@ h3{
 
   <div class="container marketing" style="padding-top: 30px;"> <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
 
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h3 class="featurette-heading">2021-22 Rams<br><span class="text-muted">December 2021 -- Ice Hutch, Mount Vernon, NY</span></h3>
+        <!--p class="lead"-->
+		<p>
+<b>From left to right:</b>
+<i>(Sitting):</i> Oliver Nasr, Joe Sponenburg (<b>A</b>) , Owen O'Keeffe, Anthony DeMario (<b>A</b>), Michael Hatch (<b>C</b>), Turner Stansbury (<b>A</b>), Garett Silverman, Brendan Crowley, Charlie Borg, Bryce Vitale<br/>
+
+<i>(Standing):</i> Andrew Mola (<b>GM</b>), Nick Guberti (<b>Asst. Coach</b>), Sean Breslin, Jack Meade, Aiden Denning, Eamon Croucher, Aidan Graham, Owen Goulette, Trey Leo, Kyle Koehler, Chris McFarland, Matt Palmer, Sean Hoover, Chris Lordi, Charles Piggot, Connor McNeill, Chris Gabriel, Mike Izzo, Pete Genesi (<b>Head Coach</b>)<br/>
+<i>Not Pictured:</i> Seamus Carroll, Chris Tricarico, Tom Downey, Ryan Heise</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="406" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x406" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2018-19 Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x406</text><image xlink:href="/images/team/2019FordhamHockeyTeamPicture_home.jpg" width="610" height="406"/></svg-->
+      <a href="/alumni/2022FordhamHockeyTeamPicture.shtml"><img src="/images/team/2022FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2021-22 Fordham Rams" title="2021-22 Fordham Rams"></a>
+      </div>
+    </div>
+
+
     <!-- Three columns of text below the carousel -->
     <div class="row">
       <div class="col-lg-4">
@@ -244,24 +262,9 @@ h3{
 	<hr>
     <!--hr class="featurette-divider"-->
 
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h3 class="featurette-heading">2019-20 Rams<br><span class="text-muted">November 2019 -- Ice Hutch, Mount Vernon, NY</span></h3>
-        <!--p class="lead"-->
-		<p>
-<b>From left to right:</b>
-<i>(Sitting):</i> Brendan Crowley, Connor Burke, Joey Rocco <b>(A)</b>, Zach Brenner <b>(C)</b>, Joe Sponenburg <b>(A)</b>, Nick Gadowski <b>(A)</b>, Harry D'Agostino <b>(A)</b>, Garett Silverman, Turner Stansbury, Jack Tamburro<br/>
+ <!--Team Picture was here-->
 
-<i>(Standing):</i> Art DellaSalla <b>(Asst. Coach)</b>, Rich Guberti <b>(Head Coach)</b>, Oliver Nasr, Jack Flanagan, Maxim Denomme, Patrick Strauss, Sean Blaney, Mike Hatch, Kevin Schroeder, Anthony DeMario, Trey Leo, Ryan Heise, Chris McFarland, Mike Izzo, Sean Breslin, John Cernero, Matt Palmer, Dave Smith <b>(Asst. Coach)</b>, Andrew Mola <b>(G.M.)</b><br/>
-<i>Missing:</i> Ryan LeBlanc <b>(A)</b>, Zach Morfogen</p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="406" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x406" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2018-19 Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x406</text><image xlink:href="/images/team/2019FordhamHockeyTeamPicture_home.jpg" width="610" height="406"/></svg-->
-      <a href="/alumni/2020FordhamHockeyTeamPicture.shtml"><img src="/images/team/2020FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2019-20 Fordham Rams" title="2019-20 Fordham Rams"></a>
-      </div>
-    </div>
-
-    <hr>
+    <!--hr-->
     <!--hr class="featurette-divider"-->
 
     <div class="row featurette">
