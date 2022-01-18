@@ -266,7 +266,10 @@ h3{
 <!--Instagram Feed-->
       <div class="embedsocial-hashtag" data-ref="b8f4b956f096783fddac979ba69cb5a6b02aca45" ><a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
     
-    <div class="row featurette">
+      <hr>
+      <!--hr class="featurette-divider"-->
+
+      <div class="row featurette">
       <div class="col-md-7">
         <h3 class="featurette-heading">2019 MCHC Champs<br><span class="text-muted">February 24, 2019 -- Dix Hills Arena, Dix Hills, NY</span></h3>
         <!--p class="lead"-->
@@ -280,6 +283,9 @@ h3{
         <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="397" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x397" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2019 MCHC Champion Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x397</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" width="610" height="397"/></svg-->
       <a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" style="border: 0;" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></div>
     </div>
+
+    <hr>
+    <!--hr class="featurette-divider"-->
 
     <!-- /END THE FEATURETTES -->
 
