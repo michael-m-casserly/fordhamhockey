@@ -170,7 +170,7 @@ h3{
           <!--h3>Facebook</h3-->
           <p class="module-button-wrapper"><a href="https://www.facebook.com/FordhamHockey" target="_blank"><img src="/images/logo_facebook.png" style="width:180px; height:39px;" alt="Like us on Facebook" title="Like us on Facebook" /></a>
           <!--br/>Like us on Facebook--></p>
-          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFordhamHockey%2F&tabs=timeline&width=308&height=873&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="308" height="873" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFordhamHockey%2F&tabs=timeline&width=270&height=873&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="270" height="873" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
           <p><a class="btn btn-secondary" href="https://www.facebook.com/FordhamHockey" target="_blank" role="button">Like Us &raquo;</a></p>
           </div>
       
