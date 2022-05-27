@@ -1,65 +1,43 @@
-<!--BEGIN Remove this once the table (structure) dependency is removed from site>
-</td><td width="15%" valign="top">
-</td></tr>
-</table>
-END Remove this once the table (structure) dependency is removed from site-->
-
-
 <!--Begin Bottom Navigation Menu-->
-<!--Begin Bottom Nav Bar-->
-<nav class="navbar fixed-bottom navbar-expand-lg navbar-dark bg-dark container">
-  <a class="navbar-brand" href="#">Connect</a>
-  <button class="navbar-toggler collapsed border-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    <div class="close-icon py-1" style="color:white; background-color:white;">✖</div>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarCollapse">
-    <ul class="navbar-nav mr-auto">
-      <!--li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li-->
-      <li class="nav-item">
-        <a class="nav-link" href="https://calendar.google.com/calendar/embed?src=l0e69iac2j9snn7m073jd9er0o@group.calendar.google.com&ctz=America/New_York&amp;color=%23616161&amp;showNav=1&amp;showDate=0&amp;title=Fordham%20Hockey%20Calendar&amp;mode=AGENDA&amp;dates=20210901%2F20220331" target="_blank">Calendar</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://www.facebook.com/FordhamHockey" target="_blank">Facebook</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://www.instagram.com/fu_hockey/" target="_blank">Instagram</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://www.linkedin.com/groups/5132099/" target="_blank">LinkedIN</a>
-      </li>
-      <li class="nav-item">  
-        <a class="nav-link" href="https://twitter.com/FordhamHockey" target="_blank">Twitter</a>
-      </li>
-      <li class="nav-item">  
-        <a class="nav-link" href="https://www.youtube.com/channel/UCacD1fU6kEQVU1DVsDVyaSQ" target="_blank">YouTube</a>
-      </li>
-      <!--li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li-->
-      <li class="nav-item dropup">
-        <a class="nav-link dropdown-toggle" href="#" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Forms</a>
-        <div class="dropdown-menu" aria-labelledby="dropdown10">
-          <a class="dropdown-item" href="/alumni/contact.shtml">Contact Us</a>
-          <a class="dropdown-item" href="/donate.shtml">Donate</a>
-          <a class="dropdown-item" href="/recruit/">Recruits</a>
-        </div>
-      </li>
-    </ul>
-  </div>
-</nav>
-<!--End Bottom Nav Bar-->
 
-  <!-- FOOTER -->
-  <footer class="container">
-    <p class="float-right"><a href="#">Back to top</a></p>
-    <p>&copy;2005-<span id="year"></span>&nbsp;Fordham Hockey &middot; <a href="https://policies.google.com/technologies/partner-sites" target="_blank">Privacy</a><!-- &middot; <a href="#">Terms</a>--><br/><br/></p>
+<!--THIS CSS CAN BE REMOVED ONCE BOOTSTRAP 5.1 IS FULLY ENABLED-->
+<style>
+  .ms-3 {
+    padding-right: 10px !important;
+  }
+</style>
+
+<div class="container">
+  <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <div class="col-md-6 d-flex align-items-center">
+      <a href="/index.shtml" class="mb-3 me-2 mb-md-0 text text-decoration-none lh-1">
+        <svg class="bi" width="30" height="24" role="img" aria-label="Home"><title id="home-label-mouseover">Fordham Hockey Home</title><use xlink:href="#house"/></svg>
+      </a>
+      <span class="text">&copy;<span id="year"></span> Fordham Hockey &middot; <a href="https://policies.google.com/technologies/partner-sites" target="_blank">Privacy</a></span>
+    </div>
+
+    <ul class="nav col-md-6 justify-content-end list-unstyled d-flex">
+      <li class="ms-3"><a class="text" href="https://calendar.google.com/calendar/embed?src=l0e69iac2j9snn7m073jd9er0o@group.calendar.google.com&ctz=America/New_York&amp;color=%23616161&amp;showNav=1&amp;showDate=0&amp;title=Fordham%20Hockey%20Calendar&amp;mode=AGENDA&amp;dates=20220901%2F20230331" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Calendar"><title id="calendar-label-mouseover">Calendar</title><use xlink:href="#calendar-date-fill"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="/alumni/contact.shtml"><svg class="bi" width="24" height="24" role="img" aria-label="Contact Us"><title id="contact-us-label-mouseover">Contact Us</title><use xlink:href="#envelope"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="/donate.shtml"><svg class="bi" width="24" height="24" role="img" aria-label="Donate"><title id="donate-label-mouseover">Donate</title><use xlink:href="#coin"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="https://www.facebook.com/FordhamHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Facebook"><title id="facebook-label-mouseover">Facebook</title><use xlink:href="#facebook"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="https://github.com/michael-m-casserly/fordhamhockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="GitHub"><title id="github-label-mouseover">GitHub</title><use xlink:href="#github"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="https://www.instagram.com/fu_hockey/" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="https://www.linkedin.com/groups/5132099/" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="LinkedIn"><title id="linkedin-label-mouseover">LinkedIn</title><use xlink:href="#linkedin"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="/recruit/"><svg class="bi" width="24" height="24" role="img" aria-label="Recruit"><title id="recruit-label-mouseover">Recruit</title><use xlink:href="#person-plus-fill"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="https://twitter.com/FordhamHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a></li>
+      <li class="ms-3"><a class="text" href="https://www.youtube.com/channel/UCacD1fU6kEQVU1DVsDVyaSQ" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="YouTube"><title id="youtube-label-mouseover">YouTube</title><use xlink:href="#youtube"/></svg></a></li>
+    </ul>
   </footer>
+</div>
+
 </main>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="https://getbootstrap.com/docs/4.3/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="https://getbootstrap.com/docs/4.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
+
+<!--WILL NEED TO ADDRESS THE BANNER NAV DROP DOWN ISSUE BEFORE BOOTSTRAP 5.1 CAN BE FULLY ENABLED-->
+<!--script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script-->
+
 <!--Get Current Year for Copyright-->
 <script>
     document.getElementById("year").innerHTML = new Date().getFullYear();
