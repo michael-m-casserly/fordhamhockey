@@ -24,14 +24,9 @@
 			<td align="left" valign="top"></td>
 		</tr>
 		<tr>
-			<td align="right" valign="top"><b>Technical Lead / Webmaster:</b></td>
+			<td align="right" valign="top"><b>Technical Lead:</b></td>
 			<td>&nbsp;</td>
-			<td align="left" valign="top">Michael Casserly, GAB '99, MBA '05</td>
-		</tr>
-		<tr>
-			<td align="right" valign="top">Email:</td>
-			<td>&nbsp;</td>
-			<td align="left" valign="top"><a href="mailto:fordhamhockey.webmaster@gmail.com" class="textlink">fordhamhockey.webmaster@gmail.com</a></td>
+			<td align="left" valign="top"><a href="mailto:fordhamhockey.webmaster@gmail.com" class="textlink" target="_blank">Michael Casserly, GAB '99, MBA '05</a></td>
 		</tr>
 		<tr>
 			<td align="right" valign="top"></td>
@@ -41,7 +36,17 @@
 		<tr>
 			<td align="right" valign="top"><img src="/images/twitter-bird-blue-on-white-20x20.gif" border="0" style="width:20px; height:20px;"/>&nbsp;<b>Twitter:</b></td>
 			<td>&nbsp;</td>
-			<td align="left" valign="bottom"><a target="_blank" href="https://twitter.com/FordhamHockey">@FordhamHockey</a></td>
+			<td align="left" valign="top"><a target="_blank" href="https://twitter.com/FordhamHockey">@FordhamHockey</a></td>
+		</tr>
+		<tr>
+			<td align="right" valign="top"></td>
+			<td>&nbsp;</td>
+			<td align="left" valign="top"></td>
+		</tr>
+		<tr>
+			<td align="right" valign="middle"><b>Recruiting:</b></td>
+			<td>&nbsp;</td>
+			<td align="left" valign="top"><a href="http://www.fordhamhockey.com/recruit" class="btn btn-secondary" role="button">Recruit Form &raquo;</a></td>
 		</tr>
 		<tr>
 			<td align="right" valign="top"></td>
