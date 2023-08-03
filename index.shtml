@@ -173,7 +173,7 @@ h3{
     
         <a id="Rankings"></a>
         <div class="round-border">
-        <h3>CHF Rankings</h3>
+        <h3>AAU Rankings</h3>
         <iframe src="https://myhockeyrankings.com/embed.php?v=990&y=2022" style="border-width:0; height: 350px; width: 100%;"></iframe>
         </div>
         
