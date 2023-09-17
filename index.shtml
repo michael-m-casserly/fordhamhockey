@@ -142,6 +142,11 @@ h3{
           <!--THIS APPEARS TO BE BROKEN STARTING IN AUG 2023-->
           <!--iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFordhamHockey%2F&tabs=timeline&width=290&height=873&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="873" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe-->
           <p><a class="btn btn-secondary" href="https://www.facebook.com/FordhamHockey" target="_blank" role="button">Like Us &raquo;</a></p>
+
+          <!--This is good for 200 views, unless you pay a monthly fee for more-->
+          <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+          <div class="elfsight-app-fa980708-2b3d-47c1-b1f5-074565aa0d50"></div>
+
           </div>
           
           <div class="round-border">
