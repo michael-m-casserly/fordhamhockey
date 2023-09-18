@@ -421,7 +421,9 @@ color: #0000CC}
 /* Button properties */
 
 .btn-secondary {
-background-color: #1b95e0 !important;
+	width: 250px; 
+	background-color: #1b95e0 !important;
+
 }
 
 /* Custom styles in addition to out-of-the-box bootstrap */
