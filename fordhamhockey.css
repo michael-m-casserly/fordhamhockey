@@ -422,6 +422,7 @@ color: #0000CC}
 
 .btn-secondary {
 	width: 250px; 
+	border-radius: 10px !important;
 	background-color: #1b95e0 !important;
 
 }
