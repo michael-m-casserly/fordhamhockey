@@ -29,7 +29,14 @@ h3{
 
 </style>   
   </head>
+
+<body class="bodyTag">
+
   <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
 
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
@@ -97,7 +104,7 @@ h3{
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing" style="padding-top: 30px;"> <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
+  <div class="container marketing"> <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
 
 		<!--Use this to center all of the content within the 3 columns-->
     <style>

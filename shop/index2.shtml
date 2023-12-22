@@ -31,7 +31,14 @@ function checkform()
 </SCRIPT>
 
   </head>
+
+<body class="bodyTag">
+
   <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
 
       <!--Begin Central Content-->
       <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Fordham Hockey Shop</a></div>
