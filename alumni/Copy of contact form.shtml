@@ -44,7 +44,13 @@ return true;
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Contact Us</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="index.shtml">Alumni</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Contact Us</span></li>
+	</ol>
+  </nav>
 
 <!--p><b>This online form is temporarily unavailable.</b><br/>
 We are experiencing some technical issues with our new web hosting service.<br/>

@@ -16,8 +16,14 @@
 
 
 <!--Begin Central Content-->
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="index.shtml">Fordham Hockey</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2006 MCHC Champions</span></li>
+  </ol>
+</nav>
 
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="index.shtml">Fordham Hockey</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;2006 MCHC Champions</a></div>
 
 <div align="right"><a class="smalltextlink" href="champs2.shtml">View Championship Game Photo Gallery >></a></div>
 

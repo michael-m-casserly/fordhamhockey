@@ -16,8 +16,14 @@
 
 
 <!--Begin Central Content-->
-
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumni/index.shtml">Alumni</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/alumnigame/2006/index.shtml">Alumni Game</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Photo Gallery</a></div>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/alumni/index.shtml">Alumni</a></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/alumnigame/2006/index.shtml">Alumni Game</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Photo Gallery</span></li>
+  </ol>
+</nav>
 
 <div class="BoldText">Click Photos to Enlarge...</div>
 
