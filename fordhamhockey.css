@@ -144,7 +144,9 @@ list-style-image: url(/images/left_nav_arrow.jpg);
 background-color: white;
 text-align: left;
 vertical-align: middle;
-padding: 0px 0px 0px 0px}
+padding: 0px 0px 0px 0px;
+margin-left: 20px;
+}
 
 a.sitemapsublink{ 
 color: #5e183e; 
@@ -418,10 +420,12 @@ color: #0000CC}
 
 /* Added Breadcrumb for Responsive pages, May 2019*/
 .breadcrumb {
-	padding-top: 30px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
 	border: 2px solid black; 
 	border-radius:5px;
 	padding-left: 20px !important;
+  background-color: #d1d3d4; /* This is the same grey from the logo */
 }
 
 /*Added this for responsive IFRAMEs */
@@ -431,7 +435,8 @@ color: #0000CC}
 	height: 0; 
 	overflow: hidden; 
 	max-width: 100%; 
-	} 
+	}
+   
 .embed-container iframe, .embed-container object, .embed-container embed { 
 	position: absolute; 
 	top: 0; 
@@ -456,6 +461,11 @@ div.dropdown-menu{
 p.module-button-wrapper {
 	text-align: center;
 }
+
+.text-align-center {
+	text-align: center;
+  }
+
 
   /* Everything below was ported over from gallop.css when the upgrade to Bootstrap 5.1 was made in Dec 2023*/
 
@@ -576,4 +586,16 @@ p.module-button-wrapper {
   /* this is used to force the breadcrumb separator to be white */
   .breadcrumb-item+.breadcrumb-item::before {
     color: #000 !important;
+  }
+
+  .round-border{
+    border: 2px solid #5e183e; 
+    border-radius:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-bottom: 10px;
+    background-color: #e5ecf9;
+    text-align: center;
+   /* padding-left: 10px;
+    padding-right: 10px; */
   }

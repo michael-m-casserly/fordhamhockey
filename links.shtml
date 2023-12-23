@@ -23,7 +23,12 @@
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Links</a></div>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Links</span></li>
+  </ol>
+</nav>
 
 <center>
 <div class="LinkPageGraphics"><a href="https://www.fordham.edu/" target="_blank"><img alt="Fordham University" src="/images/logo_fordham_crest_white.png" border="0" style="width:188px; height:244px;"></a></div>
