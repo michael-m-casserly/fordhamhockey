@@ -12,7 +12,7 @@ xmlns="http://www.w3.org/TR/REC-html40" lang="en">
  <style>
 #Iframe-Liason-Sheet {
    max-width: 325px;
-   max-height: 1698px; /* Adjust this value whenever an update is applied to the current roster */
+   max-height: 1728px; /* Adjust this value whenever an update is applied to the current roster */
    overflow: hidden;
  }
   /* inner wrapper: make responsive */
