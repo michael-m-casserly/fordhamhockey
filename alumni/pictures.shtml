@@ -23,38 +23,56 @@
 <table>
 <tr>
 	<td align="center" valign="bottom" bgcolor="white">&nbsp;</td>
-	<td align="center" valign="bottom" bgcolor="white" class="ImageTitle">2022-23 Fordham Rams</td>
+	<td align="center" valign="bottom" bgcolor="white" class="ImageTitle">2023-24 Fordham Rams</td>
 	<td align="center" valign="bottom" bgcolor="white">&nbsp;</td>
 </tr>
 <tr>
 	<td align="center" valign="middle" bgcolor="white">&nbsp;</td>
-	<td align="center" valign="middle" bgcolor="white"><a href="2023FordhamHockeyTeamPicture.shtml"><img border="0" src="/images/team/thumbs/2023FordhamHockeyTeamPicture.jpg" alt="2022-23 Fordham Hockey Team Picture"></a></td>
+	<td align="center" valign="middle" bgcolor="white"><a href="2024FordhamHockeyTeamPicture.shtml"><img border="0" src="/images/team/thumbs/2024FordhamHockeyTeamPicture.jpg" alt="2023-24 Fordham Hockey Team Picture"></a></td>
 	<td align="center" valign="middle" bgcolor="white">&nbsp;</td>
 </tr>
 <tr>
 	<td valign="top" align="center">&nbsp;</td>
-	<td align="center" valign="top" bgcolor="white"><a class="smalltextlink" href="2023FordhamHockeyTeamPicture.shtml">2023 Team Picture</a></td>
+	<td align="center" valign="top" bgcolor="white"><a class="smalltextlink" href="2024FordhamHockeyTeamPicture.shtml">2024 Team Picture</a></td>
 	<td valign="top" align="center">&nbsp;</td>
 </tr>
 </table>
+
+<br><br>
 
 <table>
 <tr>
 	<td colspan="3" bgcolor="white" align="center" valign="bottom" class="ImageTitle">Previous Team Pictures</td>
 </tr>
 </table>
+
+<!--USE THIS IN ODD YEARS WHEN ONLY 1 PHOTO WILL BE IN THE TOP ROW...
 <table>
 	<tr>
 		<td align="center" valign="bottom" bgcolor="white">&nbsp;</td>
-		<td align="center" valign="bottom" bgcolor="white" class="ImageTitle">2021-22 Fordham Rams</td>
+		<td align="center" valign="bottom" bgcolor="white" class="ImageTitle">20xx-xx Fordham Rams</td>
 		<td align="center" valign="bottom" bgcolor="white">&nbsp;</td>
 	</tr>
 	<tr>
 		<td align="center" valign="middle" bgcolor="white">&nbsp;</td>
-		<td align="center" valign="middle" bgcolor="white"><a href="2022FordhamHockeyTeamPicture.shtml"><img border="0" src="/images/team/thumbs/2022FordhamHockeyTeamPicture.jpg" alt="2021-22 Fordham Hockey Team Picture"></a></td>
+		<td align="center" valign="middle" bgcolor="white"><a href="20xxFordhamHockeyTeamPicture.shtml"><img border="0" src="/images/team/thumbs/20xxFordhamHockeyTeamPicture.jpg" alt="20xx-xx Fordham Hockey Team Picture"></a></td>
 		<td align="center" valign="middle" bgcolor="white">&nbsp;</td>
 	</tr>
 </table>
+-->
+<table>
+	<tr>
+		<td valign="middle" align="center" class="ThumbTitle">2022-23</td>
+		<td valign="middle" align="center" class="ThumbTitle"><img width="15" src="/images/spacer.gif" style="width:15px; height:15px;"></td>
+		<td valign="middle" align="center" class="ThumbTitle">2021-22</td>
+	</tr>
+	<tr>
+		<td align="center" valign="middle" bgcolor="white"><a href="2023FordhamHockeyTeamPicture.shtml"><img border="0" src="/images/team/thumbs/2023FordhamHockeyTeamPicture.jpg" alt="2022-23 Fordham Hockey Team Picture"></a></td>
+		<td align="center" valign="middle" bgcolor="white">&nbsp;</td>
+		<td align="center" valign="middle" bgcolor="white"><a href="2022FordhamHockeyTeamPicture.shtml"><img border="0" src="/images/team/thumbs/2022FordhamHockeyTeamPicture.jpg" alt="2021-22 Fordham Hockey Team Picture"></a></td>
+	</tr>
+	</table>
+<table>
 <table>
 	<tr>
 		<td valign="middle" align="center" class="ThumbTitle">2020-21</td>
@@ -67,7 +85,7 @@
 		<td align="center" valign="middle" bgcolor="white"><a href="2020FordhamHockeyTeamPicture.shtml"><img border="0" src="/images/team/thumbs/2020FordhamHockeyTeamPicture.jpg" alt="2019-20 Fordham Hockey Team Picture"></a></td>
 	</tr>
 	</table>
-	<table>
+<table>
 <tr>
 	<td valign="middle" align="center" class="ThumbTitle">2018-19</td>
 	<td valign="middle" align="center" class="ThumbTitle"><img width="15" src="/images/spacer.gif" style="width:15px; height:15px;"></td>
