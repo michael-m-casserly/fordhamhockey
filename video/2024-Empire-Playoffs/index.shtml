@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>2024 Empire Playoffs | Fordham Hockey</title>
+
+  </head>
+
+<body class="bodyTag">
+
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+
+<!--Begin Central Content-->
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/video/index.shtml">Video</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2024 Empire Playoffs</span></li>
+  </ol>
+</nav>
+
+<p><center>Empire Quarter Finals, Friday, February 23rd<br/><b>FORDHAM 6, RAMAPO 0</b><br/>
+  <div class="embed-container"><iframe src="https://www.youtube.com/embed/fuaImVyblTw?si=YQV6QX9JPYIWkMtS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+  <a class="btn btn-secondary" role="button" href="https://gamesheetstats.com/seasons/3789/games/1771788?utm_source=post_game&utm_medium=email&utm_campaign=post_game_report&utm_content=view_box_score" target="_blank">Box Score &raquo;</a></center></p>
+
+
+<!--End Central Content-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+
+</html>
