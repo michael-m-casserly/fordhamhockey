@@ -49,6 +49,7 @@ h3{
     <!-- Three columns of text below the carousel -->
     <div class="row">
 
+<!--Left Column-->
       <div class="col-lg-4">
 
         <!--div class="round-border">
@@ -68,13 +69,19 @@ h3{
 
           </div>
 
-        <div class="round-border">
+          <div class="round-border">
+            <h3>Recruits</h3>
+            <p>Prospective Fordham Students who are interested in trying out for the team can fill out our online Fordham Hockey Recruiting Form.</p>
+            <p><a class="btn btn-secondary" href="/recruit/" role="button">Fill out Form &raquo;</a></p>
+          </div>
+
+
+        <!--div class="round-border">
         <h3>Schedule</h3>
-		<!--p>Link to the Fordham Hockey Schedule and Scoreboard on Google Calendar.</p-->
+		
         <p class="module-button-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 339px; width: 100%; overflow: hidden;"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
-        <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
       	 <p class="module-button-wrapper" style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
-        </div>
+        </div-->
          
         <!--div class="round-border">
           <h3>Empire Standings</h3>
@@ -122,17 +129,43 @@ h3{
           </div>
 
       </div><!-- /.col-lg-4 -->
+
+<!--Middle Column-->
       <div class="col-lg-4">
 
         <div class="round-border">
-        <h3>Scoreboard</h3>
-        <!--#include virtual="/schedule/current-scoreboard-include.html" -->
-        <p>View scores from all games, 1980 - present.</p>
-        <p><a class="btn btn-secondary" href="/schedule/index.shtml#HistoricalScoreboard" role="button">View Scoreboard &raquo;</a></p>
-          </div>
 
+          <h3>News</h3>
+          <!--p><a class="btn btn-secondary" href="https://twitter.com/FordhamHockey" role="button" target="_blank">View details &raquo;</a></p-->
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          <!--p><a href="https://twitter.com/FordhamHockey" class="twitter-follow-button" data-show-count="false">Follow @FordhamHockey</a></p-->
+  
+          <p><a href="https://twitter.com/FordhamHockey" target="_blank">@FordhamHockey</a> is the official Twitter account for the Fordham University Ice Hockey team. <a href="https://twitter.com/FordhamHockey" target="_blank">Follow</a> us for team news, scores, and live in-game updates.</p>
+          <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
+  
+          <p style="border: 2px solid black; border-radius:5px;">
+            <a class="twitter-timeline" height="735" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^https:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+  
+  
+          <p><a class="btn btn-secondary" href="/fordhamhockey/news.shtml" role="button">View News Archive &raquo;</a></p>
+          </div>
+        
+          <div class="round-border">
+            <h3>Facebook</h3>
+            <p class="module-button-wrapper"><a href="https://www.facebook.com/FordhamHockey" target="_blank"><img src="/images/logo_facebook.png" style="width:180px; height:39px;" alt="Like us on Facebook" title="Like us on Facebook" /></a></p>
+            
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFordhamHockey&tabs=timeline&width=290&height=873&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="873" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  
+            <!--This is good for 200 views, unless you pay a monthly fee for more-->
+            <!--script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+            <div class="elfsight-app-fa980708-2b3d-47c1-b1f5-074565aa0d50"></div-->
+  
+            </div>
+    
       </div><!-- /.col-lg-4 -->
 
+<!--Right Column-->      
       <div class="col-lg-4">
         
         <!--div class="round-border">
@@ -142,40 +175,13 @@ h3{
         </div-->
 
         <div class="round-border">
-        <h3>News</h3>
-        <!--p><a class="btn btn-secondary" href="https://twitter.com/FordhamHockey" role="button" target="_blank">View details &raquo;</a></p-->
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        <!--p><a href="https://twitter.com/FordhamHockey" class="twitter-follow-button" data-show-count="false">Follow @FordhamHockey</a></p-->
-
-        <p><a href="https://twitter.com/FordhamHockey" target="_blank">@FordhamHockey</a> is the official Twitter account for the Fordham University Ice Hockey team. <a href="https://twitter.com/FordhamHockey" target="_blank">Follow</a> us for team news, scores, and live in-game updates.</p>
-        <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
-
-        <p style="border: 2px solid black; border-radius:5px;">
-          <a class="twitter-timeline" height="735" href="https://twitter.com/FordhamHockey" data-widget-id="365283394868879360">Tweets by @FordhamHockey</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^https:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
-
-
-        <p><a class="btn btn-secondary" href="/fordhamhockey/news.shtml" role="button">View News Archive &raquo;</a></p>
+          <h3>Scoreboard</h3>
+          <!--#include virtual="/schedule/current-scoreboard-include.html" -->
+          <p>View scores from all games, 1980 - present.</p>
+          <p><a class="btn btn-secondary" href="/schedule/index.shtml#HistoricalScoreboard" role="button">View Scoreboard &raquo;</a></p>
         </div>
-      
-        <div class="round-border">
-          <h3>Facebook</h3>
-          <p class="module-button-wrapper"><a href="https://www.facebook.com/FordhamHockey" target="_blank"><img src="/images/logo_facebook.png" style="width:180px; height:39px;" alt="Like us on Facebook" title="Like us on Facebook" /></a></p>
-          
-          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFordhamHockey&tabs=timeline&width=290&height=873&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="873" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        
 
-          <!--This is good for 200 views, unless you pay a monthly fee for more-->
-          <!--script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-          <div class="elfsight-app-fa980708-2b3d-47c1-b1f5-074565aa0d50"></div-->
-
-          </div>
-          
-          <div class="round-border">
-            <h3>Recruits</h3>
-            <p>Prospective Fordham Students who are interested in trying out for the team can fill out our online Fordham Hockey Recruiting Form.</p>
-            <p><a class="btn btn-secondary" href="/recruit/" role="button">Fill out Form &raquo;</a></p>
-          </div>
-  
       </div><!-- /.col-lg-4 -->      
     </div><!-- /.row -->
 
