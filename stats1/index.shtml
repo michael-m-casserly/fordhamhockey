@@ -31,7 +31,7 @@
 
 <p><center>
 <!--img src="/images/excel_icon_small.gif" border="0" style="width:16px; height:17px;">&nbsp;-->
-<a class="btn btn-secondary" role="button" href="/stats1/Stats.xls" target="_blank">Current Season Statistics (Excel) &raquo;</a><br/><br/>
+<a class="btn btn-secondary" role="button" href="/stats1/Stats.xlsx" target="_blank">Current Season Statistics (Excel) &raquo;</a><br/><br/>
 <a class="btn btn-secondary" role="button" href="/stats1/previous.shtml">Stats for Previous Seasons &raquo;</a><br/><br/>
 <a class="btn btn-secondary" role="button"href="/stats1/alltime.shtml">All-Time Record Book &raquo;</a>
 </center></p>
