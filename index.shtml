@@ -59,29 +59,28 @@ h3{
           <p class="module-button-wrapper" style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="https://www.youtube.com/live/0wIc1izqTac?si=hJLn-jrsLs2F3WCb" target="_blank" role="button">Watch @ 6PM EST &raquo;</a></p>
         </div-->
 
-          <div class="round-border">
+          <!--div class="round-border">
           <h3>Nationals 2024</h3>
 
-          <!--iframe width="100%" height="100%" src="https://www.youtube.com/embed/RA6dMtg6GIk?si=xWA4JTgPVxKFXtST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-width:0; height: 100%; width: 100%; overflow: hidden;"></iframe-->
            <p class="module-button-wrapper" style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="https://www.givecampus.com/schools/FordhamUniversity/fordham-hockey-nationals-2024" target="_blank" role="button">Support Us &raquo;</a></p>
 
            <p class="module-button-wrapper" style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="https://www.aaucollegehockey.org/page/show/7021216-aau-nationals" target="_blank" role="button">Tourney Site &raquo;</a></p>
 
-          </div>
+          </div-->
 
-          <div class="round-border">
+          <!--div class="round-border">
             <h3>Recruits</h3>
             <p>Prospective Fordham Students who are interested in trying out for the team can fill out our online Fordham Hockey Recruiting Form.</p>
             <p><a class="btn btn-secondary" href="/recruit/" role="button">Fill out Form &raquo;</a></p>
-          </div>
+          </div-->
 
 
-        <!--div class="round-border">
+        <div class="round-border">
         <h3>Schedule</h3>
 		
         <p class="module-button-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l0e69iac2j9snn7m073jd9er0o%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 339px; width: 100%; overflow: hidden;"></iframe><br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></p>
       	 <p class="module-button-wrapper" style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p>
-        </div-->
+        </div>
          
         <!--div class="round-border">
           <h3>Empire Standings</h3>
@@ -126,6 +125,12 @@ h3{
             <h3>Donate</h3>
             <p>Support the Fordham Hockey Club via the University Donation Form.</p>
             <p><a class="btn btn-secondary" href="/donate.shtml" role="button">Donate &raquo;</a></p>
+          </div>
+
+          <div class="round-border">
+            <h3>Recruits</h3>
+            <p>Prospective Fordham Students who are interested in trying out for the team can fill out our online Fordham Hockey Recruiting Form.</p>
+            <p><a class="btn btn-secondary" href="/recruit/" role="button">Fill out Form &raquo;</a></p>
           </div>
 
       </div><!-- /.col-lg-4 -->
