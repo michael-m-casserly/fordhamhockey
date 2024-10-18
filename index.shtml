@@ -98,7 +98,7 @@ h3{
         <div class="round-border">
         <h3>AAU Rankings</h3>
         <!--iframe src="https://myhockeyrankings.com/embed.php?v=990&y=2022" style="border-width:0; height: 350px; width: 100%;"></iframe-->
-        <iframe src="https://myhockeyrankings.com/embed.php?y=2023&a=7&v=969" style="border-width:0; height: 350px; width: 100%;"></iframe>
+        <iframe src="https://myhockeyrankings.com/embed.php?y=2024&a=7&v=990" style="border-width:0; height: 350px; width: 100%;"></iframe>
         </div>
 
         <div class="round-border">
