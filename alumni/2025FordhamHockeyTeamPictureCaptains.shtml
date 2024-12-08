@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Pictures | Fordham Hockey</title>
+    
+  </head>
+
+<body class="bodyTag">
+
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+
+<!--Begin Central Content-->
+<!--#include virtual="/menus/bc_team_pictures.html" -->
+
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2025FordhamHockeyTeamPictureSeniors.shtml"> << Class of 2025</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><!--a class="smalltextlink" href="2026FordhamHockeyTeamPicture.shtml">2026 Team Picture  >></a--></td>
+</tr>
+</table>
+</center>
+<!--Picture Slide Show Navigation-->
+<div class="ImageTitle">2024-25 Captains</div>
+<p>
+<center>
+<img src="/images/team/1600/2025FordhamHockeyTeamPictureCaptains.jpg" width="500" alt="Fordham Hockey 2024-25 Captains" title="Fordham Hockey 2024-25 Captains">
+<table>
+<tr>
+<td align="right" width="500"><div align="right" class="ImageCredit">Photo courtesy of: Steph Lane / Kerri Finnegan</div></td>
+</tr>
+</table>
+</center>
+</p>
+<p>
+<div class="ImageLabel">December 2024 -- Ice Hutch, Mount Vernon, NY</div>
+</p>
+<div class="ImageLabel">
+<b>From left to right:</b>
+
+Owen O'Keefe (<b>A</b>), Bryce Vitale (<b>A</b>), Adian Graham (<b>C</b>), Carmine Pittelli (<b>A</b>), Charles Piggot (<b>A</b>)</div>
+
+<p><div class="ImageLabel"><a target="_blank" href="/images/team/800/2025FordhamHockeyTeamPictureCaptains.jpg">View Larger Image</a> (800 x 534)<img src="/images/spacer.gif" height="10" width="20" style="width:20px; height:10px;"><a target="_blank" href="/images/team/1600/2025FordhamHockeyTeamPictureCaptains.jpg">View Largest Image</a> (1600 x 1067)</div></p>
+<!--Picture Slide Show Navigation-->
+<center>
+<table>
+<tr>
+<td width="240" align="left"><a class="smalltextlink" href="2025FordhamHockeyTeamPictureSeniors.shtml"> << Class of 2025</a></td>
+<td width="20"><img src="/images/spacer.gif" height="15" width="20" style="width:20px; height:15px;"></td>
+<td width="240" align="right"><!--a class="smalltextlink" href="2026FordhamHockeyTeamPicture.shtml">2026 Team Picture  >></a--></td>
+</tr>
+</table>
+<!--Picture Slide Show Navigation-->
+</center>
+<!--#include virtual="/menus/subnav_gallery.html" -->
+<!--End Main Content section-->
+<!--#include virtual="/footer-m.html" -->
+<!--End Bottom Navigation Menu-->
+</html>
