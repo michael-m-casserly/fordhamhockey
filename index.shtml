@@ -108,7 +108,7 @@ h3{
 <!--Left Column-->
       <div class="col-lg-4">
 
-          <div class="round-border">
+          <!--div class="round-border">
           <h3>Giving Day 2024</h3>
 
           <iframe width="320" height="180" src="https://www.youtube.com/embed/FW0xYBECZyk?si=vA8qiNaamJqARUGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -117,7 +117,7 @@ h3{
 
            <p>On the Donation Form, for "<b>Designation</b>" please be sure to select "<b>Athletics</b>", then "<b>Club Sports - Hockey Team</b>"<br><img src="/images/donate-designation-club-hockey.png" width="320" height="113" border="0"></p>
 
-          </div>
+          </div-->
         
           <!--div class="round-border">
           <h3>Empire Semi-Finals</h3>
