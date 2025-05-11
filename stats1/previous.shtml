@@ -26,6 +26,7 @@
 
 <div class="ImageTitle">Stats for Previous Seasons</div>
 <p><center>
+<a class="btn btn-secondary" role="button" href="/stats1/2024/Stats.xls">2023-24 Stats (Excel) &raquo;</a><br/><br/>
 <a class="btn btn-secondary" role="button" href="/stats1/2023/Stats.xls">2022-23 Stats (Excel) &raquo;</a><br/><br/>
 <a class="btn btn-secondary" role="button" href="/stats1/2022/Stats.xls">2021-22 Stats (Excel) &raquo;</a><br/><br/>
 <!--No 2020-21 Season-->
