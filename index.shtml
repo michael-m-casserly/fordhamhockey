@@ -48,58 +48,6 @@ h3{
 
 <!--*************************BEGIN Space for the team pictures when posted at the top of the page*************************-->
 
-    <!--hr class="featurette-divider"-->
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h3 class="featurette-heading">2024-25 Rams<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
-        <!--p class="lead"-->
-		<p>
-      <b>From left to right:</b>
-      <i>(Sitting):</i> Chase O'Briskie, Bryce Vitale (<b>A</b>), Chris Lordi, Charlie Borg, Owen O'Keeffe (<b>A</b>), Adian Graham (<b>C</b>), Charles Piggot (<b>A</b>), Anthony Ambrose (<b>MGR</b>), Julian Melendez<br>
-
-      <i>(Standing):</i> Pete Genesi (<b>Head Coach</b>), Dave Smith (<b>Asst. Coach</b>), Matteo Pugliese, Ryan Pierce, Seve Concepcion, Kurt Beyler, John Langan, Sebastian Politano, Danny Koehler, Peter Kszcot, Mark Gall, C.J Soropoulos, Bobby Rotondo, Mark Saradjian, Anthony Kulp, Andy Carlson, Tom Macina, Maxim Gubarev, Carmine Pittelli (<b>A</b>), Anthony DeMario, Andrew Mola (<b>GM</b>)<br>
-
-      <i>Missing from photo:</i> Dan Gerts, Chris Gabriel, Luke Lowe</p>
-
-    </div>
-      <div class="col-md-5 order-md-1">
-        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="406" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x406" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2018-19 Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x406</text><image xlink:href="/images/team/2019FordhamHockeyTeamPicture_home.jpg" width="610" height="406"/></svg-->
-      <a href="/alumni/2025FordhamHockeyTeamPicture.shtml"><img src="/images/team/2025FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2024-25 Fordham Rams" title="2024-25 Fordham Rams"></a>
-      </div>
-    </div>
-
-    <hr>
-    <!--hr class="featurette-divider"-->
-
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h3 class="featurette-heading">Class of 2025<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
-        <!--p class="lead"-->
-        <p>
-          <b>From left to right:</b> Pete Genesi (<b>Head Coach</b>) Owen O'Keefe (<b>A</b>), Aidan Graham (<b>C</b>), Bryce Vitale (<b>A</b>), Chase O'Briskie, Charlie Borg, Chris Lordi, Charles Piggot (<b>A</b>), Anthony Ambrose (<b>MGR</b>)</p>
-      </div>
-      <div class="col-md-5">
-        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="405" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x405" xmlns:xlink="https://www.w3.org/1999/xlink"><title>Fordham Rams Class of 2019</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x405</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" width="610" height="405"/></svg-->
-		<a href="/alumni/2025FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2025FordhamHockeyTeamPictureSeniors_home.jpg" style="border: 0;" alt="Fordham Rams Class of 2025" title="Fordham Rams Class of 2025"></a>
-      </div>
-    </div>
-
-    <hr>
-    <!--hr class="featurette-divider"-->
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h3 class="featurette-heading">2024-25 Captains<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
-        <!--p class="lead"-->
-		<p>
-      <b>From left to right:</b> Owen O'Keefe (<b>A</b>), Bryce Vitale (<b>A</b>), Adian Graham (<b>C</b>), Carmine Pittelli (<b>A</b>), Charles Piggot (<b>A</b>)</p>
-
-    </div>
-      <div class="col-md-5 order-md-1">
-        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="406" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x406" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2018-19 Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x406</text><image xlink:href="/images/team/2019FordhamHockeyTeamPicture_home.jpg" width="610" height="406"/></svg-->
-      <a href="/alumni/2025FordhamHockeyTeamPictureCaptains.shtml"><img src="/images/team/2025FordhamHockeyTeamPictureCaptains_home.jpg" style="border: 0;" alt="2024-25 Fordham Captains" title="2024-25 Fordham Captains"></a>
-      </div>
-    </div>
-    <hr>
 <!--*************************END Space for the team pictures when posted at the top of the page*************************-->
 
     <!-- Three columns of text below the carousel -->
@@ -280,6 +228,51 @@ h3{
     </div>
 
 <!--***********Team pictures from the top of the page can be added back here whenever deemed necessary***************-->    
+
+    <!--hr>
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h3 class="featurette-heading">2024-25 Rams<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
+		<p>
+      <b>From left to right:</b>
+      <i>(Sitting):</i> Chase O'Briskie, Bryce Vitale (<b>A</b>), Chris Lordi, Charlie Borg, Owen O'Keeffe (<b>A</b>), Adian Graham (<b>C</b>), Charles Piggot (<b>A</b>), Anthony Ambrose (<b>MGR</b>), Julian Melendez<br>
+
+      <i>(Standing):</i> Pete Genesi (<b>Head Coach</b>), Dave Smith (<b>Asst. Coach</b>), Matteo Pugliese, Ryan Pierce, Seve Concepcion, Kurt Beyler, John Langan, Sebastian Politano, Danny Koehler, Peter Kszcot, Mark Gall, C.J Soropoulos, Bobby Rotondo, Mark Saradjian, Anthony Kulp, Andy Carlson, Tom Macina, Maxim Gubarev, Carmine Pittelli (<b>A</b>), Anthony DeMario, Andrew Mola (<b>GM</b>)<br>
+
+      <i>Missing from photo:</i> Dan Gerts, Chris Gabriel, Luke Lowe</p>
+
+    </div>
+      <div class="col-md-5 order-md-1">
+      <a href="/alumni/2025FordhamHockeyTeamPicture.shtml"><img src="/images/team/2025FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2024-25 Fordham Rams" title="2024-25 Fordham Rams"></a>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h3 class="featurette-heading">Class of 2025<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
+        <p>
+          <b>From left to right:</b> Pete Genesi (<b>Head Coach</b>) Owen O'Keefe (<b>A</b>), Aidan Graham (<b>C</b>), Bryce Vitale (<b>A</b>), Chase O'Briskie, Charlie Borg, Chris Lordi, Charles Piggot (<b>A</b>), Anthony Ambrose (<b>MGR</b>)</p>
+      </div>
+      <div class="col-md-5">
+		<a href="/alumni/2025FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2025FordhamHockeyTeamPictureSeniors_home.jpg" style="border: 0;" alt="Fordham Rams Class of 2025" title="Fordham Rams Class of 2025"></a>
+      </div>
+    </div>
+
+    <hr>
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h3 class="featurette-heading">2024-25 Captains<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
+		<p>
+      <b>From left to right:</b> Owen O'Keefe (<b>A</b>), Bryce Vitale (<b>A</b>), Adian Graham (<b>C</b>), Carmine Pittelli (<b>A</b>), Charles Piggot (<b>A</b>)</p>
+
+    </div>
+      <div class="col-md-5 order-md-1">
+      <a href="/alumni/2025FordhamHockeyTeamPictureCaptains.shtml"><img src="/images/team/2025FordhamHockeyTeamPictureCaptains_home.jpg" style="border: 0;" alt="2024-25 Fordham Captains" title="2024-25 Fordham Captains"></a>
+      </div>
+    </div>
+    <hr-->
 
     <!-- /END THE FEATURETTES -->
 
