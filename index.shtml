@@ -48,6 +48,55 @@ h3{
 
 <!--*************************BEGIN Space for the team pictures when posted at the top of the page*************************-->
 
+    <hr>
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h3 class="featurette-heading">2025-26 Rams<br><span class="text-muted">November 2025 -- Ice Hutch, Mount Vernon, NY</span></h3>
+		<p>
+<b>From left to right:</b>
+
+<i>(Sitting):</i> Julian Melendez, Dan Gerts, Seve Conception, Danny Koehler, Carmine Pittelli (<b>C</b>), Bobby Rotondo, Calum Haslam, Nico Lamano, Ian O'Brein<br>
+
+<i>(Standing):</i> Dave Smith (<b>Asst. Coach</b>), Bryce Vitale (<b>A</b>), Pete Genesi (<b>Head Coach</b>), Matteo Pugliese, Declan Pierce (<b>A</b>), Nathan Khichi, Anthony Kulp, Jack Langan, Kurt Beyler, Peter Kszczot, Sebastian Politano, Maxim Gubarev, CJ Soropoulos, Mark Saradjian, Tommy Macina, Davis Chader, Andrew Mola (<b>GM</b>), Luke Lowe, Anthony DeMario (<b>Asst. Coach</b>)<br>
+
+<i>Missing from photo:</i> Andy Carlson, Alex Bergners</p>
+
+    </div>
+      <div class="col-md-5 order-md-1">
+      <a href="/alumni/2026FordhamHockeyTeamPicture.shtml"><img src="/images/team/2026FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2025-26 Fordham Rams" title="2025-26 Fordham Rams"></a>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h3 class="featurette-heading">Class of 2026<br><span class="text-muted">November 2025 -- Ice Hutch, Mount Vernon, NY</span></h3>
+        <p>
+          Dave Smith (<b>Asst. Coach</b>), Seve Conception, Declan Pierce (<b>A</b>), Danny Koehler, Dan Gerts, Carmine Pittelli (<b>C</b>), Jack Langan, Bobby Rotondo, Pete Genesi (<b>Head Coach</b>)<br>
+
+          <i>Missing from photo:</i> Andy Carlson</p>
+      </div>
+      <div class="col-md-5">
+		<a href="/alumni/2026FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2026FordhamHockeyTeamPictureSeniors_home.jpg" style="border: 0;" alt="Fordham Rams Class of 2026" title="Fordham Rams Class of 2026"></a>
+      </div>
+    </div>
+
+    <hr>
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h3 class="featurette-heading">2025-26 Captains<br><span class="text-muted">November 2025 -- Ice Hutch, Mount Vernon, NY</span></h3>
+		<p>
+      <b>From left to right:</b> Declan Pierce (<b>A</b>), Carmine Pittelli (<b>C</b>), Bryce Vitale (<b>A</b>)</p>
+
+    </div>
+      <div class="col-md-5 order-md-1">
+      <a href="/alumni/2026FordhamHockeyTeamPictureCaptains.shtml"><img src="/images/team/2026FordhamHockeyTeamPictureCaptains_home.jpg" style="border: 0;" alt="2025-26 Fordham Captains" title="2025-26 Fordham Captains"></a>
+      </div>
+    </div>
+    <hr>
+
+
 <!--*************************END Space for the team pictures when posted at the top of the page*************************-->
 
     <!-- Three columns of text below the carousel -->
@@ -228,50 +277,6 @@ h3{
 
 <!--***********Team pictures from the top of the page can be added back here whenever deemed necessary***************-->    
 
-    <!--hr>
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h3 class="featurette-heading">2024-25 Rams<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
-		<p>
-      <b>From left to right:</b>
-      <i>(Sitting):</i> Chase O'Briskie, Bryce Vitale (<b>A</b>), Chris Lordi, Charlie Borg, Owen O'Keeffe (<b>A</b>), Adian Graham (<b>C</b>), Charles Piggot (<b>A</b>), Anthony Ambrose (<b>MGR</b>), Julian Melendez<br>
-
-      <i>(Standing):</i> Pete Genesi (<b>Head Coach</b>), Dave Smith (<b>Asst. Coach</b>), Matteo Pugliese, Ryan Pierce, Seve Concepcion, Kurt Beyler, John Langan, Sebastian Politano, Danny Koehler, Peter Kszcot, Mark Gall, C.J Soropoulos, Bobby Rotondo, Mark Saradjian, Anthony Kulp, Andy Carlson, Tom Macina, Maxim Gubarev, Carmine Pittelli (<b>A</b>), Anthony DeMario, Andrew Mola (<b>GM</b>)<br>
-
-      <i>Missing from photo:</i> Dan Gerts, Chris Gabriel, Luke Lowe</p>
-
-    </div>
-      <div class="col-md-5 order-md-1">
-      <a href="/alumni/2025FordhamHockeyTeamPicture.shtml"><img src="/images/team/2025FordhamHockeyTeamPicture_home.jpg" style="border: 0;" alt="2024-25 Fordham Rams" title="2024-25 Fordham Rams"></a>
-      </div>
-    </div>
-
-    <hr>
-
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h3 class="featurette-heading">Class of 2025<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
-        <p>
-          <b>From left to right:</b> Pete Genesi (<b>Head Coach</b>) Owen O'Keefe (<b>A</b>), Aidan Graham (<b>C</b>), Bryce Vitale (<b>A</b>), Chase O'Briskie, Charlie Borg, Chris Lordi, Charles Piggot (<b>A</b>), Anthony Ambrose (<b>MGR</b>)</p>
-      </div>
-      <div class="col-md-5">
-		<a href="/alumni/2025FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2025FordhamHockeyTeamPictureSeniors_home.jpg" style="border: 0;" alt="Fordham Rams Class of 2025" title="Fordham Rams Class of 2025"></a>
-      </div>
-    </div>
-
-    <hr>
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h3 class="featurette-heading">2024-25 Captains<br><span class="text-muted">December 2024 -- Ice Hutch, Mount Vernon, NY</span></h3>
-		<p>
-      <b>From left to right:</b> Owen O'Keefe (<b>A</b>), Bryce Vitale (<b>A</b>), Adian Graham (<b>C</b>), Carmine Pittelli (<b>A</b>), Charles Piggot (<b>A</b>)</p>
-
-    </div>
-      <div class="col-md-5 order-md-1">
-      <a href="/alumni/2025FordhamHockeyTeamPictureCaptains.shtml"><img src="/images/team/2025FordhamHockeyTeamPictureCaptains_home.jpg" style="border: 0;" alt="2024-25 Fordham Captains" title="2024-25 Fordham Captains"></a>
-      </div>
-    </div>
-    <hr-->
 
     <!-- /END THE FEATURETTES -->
 
