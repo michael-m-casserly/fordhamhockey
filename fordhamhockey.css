@@ -599,3 +599,9 @@ p.module-button-wrapper {
    /* padding-left: 10px;
     padding-right: 10px; */
   }
+
+  /* Google AdSense Overrides */
+  ins.adsbygoogle {
+	background-color: white !important;
+	margin: 0px !important;
+}
