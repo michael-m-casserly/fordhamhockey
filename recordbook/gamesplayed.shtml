@@ -36,6 +36,6 @@ xmlns="http://www.w3.org/TR/REC-html40" lang="en">
 <!--#include virtual="/menus/subnav_stats_recordbook_buttons.html" -->
 <!--End Stats Navigation Menu-->
 <!--End Stats navigation menu-->      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

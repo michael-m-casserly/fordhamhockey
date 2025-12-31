@@ -60,6 +60,6 @@ Take Whitestone bridge. After paying toll stay to your left, the highway will tu
 <p><center><a class="btn btn-secondary" role="button" href="http://www.methockey.com/league/rinks.shtml" target="_blank">Directions to All Rinks &raquo;</a></center></p>
 <p><center><a class="btn btn-secondary" role="button" href="http://www.methockey.com/" target="_blank">methockey.com &raquo;</a></center></p-->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

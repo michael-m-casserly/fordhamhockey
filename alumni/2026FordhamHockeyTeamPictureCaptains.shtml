@@ -61,6 +61,6 @@ Declan Pierce (<b>A</b>), Carmine Pittelli (<b>C</b>), Bryce Vitale (<b>A</b>)</
 </center>
 <!--#include virtual="/menus/subnav_gallery.html" -->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

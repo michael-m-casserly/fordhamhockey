@@ -61,6 +61,6 @@ Owen O'Keefe (<b>A</b>), Bryce Vitale (<b>A</b>), Adian Graham (<b>C</b>), Carmi
 </center>
 <!--#include virtual="/menus/subnav_gallery.html" -->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

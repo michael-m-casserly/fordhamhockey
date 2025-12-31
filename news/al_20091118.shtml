@@ -36,6 +36,6 @@ The episode is called "<i>Game Changer</i>" and it aired Tuesday, November 17th 
 </div>
 
 <p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

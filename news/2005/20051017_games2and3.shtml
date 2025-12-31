@@ -45,6 +45,6 @@ Saturday, 10/22 Columbia - Away Ice House - Hackensack, NJ 6:45pm</p>
 <p><center><a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a></center></p>
 
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

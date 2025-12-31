@@ -787,6 +787,6 @@ x\:* {behavior:url(#default#VML);}
 
 <div class="ImageTitle">2006 Alumni Game</div>
 <p><center>Click <a class="textlink" href="/alumnigame/2006/index.shtml">here</a> for 2006 Alumni Game Recap and Details</center></p>      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

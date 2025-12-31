@@ -53,6 +53,6 @@ https://www.google.com/calendar/embed?src=l0e69iac2j9snn7m073jd9er0o%40group.cal
         </center>
       </p>
       <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

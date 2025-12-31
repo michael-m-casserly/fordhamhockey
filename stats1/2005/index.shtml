@@ -3183,6 +3183,6 @@ tags will be replaced.-->
 <!--#include virtual="/menus/subnav_stats_previous.html" -->
 
 <!--End Stats navigation menu-->      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

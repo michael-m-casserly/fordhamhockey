@@ -31,6 +31,6 @@ The Help Section for Fordham Hockey Online is currently under construction.  We 
 <!--End Central Content Section-->
 
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

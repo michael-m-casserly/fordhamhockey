@@ -39,6 +39,6 @@ Mike Casserly, Class of 1999</p>
 </div>
 
 <p><center><a class="btn btn-secondary" role="button"  href="/alumni/news.shtml">Return to Alumni News &raquo;</a></center></p>      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

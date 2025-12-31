@@ -2355,7 +2355,7 @@ B &amp; B's will be on the left hand side<br>
 </center>
 
 </p>      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 
 </html>

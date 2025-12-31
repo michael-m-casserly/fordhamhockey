@@ -70,7 +70,7 @@ Winner of 1 v 4  vs.  2 v 3  6:00 pm</p>
         </center>
       </p>
       <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 
 </html>

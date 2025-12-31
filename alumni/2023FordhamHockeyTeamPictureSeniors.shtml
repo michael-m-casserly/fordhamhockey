@@ -60,6 +60,6 @@ Dave Smith (<b>Asst. Coach</b>), Garett Silverman (<b>A</b>), Chris McFarland (<
 </center>
 <!--#include virtual="/menus/subnav_gallery.html" -->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

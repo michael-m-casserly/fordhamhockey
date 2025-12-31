@@ -43,7 +43,7 @@ The Fordham Hockey team faced off against 2 opponents in last Saturday night fir
         </center>
       </p>
       <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 
 </html>

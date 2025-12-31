@@ -60,6 +60,6 @@ Anthony DiPerri (<b>A</b>), Mike Gamby (<b>C</b>), Ryan Leblanc (<b>A</b>), Sean
 </center>
 <!--#include virtual="/menus/subnav_gallery.html" -->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

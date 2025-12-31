@@ -32,6 +32,6 @@
 <!--#include virtual="/searchbox.html" -->
 <!-- Search Google -->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" --><!--End Bottom Navigation Menu-->
+<!--#include virtual="/footer-m.shtml" --><!--End Bottom Navigation Menu-->
 </body>
 </html>

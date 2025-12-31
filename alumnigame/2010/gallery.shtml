@@ -71,6 +71,6 @@
 <p>Please click <a class="textlink" href="../2006/index.shtml">here</a> for more Alumni Game 2006 details.</p>
 
 <!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

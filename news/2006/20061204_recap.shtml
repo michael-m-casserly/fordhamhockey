@@ -33,7 +33,7 @@ Fordham now breaks for Christmas vacation and will not hit the ice until January
         </center>
       </p>
       <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 
 </html>

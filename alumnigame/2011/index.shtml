@@ -123,7 +123,7 @@ Black 2-3-3 = 8</p>
 <p>Game time 3:40 pm Ice Hutch (Game slot 3:40pm to 5:30 pm)</p>
 <!--End Main Content section-->
 
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 
 </html>

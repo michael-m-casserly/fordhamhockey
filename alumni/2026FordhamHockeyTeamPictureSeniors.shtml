@@ -63,6 +63,6 @@ Dave Smith (<b>Asst. Coach</b>), Seve Conception, Declan Pierce (<b>A</b>), Dann
 </center>
 <!--#include virtual="/menus/subnav_gallery.html" -->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

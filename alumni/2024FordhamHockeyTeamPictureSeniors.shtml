@@ -60,6 +60,6 @@ Owen Goulette (<b>A</b>), Eamon Croucher (<b>C</b>), Sean Hoover, John Raymond, 
 </center>
 <!--#include virtual="/menus/subnav_gallery.html" -->
 <!--End Main Content section-->
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>

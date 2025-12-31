@@ -85,7 +85,7 @@ xmlns="http://www.w3.org/TR/REC-html40" lang="en">
 <p><center>This document is stored on Google Drive<sup>&reg;</sup>. In some cases, depending on your browser or firewall settings, you may experience issues trying to access it. If this happens to you, please try clearing the cache and cookies from your browser, and that should resolve the issue.</center></p>
 
       <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>
 

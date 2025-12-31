@@ -33,7 +33,7 @@ The Rams picked up two players over the break: Sophomore Defensemen Mike Winton,
           <a class="btn btn-secondary" role="button" href="/fordhamhockey/news.shtml">Return to News &raquo;</a>
         </center>
       </p>      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 
 </html>

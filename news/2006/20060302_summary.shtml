@@ -93,7 +93,7 @@
 
 <p><center><a class="leftnavlink" href="/fordhamhockey/champs.shtml">Visit the <i>2006 Champs</i> section of the site...</a></center></p>
       <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 
 

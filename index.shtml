@@ -277,14 +277,12 @@ h3{
       <a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" style="border: 0;" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></div>
     </div>
 
-<!--***********Team pictures from the top of the page can be added back here whenever deemed necessary***************-->    
-
-<!--#include virtual="/google-adsense/google-adsense-multiplex-ad-horizontal.html" -->
+<!--***********Team pictures from the top of the page can be added back here whenever deemed necessary***************-->
 
     <!-- /END THE FEATURETTES -->
 
   </div><!-- /.container -->
 
-  <!--#include virtual="/footer-m.html" -->
+  <!--#include virtual="/footer-m.shtml" -->
 
 </html>

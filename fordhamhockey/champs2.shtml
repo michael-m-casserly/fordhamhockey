@@ -96,6 +96,6 @@
 <p>Please click <a class="textlink" href="/news/2006/20060302_summary.shtml">here</a> to read the Championship Weekend summary and view links to other photos taken at the Championship Game vs. Albany State.</p>
 
 <!--#include virtual="/menus/subnav_gallery.html" -->      <!--End Main Content section-->
-      <!--#include virtual="/footer-m.html" -->
+      <!--#include virtual="/footer-m.shtml" -->
 <!--End Bottom Navigation Menu-->
 </html>
