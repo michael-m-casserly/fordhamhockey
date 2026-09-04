@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>2026 Empire Playoffs | Fordham Hockey</title>
+
+  </head>
+
+<body class="bodyTag">
+
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+
+<!--Begin Central Content-->
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/video/index.shtml">Video</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2026 Empire Playoffs</span></li>
+  </ol>
+</nav>
+
+<p class="text-align-center">
+  Empire Finals, Sunday, March 1st<br/><b>FARMINGDALE 4, FORDHAM 3</b><br/>
+  <a class="btn btn-lg btn-primary" href="https://www.youtube.com/@LISportsNetwork" role="button" target="_blank">LI Sports Network - YouTube</a></p>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/UKT-gPyPWzs?si=0WltItdFQvR44L_X" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  
+<!--End Central Content-->
+
+<!--#include virtual="/footer-m.shtml" -->
+
+<!--End Bottom Navigation Menu-->
+
+</html>

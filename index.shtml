@@ -47,10 +47,10 @@ h3{
 		</style>
 
 <!--*************************BEGIN Space for the team pictures when posted at the top of the page*************************-->
-<p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://www.youtube.com/@LISportsNetwork" role="button" target="_blank">LI Sports Network - YouTube</a></p>
+<!--p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://www.youtube.com/@LISportsNetwork" role="button" target="_blank">LI Sports Network - YouTube</a></p>
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/Z3SM0ydETk0?si=9YKIi1SKwiiIClC7" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
     
-    <hr>
+    <hr-->
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
         <h3 class="featurette-heading">2025-26 Rams<br><span class="text-muted">November 2025 -- Ice Hutch, Mount Vernon, NY</span></h3>
