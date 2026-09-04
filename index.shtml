@@ -141,9 +141,9 @@ h3{
           </div-->
 
         <div class="round-border">
-          <h3>Empire Standings</h3>
-             <p>View Current Stats and Standings for the Empire Conference.</p>
-             <p><a class="btn btn-secondary" href="https://www.echchockey.com/stats#/1803/standings?division_id=40411&render=division" role="button" target="_blank">Go &raquo;</a></p>
+          <h3>MCHC Standings</h3>
+             <p>View Current Stats and Standings for the Metropolitan Collegiate Hockey Conference.</p>
+             <p><a class="btn btn-secondary" href="https://www.methockey.com/standings/index.shtml" role="button" target="_blank">Go &raquo;</a></p>
         </div>
 
         <div class="round-border">
